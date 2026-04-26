@@ -4,6 +4,9 @@
 # Claude Code 本地配置
 .claude/
 
+# 打包后的技能文件（由源码生成）
+wow-translation.skill
+
 # Python 缓存
 __pycache__/
 *.pyc
