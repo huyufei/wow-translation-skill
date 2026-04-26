@@ -1,0 +1,21 @@
+# 样本文件（可选上传）
+# samples/
+
+# Claude Code 本地配置
+.claude/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# OS 文件
+.DS_Store
+Thumbs.db

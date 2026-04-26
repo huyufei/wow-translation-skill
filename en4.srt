@@ -1,0 +1,1039 @@
+1
+00:00:00,000 --> 00:00:04,900
+Hey what's going on guys Spagette here welcome back to a brand new Elemental Shaman guide for
+
+2
+00:00:04,900 --> 00:00:10,300
+patch 11.0.5. It's been amazing to see my community grow and I can't thank you enough
+
+3
+00:00:10,300 --> 00:00:15,080
+for the incredible support. Quick shout out to my discord channel where you can join and snag
+
+4
+00:00:15,080 --> 00:00:20,220
+all my custom Elemental Shaman weak auras by checking out the wow general section. They're
+
+5
+00:00:20,220 --> 00:00:25,420
+going to be pinned in that chat so make sure to check it out if you're interested in snagging
+
+6
+00:00:25,420 --> 00:00:29,580
+those weak auras. In this guide I'm going to be breaking down exactly how I have been finding
+
+7
+00:00:29,580 --> 00:00:37,320
+success with elemental shaman in patch 11.0.5 from different talent loadouts to gearing and my burst
+
+8
+00:00:37,320 --> 00:00:42,360
+rotation I'm going to be covering the most impactful changes that have been made to Ellie
+
+9
+00:00:42,360 --> 00:00:48,740
+during this rework. So without further ado guys let's just jump right into it starting with our
+
+10
+00:00:48,740 --> 00:00:53,840
+stat priority. The biggest changes that have come through from stat priority from the last patch
+
+11
+00:00:53,840 --> 00:00:59,820
+has actually been a shift away from Pritz and we're deeply going into Mastery now.
+
+12
+00:01:00,260 --> 00:01:05,280
+Mastery suddenly became our best stat when Ascendance got reworked to directly now scale
+
+13
+00:01:05,280 --> 00:01:09,720
+from Mastery and then also it buffs our Mastery whenever we're in Ascendance because it gives us
+
+14
+00:01:09,720 --> 00:01:14,980
+a chance to proc three copies of a spell as instead of just the two whenever we're out of
+
+15
+00:01:14,980 --> 00:01:20,800
+Ascendance. So we're definitely going into Mastery more and then also not only is it giving us this
+
+16
+00:01:20,800 --> 00:01:27,480
+duplicate spell we're also getting a flat damage increase on all of our elemental damage also very
+
+17
+00:01:27,480 --> 00:01:33,300
+nice we're moving away from haste which i think is completely okay because we have haste coming
+
+18
+00:01:33,300 --> 00:01:39,860
+from a lot of avenues when it comes to our talents we have haste coming from whenever we're in
+
+19
+00:01:39,860 --> 00:01:45,480
+ascendance and also haste coming from splintered elements we also have haste coming from sometimes
+
+20
+00:01:45,480 --> 00:01:51,140
+from our weapon proc. We also have haste coming from our pvp talent, bloodlust or heroism depending
+
+21
+00:01:51,140 --> 00:01:56,000
+on what faction you are. I'm on horde on this character so I get the bloodlust. First off guys
+
+22
+00:01:56,000 --> 00:02:00,380
+I want to start off by covering all the different changes that have been coming through to elemental
+
+23
+00:02:00,380 --> 00:02:05,600
+shaman in this anniversary patch. As you can tell the right side of our tree has been completely
+
+24
+00:02:05,600 --> 00:02:11,840
+jumbled up. We have talents that we didn't have access to or we didn't have in the last patch
+
+25
+00:02:11,840 --> 00:02:17,440
+but they are welcome additions and I'll quickly go over them. So before we weren't actually able
+
+26
+00:02:17,440 --> 00:02:23,300
+to get Stormkeeper without losing out on too many talents for our lava build but thankfully now we
+
+27
+00:02:23,300 --> 00:02:28,940
+actually are able to pick up Stormkeeper relatively easily now giving up that skill expression that we
+
+28
+00:02:28,940 --> 00:02:33,620
+were kind of lacking before. We lost one of our favorite talents called Skybreaker's Fiery Demise
+
+29
+00:02:33,620 --> 00:02:40,280
+that was a talent that basically helped you have fire elemental out a lot more often but it's okay
+
+30
+00:02:40,280 --> 00:02:46,480
+because we picked up a new talent that's kind of buffing our lava bursts. So erupting lava,
+
+31
+00:02:46,800 --> 00:02:52,540
+this is the new talent. Whenever you hit someone with a lava burst, they have flame shock on them
+
+32
+00:02:52,540 --> 00:02:56,660
+already. They're going to be taking a little bit of extra damage and your flame shock's duration
+
+33
+00:02:56,660 --> 00:03:01,780
+is going to be going down by a little bit. So it's just extra damage on your lava burst. This
+
+34
+00:03:01,780 --> 00:03:07,540
+is also affected by your ancestors lava burst. So it quickly stacks up to a lot of damage.
+
+35
+00:03:07,540 --> 00:03:13,180
+probably the biggest change to elemental shaman in this new patch is actually coming from their
+
+36
+00:03:13,180 --> 00:03:19,480
+rework to ascendance ascendance is now basically a real cd it's pretty scary whenever you pop this
+
+37
+00:03:19,480 --> 00:03:25,560
+for the enemy team they have to definitely respect whenever you press this talent if you're bursting
+
+38
+00:03:25,560 --> 00:03:32,160
+properly basically what it does now it increases the damage of your overload so that's the copy
+
+39
+00:03:32,160 --> 00:03:38,200
+of your spells from your mastery it's increasing the damage of it and then it's also giving you
+
+40
+00:03:38,200 --> 00:03:43,180
+a chance for your obelisk to proc one additional time so while you're out of ascendance lava burst
+
+41
+00:03:43,180 --> 00:03:47,780
+is only going to be able to duplicate itself one additional time but when you're in ascendance
+
+42
+00:03:47,780 --> 00:03:54,580
+you could actually hit one lava burst and it hits three times very nice change making it very scary
+
+43
+00:03:54,580 --> 00:03:59,800
+you have to actually really watch out whenever an ellie goes into an ascendance proc or whenever
+
+44
+00:03:59,800 --> 00:04:05,320
+an le presses ascendance definitely watch out and maybe pop a defensive or los them for a little bit
+
+45
+00:04:05,320 --> 00:04:11,980
+maybe cc chain them to stop the burst fun interaction that you kind of see with ascendance
+
+46
+00:04:11,980 --> 00:04:17,959
+and stormkeeper is that whenever you dump your free stormkeeper lightning bolts while you're in
+
+47
+00:04:17,959 --> 00:04:23,780
+ascendance instead of hitting two times it's actually going to be hitting a total of three
+
+48
+00:04:23,780 --> 00:04:29,020
+times and you're going to have the increased damage from ascendance so ideally you're going
+
+49
+00:04:29,020 --> 00:04:33,980
+be wanting to Stormkeeper Lightning Bolt while you're in Ascendance because they're going to be
+
+50
+00:04:33,980 --> 00:04:39,660
+hitting harder and they're going to be hitting an extra time. Another change that has been implemented
+
+51
+00:04:39,660 --> 00:04:45,600
+to Ellie is actually Deeply Rooted Elements. This talent used to proc off Lava Burst but now it is
+
+52
+00:04:45,600 --> 00:04:50,760
+actually proccing from your Earthshocks. Still proccing about seven percent of the time every
+
+53
+00:04:50,760 --> 00:04:57,320
+time you press the actual button itself. It's no longer proccing from Lava Burst it's proccing from
+
+54
+00:04:57,320 --> 00:05:03,740
+your earth shocks a new talent that's actually pretty crucial to our build is actually mountains
+
+55
+00:05:03,740 --> 00:05:09,580
+will fall actually predicted this talent would be good if we started going more mastery in the beta
+
+56
+00:05:09,580 --> 00:05:15,200
+and thankfully i guess we ended up going more mastery because it reworked deeply rooted elements
+
+57
+00:05:15,200 --> 00:05:19,660
+and now mountains will fall is actually a worthwhile talent for us to pick up i'm not
+
+58
+00:05:19,660 --> 00:05:25,680
+exactly 100 sure how this interacts with ascendance but from reading it it does seem like
+
+59
+00:05:25,680 --> 00:05:31,800
+you're going to be able to overload your earth shocks an extra time while you're in ascendance
+
+60
+00:05:31,800 --> 00:05:37,680
+so it could have have the chance of hitting like three times so definitely want to be dumping as
+
+61
+00:05:37,680 --> 00:05:43,820
+many earth shocks while you're in ascendance as possible so i kind of want to talk on my philosophy
+
+62
+00:05:43,820 --> 00:05:50,760
+and what i'm going for in my farseer tree before when i was running haste i was running actually
+
+63
+00:05:50,760 --> 00:05:56,200
+routine communication and then also ancient fellowship just making it so that i can dump
+
+64
+00:05:56,200 --> 00:06:03,280
+as many earth sharks as i can while my ancestors are out but i'm actually finding it harder to run
+
+65
+00:06:03,280 --> 00:06:09,600
+with really short ancestors with a low amount of haste so i'm actually going for the increased
+
+66
+00:06:09,600 --> 00:06:15,960
+duration of our ancestors making them last longer giving me an extra four seconds to dump all of my
+
+67
+00:06:15,960 --> 00:06:21,760
+maelstrom while my ancestors are out and not only that they're also doing an extra 20% more damage
+
+68
+00:06:21,760 --> 00:06:27,480
+so that that's a really nice change and I like this way more than the shorter ancestors at least
+
+69
+00:06:27,480 --> 00:06:33,460
+for the time being because we have this low haste. With short ancestors you kind of need an extra just
+
+70
+00:06:33,460 --> 00:06:40,000
+a baseline level of haste to be able to dump out all your maelstrom bar with your ancestors out.
+
+71
+00:06:40,180 --> 00:06:45,140
+I quickly want to touch on this choice node rather important and I think it changes depending
+
+72
+00:06:45,140 --> 00:06:51,140
+whether you're in 3v3 combat or in a shuffle game. I believe that First Ascendant will probably be
+
+73
+00:06:51,140 --> 00:06:59,700
+the meta in solo shuffle but Premonissance is probably really good in 3v3 and just in longer
+
+74
+00:06:59,700 --> 00:07:06,700
+games in general. This talent makes your ascendance even scarier basically giving you 20%
+
+75
+00:07:06,700 --> 00:07:13,760
+haste when you're in it so it makes it really nice. The downside with First Ascendant is that
+
+76
+00:07:13,760 --> 00:07:21,780
+you don't get that extra 20% haste but you do have two minute ascendance so that is rather nice
+
+77
+00:07:21,780 --> 00:07:28,340
+for shuffle because in shuffle the meta is very fast paced you're trying to pop all your cds as
+
+78
+00:07:28,340 --> 00:07:35,320
+fast as possible and having that 60 second cdr on your ascendance can actually maybe win you some
+
+79
+00:07:35,320 --> 00:07:41,500
+rounds that you probably shouldn't have so i've been kind of dabbling with first ascendant but i
+
+80
+00:07:41,500 --> 00:07:47,580
+really do like the haste that you get whenever you go into an ascendance proc because not only
+
+81
+00:07:47,580 --> 00:07:54,200
+do you get that 20% haste whenever you pop regular ascendance but you also get that 20%
+
+82
+00:07:54,200 --> 00:07:59,540
+haste whenever you get an ascendance proc from deeply rooted elements so it makes your ascendance
+
+83
+00:07:59,540 --> 00:08:06,180
+proc a lot scarier and I really like this uh primanescence talent as opposed to first ascendance
+
+84
+00:08:06,180 --> 00:08:10,300
+but first ascendant has that those benefits in shuffle I want to touch on the shaman side of
+
+85
+00:08:10,300 --> 00:08:15,740
+tree guys really quick. I've been playing rather aggressively on my shaman, dropping healing streams
+
+86
+00:08:15,740 --> 00:08:22,460
+some games, picking up traveling storms which makes my t-storm a lot scarier, lets me price it
+
+87
+00:08:22,460 --> 00:08:28,840
+on my teammates, also knocks people back 25% more so it's a very nice talent to maybe set up some
+
+88
+00:08:28,840 --> 00:08:35,659
+kills, knocking the enemy dps out of los of their healer or maybe knocking the healer really far
+
+89
+00:08:35,659 --> 00:08:41,780
+away and then rooting them. Traveling Storms has been a nice addition to kind of what I've been
+
+90
+00:08:41,780 --> 00:08:46,420
+running on. Unfortunately I dropped Healing Stream but it's not really healing for a crazy amount
+
+91
+00:08:46,420 --> 00:08:51,420
+this patch guys unfortunately and it's also like an extra button that you have to press so I've
+
+92
+00:08:51,420 --> 00:08:57,420
+been really liking just playing Traveling Storms. If I'm ever going against someone that I need to
+
+93
+00:08:57,420 --> 00:09:03,280
+play Decurse for I might drop Totemic Focus for it and then pick up Planned Spirit. Totemic Focus
+
+94
+00:09:03,280 --> 00:09:09,380
+is still one of those talents that you can move around but alternatively you could also drop
+
+95
+00:09:09,380 --> 00:09:16,160
+traveling storms and then still have totemic focus you could also drop totemic focus pick up short
+
+96
+00:09:16,160 --> 00:09:23,280
+hex depending on if the enemy team has a decurse or not if you're going against a shadow play or a
+
+97
+00:09:23,280 --> 00:09:29,780
+dk or maybe a dh with a shadow priest or warlock basically anything that does shadow damage guys
+
+98
+00:09:29,780 --> 00:09:34,760
+You're gonna want to pick up season wins and then just and then spam kick the shadow DPS over and over again
+
+99
+00:09:35,260 --> 00:09:37,260
+Giving you a 30% wall
+
+100
+00:09:38,120 --> 00:09:44,720
+Basically the whole time to all your damage guys. They nerfed poison cleansing totem. They made it a two minute cooldown
+
+101
+00:09:44,960 --> 00:09:49,720
+This used to be only like 45 seconds. They matched up perfectly with Shiv
+
+102
+00:09:49,900 --> 00:09:54,100
+So you're actually able to poison cleansing every Shiv now
+
+103
+00:09:54,100 --> 00:10:15,520
+Now it's way longer of a CD but it's still worth using guys. This change actually came through because of a PvE change that they needed to make. But unfortunately it really impacts us in PvP. Acerogues kind of run over Elis and the fact that they're nerfing our one counterplay to it is kind of lame but it's all good.
+
+104
+00:10:15,520 --> 00:10:20,080
+I don't know like maybe Ellie is just meant to lose to Asa Rogue and Blizzard thinks that.
+
+105
+00:10:20,960 --> 00:10:27,920
+So they're really nerfing us with this PVE change but it is all good. We will still persevere.
+
+106
+00:10:27,920 --> 00:10:31,760
+Our damage thankfully has been buffed this patch so not the end of the world.
+
+107
+00:10:32,320 --> 00:10:39,120
+A nice talent that I've actually been picking up against almost every caster and Feral Druid
+
+108
+00:10:39,120 --> 00:10:46,560
+hunter team is actually totemic recall being able to double ground has been very nice and then also
+
+109
+00:10:46,560 --> 00:10:55,040
+being able to reset your tremor is very nice because it basically gives you more tools and
+
+110
+00:10:55,040 --> 00:11:01,600
+then more counter play to getting your healer out of cc then also stopping their damage so definitely
+
+111
+00:11:01,600 --> 00:11:08,960
+pick up totemic recall and look out for resetting your grounding totem or resetting your tremor
+
+112
+00:11:08,960 --> 00:11:13,260
+totem it all depends on the comp that you're going against and what's happening in the game
+
+113
+00:11:13,260 --> 00:11:17,980
+most of the time the most value that you're going to get is actually from resetting grounds but you
+
+114
+00:11:17,980 --> 00:11:23,540
+might get some value from resetting tremor totem if you're going against a priest or maybe a dev
+
+115
+00:11:23,540 --> 00:11:29,260
+voker your healer got slept they're getting slept a lot that game definitely reset your tremor to
+
+116
+00:11:29,260 --> 00:11:34,280
+make it so that they can get out of cc even more when it comes to the rest of the tree guys this
+
+117
+00:11:34,280 --> 00:11:41,620
+is kind of like my baseline i do like taking the big knock baseline but it is my first talent that
+
+118
+00:11:41,620 --> 00:11:46,540
+i kind of like switch around the next talent that i kind of switch around next floating talent is
+
+119
+00:11:46,540 --> 00:11:51,780
+going to be totemic focus those two are kind of ones that we can move anywhere if we're going
+
+120
+00:11:51,780 --> 00:11:56,920
+against a shadow play definitely pick up plan spirit maybe season wins but yeah that's pretty
+
+121
+00:11:56,920 --> 00:12:02,380
+much it guys my baseline always going to be a mixture of these talents so definitely try these
+
+122
+00:12:02,380 --> 00:12:06,960
+talents and let me know what you guys think. Since we're no longer playing final elementalists
+
+123
+00:12:06,960 --> 00:12:13,020
+it's actually nice to sometimes play capacitor totem and shuffle maybe but I've actually been
+
+124
+00:12:13,020 --> 00:12:19,860
+finding capacitor totem to have way too long of a cd and also I'm moving around my totems already
+
+125
+00:12:19,860 --> 00:12:26,120
+with totemic projection I'm constantly moving around my totem of wrath and then also my
+
+126
+00:12:26,120 --> 00:12:31,960
+grounding totem making them really hard to kill so I don't find myself not really having the
+
+127
+00:12:31,960 --> 00:12:37,720
+cool down for totemic projection sometimes for my capacitor totem so i'm really relying on my
+
+128
+00:12:37,720 --> 00:12:43,480
+teammates stuns i don't have unfortunately earth ellie stun anymore i love that thing guys i loved
+
+129
+00:12:43,480 --> 00:12:51,060
+earth ellie stun rip uh but i can't really go for it anymore without losing too much so it is what
+
+130
+00:12:51,060 --> 00:12:55,760
+it is all righty guys i want to quickly cover all of the different gear pieces that i've been
+
+131
+00:12:55,760 --> 00:13:03,100
+getting so far in this new rework. I don't have this Ellie fully geared out yet. None of my Ellie's
+
+132
+00:13:03,100 --> 00:13:08,860
+have been completely transitioned to a full mastery build unfortunately but this is the
+
+133
+00:13:08,860 --> 00:13:16,180
+closest I have. I basically have full mastery on all of my gear pieces that I can have it mastery
+
+134
+00:13:16,180 --> 00:13:22,000
+on. Like I'm going to be looking to replace some of my tier pieces as well. I'm probably looking
+
+135
+00:13:22,000 --> 00:13:27,300
+to pick up the helmet whenever I get the chance but at the moment I actually haven't been able to
+
+136
+00:13:27,300 --> 00:13:33,860
+switch it over just yet because we're still in that conquest cap period so we're still missing
+
+137
+00:13:33,860 --> 00:13:39,400
+a couple of pieces here but you're still able to check out my embellishments my enchants and then
+
+138
+00:13:39,400 --> 00:13:47,730
+also the gems that I've been kind of going for we're actually looking at playing our badge
+
+139
+00:13:47,730 --> 00:13:54,110
+trinket this patch feels really nice to have your ascendant's proc with it whenever we do get fully
+
+140
+00:13:54,110 --> 00:13:58,950
+geared guys we might actually end up using the insignia trinket but for right now i'm testing
+
+141
+00:13:58,950 --> 00:14:04,430
+out the badge because we're looking at really bursting as much as we can while we have the
+
+142
+00:14:04,430 --> 00:14:09,030
+our ascendance up but in the future whenever we are fully geared we're going to be losing
+
+143
+00:14:09,030 --> 00:14:15,790
+out on the haste from this belt so we might actually end up switching back to the insignia
+
+144
+00:14:15,790 --> 00:14:20,530
+the conquest insignia just so that we have that the bare bones minimum amount of haste that we
+
+145
+00:14:20,530 --> 00:14:26,850
+can maybe need for having enough flame shock ticks to get out there. Right now we're operating
+
+146
+00:14:26,850 --> 00:14:34,000
+at a very low amount of haste having 1.6 flame shock tick. If I get rid of this trinket which I
+
+147
+00:14:34,000 --> 00:14:39,600
+will be doing if I were to upgrade this to a purple piece it will no longer be giving me haste
+
+148
+00:14:39,600 --> 00:14:45,540
+it's going to be giving me fritz. If I flame shock them again we're going to be at 1.7 which is
+
+149
+00:14:45,540 --> 00:14:52,680
+really really really slow I want to say it's not the most optimal but I'll do
+
+150
+00:14:52,680 --> 00:14:56,980
+more testing and if you're want to keep up to date definitely come through and
+
+151
+00:14:56,980 --> 00:15:01,980
+check out the stream I'll make sure to keep testing though and let you guys know
+
+152
+00:15:01,980 --> 00:15:07,620
+whenever I do come to a decision whether the insignia is better or the badge is
+
+153
+00:15:07,620 --> 00:15:13,260
+better so far I'm looking at the badge but could change once I upgrade to
+
+154
+00:15:13,260 --> 00:15:19,000
+conquest so we're actually looking at running precog as our meta gem before we're actually
+
+155
+00:15:19,000 --> 00:15:24,700
+running the five percent damage reduction meta gem whenever we get stunned but i'm actually
+
+156
+00:15:24,700 --> 00:15:30,640
+really liking precog now because we have to do a little bit more casting with stormkeeper and then
+
+157
+00:15:30,640 --> 00:15:37,200
+also hex and then just different spells lava burst while you're in ascendant lava burst are doing a
+
+158
+00:15:37,200 --> 00:15:42,720
+shitload of damage so if you're able to get a couple casts off it's very nice and it will
+
+159
+00:15:42,720 --> 00:15:48,160
+increase your damage by a lot so i quickly want to touch on comps and what i have been running
+
+160
+00:15:48,160 --> 00:15:53,780
+going into this new patch and just in general this expansion what i've been running and the
+
+161
+00:15:53,780 --> 00:16:00,300
+different tests that i have ran with ellie so far thunder has been feeling really nice to play
+
+162
+00:16:00,300 --> 00:16:04,160
+especially with a bunch of the changes that have been coming through to warrior definitely
+
+163
+00:16:04,160 --> 00:16:09,780
+increasing the damage that they do making them a little bit more meta in this anniversary patch
+
+164
+00:16:09,780 --> 00:16:14,300
+But nice solid rule for some when it comes to making comps with Ellie.
+
+165
+00:16:14,440 --> 00:16:19,080
+It's just pairing it with the highest performing DPS at the time.
+
+166
+00:16:19,240 --> 00:16:24,340
+So if let's say Warlock is performing really good, you probably want to play with a Warlock.
+
+167
+00:16:24,820 --> 00:16:29,120
+But if let's say Warrior is performing really good, you're probably going to want to play with a Warrior.
+
+168
+00:16:29,580 --> 00:16:33,260
+Ellie really changes drastically depending on balancing.
+
+169
+00:16:33,500 --> 00:16:37,680
+But my favorite comp so far to run this expansion has been Thunder.
+
+170
+00:16:37,680 --> 00:16:47,460
+Thunder has been so fun to run. The amount of pressure that we have and then just the ability that I have to control the game based on my positioning just feels really nice.
+
+171
+00:16:47,680 --> 00:16:50,260
+So that's kind of what I've been running most of the time.
+
+172
+00:16:50,420 --> 00:16:58,960
+So guys, I quickly want to have a macro section of this video where I go over all of the different macros that I'm running in this new expansion.
+
+173
+00:16:58,960 --> 00:17:03,840
+I'm also going to be pasting them in a pastebin down below so if you want to check those out
+
+174
+00:17:03,840 --> 00:17:08,680
+and maybe snag them be sure to check out the description.
+
+175
+00:17:08,680 --> 00:17:11,920
+So first things first guys I actually want to cover my wall macro.
+
+176
+00:17:11,920 --> 00:17:15,819
+This allows me to press wall even though I'm casting something.
+
+177
+00:17:15,819 --> 00:17:18,839
+It feels really nice, makes it more consistent.
+
+178
+00:17:18,839 --> 00:17:24,520
+If you don't have this macro you're going to be casting something, you want to hit wall
+
+179
+00:17:24,520 --> 00:17:27,300
+right away and it will not cancel.
+
+180
+00:17:27,300 --> 00:17:29,640
+So this helps you with that.
+
+181
+00:17:30,240 --> 00:17:35,380
+I have a focus frost shock macro to slow the enemy team effectively.
+
+182
+00:17:35,900 --> 00:17:37,920
+I don't have to switch targets to do this.
+
+183
+00:17:38,180 --> 00:17:40,180
+So a good time to probably press this.
+
+184
+00:17:40,320 --> 00:17:45,640
+And one of the only times that I do press this is whenever a priest is running in at my healer trying to fear them.
+
+185
+00:17:45,640 --> 00:17:48,920
+I have usually the healer on focus target.
+
+186
+00:17:49,140 --> 00:17:52,360
+So I'm able to quickly focus frost shock them.
+
+187
+00:17:52,360 --> 00:18:04,100
+So this is very, very nice to help my healer kite, and then also helping me kite if, let's say, I'm doing damage to one DPS, but I'm kiting the other.
+
+188
+00:18:04,680 --> 00:18:09,680
+I want to have this being able to be applied to them so that I'm actually able to effectively kite them.
+
+189
+00:18:10,040 --> 00:18:18,700
+I just have this macro in for right now, but this macro is not as important right now because we don't play Primal Elementalist.
+
+190
+00:18:18,700 --> 00:18:22,060
+I have a at cursor liquid magma totem.
+
+191
+00:18:22,520 --> 00:18:28,780
+Basically drops liquid magma totem at my cursor, making it really easy for me to get it out.
+
+192
+00:18:29,060 --> 00:18:31,440
+I don't have to press it and then press it again.
+
+193
+00:18:31,760 --> 00:18:33,400
+It's just a quick one and done.
+
+194
+00:18:33,780 --> 00:18:36,760
+All right, you guys, so I quickly want to finish covering my one shot macro.
+
+195
+00:18:37,520 --> 00:18:41,100
+You only really want to press this when you have a full maelstrom bar or close to it.
+
+196
+00:18:41,360 --> 00:18:43,920
+So you can dump as many air shocks as possible.
+
+197
+00:18:44,400 --> 00:18:47,360
+Remember, this also drops down totem of wrath.
+
+198
+00:18:47,360 --> 00:18:53,940
+so whenever you do end up pressing it I have totemic projection actually macroed to it so
+
+199
+00:18:53,940 --> 00:19:00,640
+I'm able to quickly move over my sky fury totem or totem of wrath behind the pillar so that I can
+
+200
+00:19:00,640 --> 00:19:07,360
+stay within its range and have it not die right away. I also have a mouse over earth shield macro
+
+201
+00:19:07,360 --> 00:19:14,420
+to allow me to quickly give myself or my teammates earth shield. I have a focus hex,
+
+202
+00:19:14,420 --> 00:19:18,610
+I have a focus purge, I have a focus shear.
+
+203
+00:19:18,610 --> 00:19:24,510
+I also have the same type of macro into my grounding totem.
+
+204
+00:19:24,510 --> 00:19:29,570
+I'm able to press grounding and then quickly move it behind the pillar so that it doesn't
+
+205
+00:19:29,570 --> 00:19:32,470
+die and people are not able to kill it.
+
+206
+00:19:32,470 --> 00:19:36,550
+Also it's really good to press versus feral druids.
+
+207
+00:19:36,550 --> 00:19:41,090
+If you quickly move the grounding over they're not going to be able to kill it and that's
+
+208
+00:19:41,090 --> 00:19:43,410
+like what they want to do so they can clone.
+
+209
+00:19:43,410 --> 00:19:46,410
+This is actually something I learned from Prev, so shout out to him.
+
+210
+00:19:46,590 --> 00:19:47,930
+That's 1, 2, 3 macros.
+
+211
+00:19:48,350 --> 00:19:50,730
+I have a dynamic macro for my healing surge.
+
+212
+00:19:51,130 --> 00:19:53,370
+I have a mouse over thunderstorm macro.
+
+213
+00:19:53,750 --> 00:19:56,310
+I have a mouse over flame shock macro sometimes.
+
+214
+00:19:56,470 --> 00:19:58,670
+I'm trying to still implement this into my play.
+
+215
+00:19:58,930 --> 00:20:03,030
+I have a mouse over primordial wave macro, but I'm still not really using this.
+
+216
+00:20:03,110 --> 00:20:05,870
+I need to still get better at this for sure.
+
+217
+00:20:06,190 --> 00:20:08,930
+And then I have stop casting on my tremor totem.
+
+218
+00:20:08,930 --> 00:20:11,630
+I also play with a mouse over bloodlust macro.
+
+219
+00:20:12,050 --> 00:20:13,110
+And that's pretty much it, guys.
+
+220
+00:20:13,110 --> 00:20:20,110
+Alright, here we go. Going straight into the match. I'm trying to dot up everyone on their team.
+
+221
+00:20:20,110 --> 00:20:25,110
+Currently waiting for the BM hunter to come out of stealth to instantly magma-toad him.
+
+222
+00:20:25,110 --> 00:20:29,270
+Then I'm setting up, just grounding all of the Ellie's things.
+
+223
+00:20:29,270 --> 00:20:32,270
+Kind of playing a little bit defensive at the start of this round.
+
+224
+00:20:32,270 --> 00:20:34,680
+Doing double grounds.
+
+225
+00:20:34,680 --> 00:20:40,910
+Here we go, I start popping all of my offensive CDs after dotting all the pets and the healer.
+
+226
+00:20:40,910 --> 00:20:43,270
+Healer dispels himself and starts lining me for a second.
+
+227
+00:20:43,510 --> 00:20:45,510
+I don't actually get Flameshock up right away.
+
+228
+00:20:46,540 --> 00:20:49,800
+Then he dispels his Hunter, so I go for Flameshock on him.
+
+229
+00:20:50,260 --> 00:20:53,400
+Probably should have Liquid Magma Totems the Healer at this point.
+
+230
+00:20:53,960 --> 00:20:54,480
+Or the Ellie.
+
+231
+00:20:57,400 --> 00:20:58,420
+There we go. Got it.
+
+232
+00:20:59,710 --> 00:21:02,450
+Now we're going for a Ground on the trap.
+
+233
+00:21:02,550 --> 00:21:03,530
+Unfortunately, I miss it.
+
+234
+00:21:04,370 --> 00:21:05,550
+So we're just playing a little defensive.
+
+235
+00:21:05,690 --> 00:21:06,470
+My Warrior heads to wall.
+
+236
+00:21:06,970 --> 00:21:07,550
+Shove our CD.
+
+237
+00:21:07,990 --> 00:21:09,150
+I kill all his Totems.
+
+238
+00:21:09,910 --> 00:21:12,130
+I think my Warrior actually got the Totem of Wrath.
+
+239
+00:21:12,890 --> 00:21:13,390
+Kudos to him.
+
+240
+00:21:13,390 --> 00:21:17,390
+My healer gets a Hodge on his healer, forced to use Trinket Bop.
+
+241
+00:21:17,390 --> 00:21:21,890
+I purge it instantly, and I kick this Hering Glare. I root him behind the pillar.
+
+242
+00:21:21,890 --> 00:21:26,890
+Forces him to use Freedom on himself. The Ellie's on orb. He has no defensive CDs.
+
+243
+00:21:26,890 --> 00:21:29,890
+He heroes himself, but his healer's in a hex.
+
+244
+00:21:29,890 --> 00:21:32,390
+Forced to bubble, and he's dead.
+
+245
+00:21:32,390 --> 00:21:35,890
+That game went pretty well. You're not going to do that much damage every game.
+
+246
+00:21:35,890 --> 00:21:41,890
+Thankfully it was a BM hunter, but that's just one game where you're able to really take advantage,
+
+247
+00:21:41,890 --> 00:21:44,430
+stop the pets, and do the most damage possible.
+
+248
+00:21:46,050 --> 00:21:49,490
+So I really like the way that I set up my damage here to kill this warlock.
+
+249
+00:21:50,070 --> 00:21:51,710
+So I really want to show you guys.
+
+250
+00:21:52,330 --> 00:21:53,790
+Here I press my Primordial Wave,
+
+251
+00:21:53,970 --> 00:21:56,850
+and then thankfully I get a proc on my first Earthshock.
+
+252
+00:21:56,950 --> 00:22:00,470
+As soon as I Primordial Wave, I send my Stormkeeper Lightning Bolt
+
+253
+00:22:00,470 --> 00:22:03,670
+with the Ascendant's proc, because they're going to be hitting six times.
+
+254
+00:22:04,510 --> 00:22:08,710
+And then I send the rest of my Maelstrom Bar into that warlock,
+
+255
+00:22:09,210 --> 00:22:11,110
+thankfully securing the kill.
+
+256
+00:22:11,110 --> 00:22:17,430
+That wraps up today's Elemental Shaman guide. I hope you enjoyed it. Don't forget to hit that
+
+257
+00:22:17,430 --> 00:22:22,730
+subscribe button. There's plenty of more content on the way and if you want to catch some action
+
+258
+00:22:22,730 --> 00:22:28,670
+live make sure to follow me on Twitch. Also if you have any questions or want to connect with me
+
+259
+00:22:28,670 --> 00:22:34,370
+or the community feel free to join us on Discord. It's a great place to get tips and share some
+
+260
+00:22:34,370 --> 00:22:40,210
+feedback, hang out with other players. Once again thank you for watching and I'll see you in the next one.

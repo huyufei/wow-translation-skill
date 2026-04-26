@@ -1,0 +1,1519 @@
+1
+00:00:00,000 --> 00:00:04,140
+Hello guys how's it going my name is DL and ever since the launch of the war within expansion
+
+2
+00:00:04,140 --> 00:00:09,320
+we've been releasing rogue guides for season 1 and there are even an updated version of these
+
+3
+00:00:09,320 --> 00:00:14,840
+guides for the patch 11.05 which brought with it quite a number of class changes. While on the
+
+4
+00:00:14,840 --> 00:00:19,600
+channel the guides have mostly been focused on pve content i still do enjoy playing my out the rogue
+
+5
+00:00:19,600 --> 00:00:24,400
+within pvp specifically and while the spec didn't really have a really good start at the start of
+
+6
+00:00:24,400 --> 00:00:30,580
+season one ever since 1105 it has blown up in popularity performing way above the rest in terms
+
+7
+00:00:30,580 --> 00:00:36,920
+of pvp whether it is the solo shuffle or bg blitz battlegrounds and the spec is an absolute monster
+
+8
+00:00:36,920 --> 00:00:40,720
+right now so if you've ever wanted to get into the class of rogue especially with the spec of outlaw
+
+9
+00:00:40,720 --> 00:00:45,380
+now would be the perfect time to dive right into it especially with them on capping caucas capping
+
+10
+00:00:45,380 --> 00:00:50,360
+and making it much much easier for you to gear out all of your alts so i wanted to put together a
+
+11
+00:00:50,360 --> 00:00:55,000
+quick pvp guide to get you started playing out of the rogue within the rest of the season one of the
+
+12
+00:00:55,000 --> 00:00:59,780
+war with an expansion and trust me this spec is incredibly fun it's so much more powerful than
+
+13
+00:00:59,780 --> 00:01:03,660
+it ever has been as always if you want to see more war within guides on the channel be sure to follow
+
+14
+00:01:03,660 --> 00:01:11,290
+and subscribe but otherwise let's dive right in very excited to get back into some outlet pvp
+
+15
+00:01:11,290 --> 00:01:15,410
+guides because we've been waiting for a good bit ever since expansion launched this bag didn't
+
+16
+00:01:15,410 --> 00:01:20,550
+really start off on a good foot but here we are and it's in a much better spot so what is new for
+
+17
+00:01:20,550 --> 00:01:25,710
+class of rogue that really allows them to shine and be better within season one of war within a
+
+18
+00:01:25,710 --> 00:01:30,490
+handful of changes came across this update that recording the pve side of guides but i'll go over
+
+19
+00:01:30,490 --> 00:01:34,790
+this here really really quickly catch the chase basically allows you to remove slice and dice off
+
+20
+00:01:34,790 --> 00:01:38,790
+of your bars you don't have to manage slice and dice anymore so less common points for you to
+
+21
+00:01:38,790 --> 00:01:43,970
+manage which means a little bit better and easier cognitive load for things you got to manage within
+
+22
+00:01:43,970 --> 00:01:49,270
+rogue in pvp slice and dice isn't one of those things another ability that got buffed up massively
+
+23
+00:01:49,270 --> 00:01:55,930
+with a very very sad adjustments is faint which is now off the gcd faint together with talents such
+
+24
+00:01:55,930 --> 00:02:02,350
+as elusiveness grants you or rather elusiveness over here grants you a 20 damage reduction and
+
+25
+00:02:02,350 --> 00:02:07,130
+you can pre-faint a stun pre-faint a bunch of damage maintain faint at all times so this makes
+
+26
+00:02:07,130 --> 00:02:11,890
+you super super tanky as long as you have the resources for it it does mean you'll have to
+
+27
+00:02:11,890 --> 00:02:16,470
+manage faint to make sure you're not spamming it too quickly to be able to you know run out of
+
+28
+00:02:16,470 --> 00:02:20,630
+energy or burn up all the charters way too quickly but because of the cooldown reduction of out the
+
+29
+00:02:20,630 --> 00:02:24,590
+world you can technically maintain it up at all times which gives you so many new possibilities
+
+30
+00:02:24,590 --> 00:02:29,430
+of how you play defensively double grapple hook with thrill seeking is also really fun it does
+
+31
+00:02:29,430 --> 00:02:34,050
+mean you no longer have a shadow step kidney or a shadow step intro for those quick moment to moment
+
+32
+00:02:34,050 --> 00:02:38,950
+instant movement capabilities against other players but being able to grapple around a bunch
+
+33
+00:02:38,950 --> 00:02:43,610
+especially with the fade bond is insanely fun so we're trading out the surprise element for much
+
+34
+00:02:43,610 --> 00:02:48,330
+much better mobility super charge is another talent that's incredibly good that's getting a
+
+35
+00:02:48,330 --> 00:02:53,310
+lot of play but not by everybody but it has seen some uses in first situations especially if you
+
+36
+00:02:53,310 --> 00:02:58,850
+like playing around the ability of killing spree within pvp but what super charge does is it gives
+
+37
+00:02:58,850 --> 00:03:03,530
+roll the bones an extra mechanic roll the bones is usually how we manage our buffs and we roll
+
+38
+00:03:03,530 --> 00:03:08,370
+out our bad buffs but now it actually makes roll the bones a primer ability where we can use roll
+
+39
+00:03:08,370 --> 00:03:13,250
+the bones to buff up the damage of our next few finishers killing spree included which becomes
+
+40
+00:03:13,250 --> 00:03:16,630
+really really insane when it comes to the overall image and gives us an option
+
+41
+00:03:16,630 --> 00:03:21,410
+of what type of talent rows we can spec into not just going for the vigor and
+
+42
+00:03:21,410 --> 00:03:27,170
+appointed to lethality at all times. Also subterfuge as a passive talent does
+
+43
+00:03:27,170 --> 00:03:31,310
+also extend other stealth elements such as taken by surprise which grants us
+
+44
+00:03:31,310 --> 00:03:35,030
+additional haste for up to 26 seconds which means that you can have additional
+
+45
+00:03:35,030 --> 00:03:39,950
+extra raw amounts of stats just for diving into a vanish once every so often.
+
+46
+00:03:39,950 --> 00:03:43,010
+From there on though I do want to take a look at some of the different viable
+
+47
+00:03:43,010 --> 00:03:48,910
+talent options for Outlaw Rogue they are for the most part going to be ambush based builds as that
+
+48
+00:03:48,910 --> 00:03:53,950
+has been predominantly the more popular choice that allows you for better consistency more
+
+49
+00:03:53,950 --> 00:03:58,530
+powerpoint generation which means you don't have to worry about generating resource ever
+
+50
+00:03:58,530 --> 00:04:03,670
+technically there is a playstyle with keep it rolling that's kind of starting to maybe open up
+
+51
+00:04:03,670 --> 00:04:07,950
+a little bit more because it works well in terms of the rates and that translates pretty well that
+
+52
+00:04:07,950 --> 00:04:13,830
+PvE playstyle into PvP as well but for the most part I've seen predominantly most rogues are still
+
+53
+00:04:13,830 --> 00:04:19,450
+playing the hidden opportunity ambush builds which are very very comfortable to play with with PvP in
+
+54
+00:04:19,450 --> 00:04:24,070
+particular there are two variations of it as in this current one which I'll have the variations
+
+55
+00:04:24,070 --> 00:04:28,050
+of this build in the description section of the video so if you want to just pull those builds
+
+56
+00:04:28,050 --> 00:04:33,550
+specifically and you want to import them directly into your character window you can but the
+
+57
+00:04:33,550 --> 00:04:38,930
+variation of this are going to be either a energy heavy resource heavy variation with two points
+
+58
+00:04:38,930 --> 00:04:44,090
+into vigor and one point into lethality skipping out on supercharger which is kind of like the
+
+59
+00:04:44,090 --> 00:04:48,990
+baseline version of outlaw especially if you're someone who hates having to manage energy or feel
+
+60
+00:04:48,990 --> 00:04:53,950
+like you're always energy starved as rogue this is the best build to start with however there is a
+
+61
+00:04:53,950 --> 00:04:58,150
+variation of this build that i've been able to play around with as well which is goes into supercharger
+
+62
+00:04:58,150 --> 00:05:04,450
+It does give up Vigor, which is going to be a significant give on your energy and resources,
+
+63
+00:05:04,970 --> 00:05:07,130
+but it does pick up better damage with Supercharger,
+
+64
+00:05:07,270 --> 00:05:10,370
+together with Force Induction, which just amplifies the effect on Supercharger.
+
+65
+00:05:10,890 --> 00:05:13,350
+This gives you technically better burst windows,
+
+66
+00:05:13,690 --> 00:05:17,570
+but you are trading out quite a significant bit of energy loss for it.
+
+67
+00:05:17,830 --> 00:05:20,230
+So if you're someone who wants to play a more bursty variation of Rogue,
+
+68
+00:05:20,630 --> 00:05:22,530
+maybe one that's not completely fade-bound,
+
+69
+00:05:22,610 --> 00:05:25,030
+maybe one with Strixxer for like a big all-in-go,
+
+70
+00:05:25,450 --> 00:05:27,030
+that's a decent variation to work with.
+
+71
+00:05:27,030 --> 00:05:33,950
+but for the most part if you are just getting into Outlaw play the two points into Vigor and one point into Lethality Variation.
+
+72
+00:05:34,190 --> 00:05:39,630
+As for the Rogue Hero talents for the most part most players are picking up Fadebound and there's multiple reasons as to why.
+
+73
+00:05:39,970 --> 00:05:46,210
+Anytime you spend combo points as Fadebound you do either additional damage to a target or buff up the damage that you're going to be dealing afterwards
+
+74
+00:05:46,210 --> 00:05:52,630
+which means it's a very very nice option it's very very passive as the coin flips are a fantastic bit of just passive damage output.
+
+75
+00:05:52,630 --> 00:06:00,270
+You also do get four grapple hooks because every time with that survival you grapple, you can grapple a second time without the ability going on cooldown.
+
+76
+00:06:00,550 --> 00:06:04,430
+So you can have up to four grappling hooks, which gives you insane mobility.
+
+77
+00:06:04,950 --> 00:06:09,130
+Fatebound also, outside of the passive damage, does have some defensive components with Tempted Fate.
+
+78
+00:06:09,350 --> 00:06:15,750
+Basically, a critical strike chance helps reduce some of the damage that you take, which is a nice form of defensive value.
+
+79
+00:06:16,210 --> 00:06:18,490
+And Fatebound, for the most part, is the preferable option.
+
+80
+00:06:18,590 --> 00:06:22,450
+That being said, don't feel like you need to just spec it to Fatebound and stick with it.
+
+81
+00:06:22,630 --> 00:06:31,270
+Trickster is a decent option within PvP. While it doesn't see that much play in dungeons and raids, it actually has some value within PvP and you're more than welcome to experiment with it.
+
+82
+00:06:31,570 --> 00:06:40,910
+Trickster is also, for the most part, very passive with the Unseen Blade as it procs from your basic combat abilities, also making enemies take more damage from you but can also reduce the damage you take from them by a little.
+
+83
+00:06:41,330 --> 00:06:49,450
+Primary mechanic of the Trickster is to build up the damage of Flawless Form, which can buff up the damage of your finishers from Between the Eyes, Dispatches, but also Killing Spree.
+
+84
+00:06:49,450 --> 00:06:53,410
+So if you're a big fan of big bursty killing sprees Trickster might be for you.
+
+85
+00:06:53,790 --> 00:07:03,990
+Trickster does have some utility too with Don't Be Suspicious where Blind can actually have a slightly shorter cooldown and the ability of Sap can have a longer range which can make it easier for you to land crack control on enemies.
+
+86
+00:07:04,390 --> 00:07:12,450
+So Trickster has some value for the most part it hasn't gotten as popular as Fatebound but there's a lot of room to experiment within PvP content in particular.
+
+87
+00:07:12,950 --> 00:07:16,670
+Before moving off of the talents however let's quickly go over the PvP talents as well.
+
+88
+00:07:16,670 --> 00:07:20,190
+Your mandatory and kind of default PvP choice is Enduring Brawler.
+
+89
+00:07:20,610 --> 00:07:23,250
+You kind of want to put this one in and never change it out.
+
+90
+00:07:23,370 --> 00:07:27,830
+So you have at least one PvP talent slot that you almost never shift out of.
+
+91
+00:07:27,890 --> 00:07:31,870
+And hopefully in the future, Outlaw Rogues will get maybe some kind of a PvP talent refresher.
+
+92
+00:07:32,030 --> 00:07:33,510
+So we actually have a little bit more options.
+
+93
+00:07:33,630 --> 00:07:37,970
+But this one is so good because it buffs up your chances for Sinistrike to hit a second time
+
+94
+00:07:37,970 --> 00:07:41,650
+in order to allow your pistol shots to be used more regularly
+
+95
+00:07:41,650 --> 00:07:44,170
+because of the whole opportunity mechanic of Outlaw Rogue.
+
+96
+00:07:44,170 --> 00:07:48,970
+this enduro brawler not only functions for pistol shots but also for ambushes to double hit as well
+
+97
+00:07:48,970 --> 00:07:53,430
+because hidden opportunity gains all the benefits of double hitting of sinister strike so it just
+
+98
+00:07:53,430 --> 00:07:58,070
+ends up being the best performance based pvp option that everybody should have outside of that
+
+99
+00:07:58,070 --> 00:08:02,270
+there are a couple of different variations of talents that you can pick up within your slots
+
+100
+00:08:02,270 --> 00:08:07,170
+there is some flexibility like dismantle is a fantastic option when you're fighting just melee
+
+101
+00:08:07,170 --> 00:08:12,850
+classes so warriors to some degree maybe paladins but not as good for them death knights other rogues
+
+102
+00:08:12,850 --> 00:08:17,990
+dismantle is fantastic against them specifically smoke bomb is a fantastic choice especially in bg
+
+103
+00:08:17,990 --> 00:08:22,950
+blitz because it can help you capture objectives or single out an enemy or even place a defensive
+
+104
+00:08:22,950 --> 00:08:27,570
+smoke bomb on an ally there's so much viability for a smoke bomb and so many different uses in
+
+105
+00:08:27,570 --> 00:08:31,910
+big group scenarios but this one can also really work out well in pvp if let's say you don't have
+
+106
+00:08:31,910 --> 00:08:36,289
+enough crowd control when single out an enemy placing a smoke bomb on top of them making it
+
+107
+00:08:36,289 --> 00:08:40,409
+harder for the healer to get the heals into the smoke bomb can also be enough to score kills
+
+108
+00:08:40,409 --> 00:08:54,450
+Besides this, we also have abilities such as Veil of Midnight, which can give Cloak of Shadows the ability to remove harmful physical effects, great against bleeds like from a Feral Druid or from an Assassination Rogue, but also great if you're facing against a lot of melee-focused enemies.
+
+109
+00:08:54,570 --> 00:09:10,250
+Then we have talents such as Take Your Cut, which is another good option, where Roll the Bones will grant you additional haste, which means better energy regeneration, faster auto-attacks, and overall a decent damage buff not only for you, but to all allies within 15 yards, so it's a nice bit of a group-based gameplay.
+
+110
+00:09:10,410 --> 00:09:15,710
+Outside of that though, the rest of the PVP talents have some very very niche value, very very niche uses.
+
+111
+00:09:16,050 --> 00:09:21,610
+There may be some opportunity for like Thickest Thieves to work with Trickster Trade in a coordinator group,
+
+112
+00:09:21,710 --> 00:09:24,570
+or maybe Dagger in the Dark if you just want to be roaming out in the open world,
+
+113
+00:09:24,670 --> 00:09:27,830
+but for the most part, all of them have very very niche unique uses,
+
+114
+00:09:28,010 --> 00:09:35,510
+but the ones that we did mention, those are probably the most universally praised ones that are used just about all forms of PVP content.
+
+115
+00:09:35,950 --> 00:09:39,790
+Next, I want to go over how to gear your rogue for PVP, which is fairly straightforward.
+
+116
+00:09:39,790 --> 00:09:45,150
+your pvp acquiring honor or better yet conquest that is now uncapped and buy gear on pvp vendors
+
+117
+00:09:45,150 --> 00:09:49,870
+there is also some crafting you can do in order to better optimize for your stats but for the most
+
+118
+00:09:49,870 --> 00:09:55,170
+part you are going to be using agility gear from pvp vendors which is pretty easy to get it's
+
+119
+00:09:55,170 --> 00:09:59,730
+literally on all of the gear what you want to watch out for however is the secondary stats
+
+120
+00:09:59,730 --> 00:10:04,750
+versatility is going to be our best secondary stat it'll give us protection and more damage and it's
+
+121
+00:10:04,750 --> 00:10:09,610
+like the only stat that we can really utilize to deal additional damage from there we get haste
+
+122
+00:10:09,610 --> 00:10:17,090
+up to 15% maximum from gear, mostly from trinkets, as well as from rings and neck slots too,
+
+123
+00:10:17,410 --> 00:10:22,390
+so you won't really need too much haste on your pieces, just 15% within PvP minimum.
+
+124
+00:10:22,930 --> 00:10:27,110
+From there on, you can either put points into Critical Strike, which can give us more damage between the eyes,
+
+125
+00:10:27,170 --> 00:10:30,790
+but also between the eyes can crit more often, so if it does crit, it does more damage,
+
+126
+00:10:30,790 --> 00:10:35,230
+so some crit scaling, but not crazy, since crit is pretty devalued in PvP.
+
+127
+00:10:35,230 --> 00:10:47,790
+Mastery technically is okay as a stat too, not amazing, but if you are going to be playing all three specs of rogues, the Mastery of Versatility will be your best stats for Outlaw Rogue if you're looking to play Assassination and Subtlety.
+
+128
+00:10:47,790 --> 00:10:55,650
+And while it may not be the best and the most optimal stat for Outlaw, technically it is better if you're looking to play all three specs at the same time.
+
+129
+00:10:55,870 --> 00:11:03,010
+When it comes to PvP trinkets in particular, for the most part we are running the Forge Medallion, which is going to be the way that we'll be breaking out of CC.
+
+130
+00:11:03,010 --> 00:11:07,990
+but for our damage trinket, most rogues opt in for Insignia of Alacrity.
+
+131
+00:11:08,390 --> 00:11:11,890
+It grants us additional haste, which helps us reach our haste cap of 50%,
+
+132
+00:11:11,890 --> 00:11:15,930
+but also because our rogue does damage at all times, not just in burst windows,
+
+133
+00:11:16,070 --> 00:11:18,870
+we don't necessarily need to pair ourselves with a burst trinket.
+
+134
+00:11:19,090 --> 00:11:22,030
+Having a trinket that has a decent bit of optimal overall stats,
+
+135
+00:11:22,150 --> 00:11:25,130
+especially during our sustained windows, is generally the preference,
+
+136
+00:11:25,290 --> 00:11:27,310
+which is why we're going with the Insignia.
+
+137
+00:11:27,690 --> 00:11:29,690
+Now, when you're trying to optimize your rogue a little bit better,
+
+138
+00:11:29,690 --> 00:11:34,630
+you can swap out a couple of pieces with pvp gear and you want to apply some embellishments right
+
+139
+00:11:34,630 --> 00:11:38,950
+now none of the embellishments are really all that strong within the season one of war within
+
+140
+00:11:38,950 --> 00:11:44,210
+not like there were in the season for dragonflight but they still can help you inch out a little bit
+
+141
+00:11:44,210 --> 00:11:49,390
+more damage and right now based on the data that we have majority of players just usually make
+
+142
+00:11:49,390 --> 00:11:53,390
+bells or boots or any other items that don't necessarily have the stats they're looking for
+
+143
+00:11:53,390 --> 00:11:56,730
+maybe to reach certain amount of haste or maybe just get themselves more versatility
+
+144
+00:11:56,730 --> 00:12:02,150
+or mastery if they're trying to let's say optimize the gear on the conquest vendor when people do
+
+145
+00:12:02,150 --> 00:12:06,690
+create embellished items they usually put elemental focusing lens on it which simply just allows your
+
+146
+00:12:06,690 --> 00:12:11,970
+abilities or your attacks to deal additional bonus magic damage based on the gems that you have in
+
+147
+00:12:11,970 --> 00:12:16,190
+your gear it's not an incredible amount of additional damage it's just a passive little
+
+148
+00:12:16,190 --> 00:12:20,950
+bit of extra but like i said none of the other embellishments are really all that strong and
+
+149
+00:12:20,950 --> 00:12:25,970
+this is why elemental focusing lens being just a flat damage option seems to be one of the players
+
+150
+00:12:25,970 --> 00:12:29,890
+are focusing on if they are making any embellishments for their gear.
+
+151
+00:12:30,350 --> 00:12:33,910
+And as we're going over the gear, we might as well go over the enchants very, very quickly.
+
+152
+00:12:34,350 --> 00:12:38,290
+For your weapon, for the most part, you want to take the enchant of Authority of the Depths
+
+153
+00:12:38,290 --> 00:12:42,190
+for both of your weapons, which provides you with additional shatter damage to a singular target.
+
+154
+00:12:42,630 --> 00:12:47,630
+For your cloak, as well as bracers and boots, you'll mostly go with enchants to provide you
+
+155
+00:12:47,630 --> 00:12:52,770
+with additional speed. Leech and avoidance are not amazing for PvP as a stat, but speed
+
+156
+00:12:52,770 --> 00:12:56,270
+can help you quickly close the gap with a target or escape a target,
+
+157
+00:12:56,450 --> 00:13:00,030
+which can be actually pretty good when it comes to keeping up a greater offense
+
+158
+00:13:00,030 --> 00:13:02,150
+or even creating some defense for your character.
+
+159
+00:13:02,570 --> 00:13:05,570
+So speed will go with our cloaks, bracers, and boots.
+
+160
+00:13:05,890 --> 00:13:09,070
+For our chest piece, we'll go with a crystalline radiance for additional stats.
+
+161
+00:13:09,430 --> 00:13:11,710
+For our pants, we'll go with a stormbound armor kit.
+
+162
+00:13:12,010 --> 00:13:17,390
+And for ring enchant, we'll go with radiant versatility or cursed versatility
+
+163
+00:13:17,390 --> 00:13:20,610
+if you feel like you have a little bit too much haste on your gear.
+
+164
+00:13:20,610 --> 00:13:25,470
+From there I want to talk about the playstyle and the rotation of the outworld within PvP combat.
+
+165
+00:13:25,690 --> 00:13:33,050
+For the most part, if you play the spec in dungeons or raids, a lot of those lessons from PvE translate pretty well in PvP.
+
+166
+00:13:33,430 --> 00:13:40,710
+However, you don't really get to utilize craft control as aggressively within dungeons and raids, but you will be utilizing it in PvP a lot better.
+
+167
+00:13:41,030 --> 00:13:48,370
+But for the most part, PvE teaches us how to build and spend column points as efficiently as possible, and those rules still apply within PvP combat.
+
+168
+00:13:48,370 --> 00:13:52,770
+First I want to go over some of the different generators for Calm Points starting in Stealth.
+
+169
+00:13:52,770 --> 00:13:55,990
+You either have a Stealth window or you have an Out of Stealth window.
+
+170
+00:13:55,990 --> 00:14:00,090
+In Stealth our two primary Calm Point generators that are unique to Stealth are going to be
+
+171
+00:14:00,090 --> 00:14:03,510
+Cheap Shot which is an ability that allows us to crack control an enemy for a handful
+
+172
+00:14:03,510 --> 00:14:08,150
+of seconds while building a single Calm Point or Ambush which generates three Calm Points
+
+173
+00:14:08,150 --> 00:14:12,450
+so it will be the highest priority Calm Point builder for the spec of Out of the Rogue which
+
+174
+00:14:12,450 --> 00:14:17,330
+we can use in Stealth during burst windows but also Out of Stealth with the spec talent
+
+175
+00:14:17,330 --> 00:14:22,230
+of audacity where procs of pistol shot allow you to sometimes gain the ability to use ambush
+
+176
+00:14:22,230 --> 00:14:26,390
+outside of stealth and the way that you'll be able to do so it actually replaces your sinister strike
+
+177
+00:14:26,390 --> 00:14:30,950
+with an ambush so you don't necessarily need to have a new ability on your bars in order to enable
+
+178
+00:14:30,950 --> 00:14:35,830
+that free ambush you just replace your sinister strike with that ambush as for all of the different
+
+179
+00:14:35,830 --> 00:14:39,790
+common point builders outside of stealth we have the ability of sinister strike and we talked about
+
+180
+00:14:39,790 --> 00:14:44,010
+it kind of a little bit already it's a very very basic common point builder that just generates a
+
+181
+00:14:44,010 --> 00:14:49,730
+single compound point it also has a small chance to make your next pistol shot cost less and give
+
+182
+00:14:49,730 --> 00:14:54,550
+more damage besides being a very basic compound point builder sinister strike can also build you
+
+183
+00:14:54,550 --> 00:14:59,510
+additional compounds with county odds for ambush and strike and dispatch one of your base finishers
+
+184
+00:14:59,510 --> 00:15:03,310
+all have a chance to get you more roll the bones that will come into play once we talk about the
+
+185
+00:15:03,310 --> 00:15:07,930
+roll the bones mechanic in a little bit here but it is something to note since strike in i guess
+
+186
+00:15:07,930 --> 00:15:13,510
+ambush to some degree are both very very great base combat abilities pistol shot as an ability
+
+187
+00:15:13,510 --> 00:15:18,810
+you on its own isn't really ever worth casting. It generates you one combo point without any procs,
+
+188
+00:15:18,850 --> 00:15:22,910
+but when it does get the opportunity proc, it is worth pressing and becomes a higher priority
+
+189
+00:15:22,910 --> 00:15:27,670
+finisher than Sinister Strike. So if you wanted to create a priority for your finishers, Ambush
+
+190
+00:15:27,670 --> 00:15:31,530
+would be at the top, then Pistol Shot with procs would be second, and then Sinister Strike would
+
+191
+00:15:31,530 --> 00:15:35,650
+be a very rare bottom. Pistol Shots can also actually bank up multiple charges of opportunity
+
+192
+00:15:35,650 --> 00:15:39,910
+procs thanks to the talent of Fan the Hammer. When Sinister Strike, or I guess Ambush as well,
+
+193
+00:15:39,910 --> 00:15:45,150
+get strikes at additional time you gain additional stacks of opportunity allowing you to bank up all
+
+194
+00:15:45,150 --> 00:15:49,710
+of those stacks and when you do use a pistol shot it'll actually use multiple stacks every time you
+
+195
+00:15:49,710 --> 00:15:53,630
+use it which does mean that when generating common points you can actually bank up and generate
+
+196
+00:15:53,630 --> 00:15:58,570
+multiple stacks of opportunity and then unleash them all at once so you don't necessarily just
+
+197
+00:15:58,570 --> 00:16:02,790
+spend opportunity procs instantly if you feel like you can spend those common points a little
+
+198
+00:16:02,790 --> 00:16:07,650
+bit better and because of the talent of hidden opportunity synergy strike effects which is
+
+199
+00:16:07,650 --> 00:16:12,350
+usually how you proc those procs in pistol shot also apply to ambush so sometimes you will ambush
+
+200
+00:16:12,350 --> 00:16:17,350
+get a proc of free pistol shot pistol shot get a proc of ambush and you'll build an incredible
+
+201
+00:16:17,350 --> 00:16:22,590
+amount of comp points like this and that's very very common so this means that you're building a
+
+202
+00:16:22,590 --> 00:16:27,130
+ton of comp points so comp point management and using them effectively for your finishers has
+
+203
+00:16:27,130 --> 00:16:32,110
+been very very important to outlaw because the spec can build an insane amount of comp points in
+
+204
+00:16:32,110 --> 00:16:37,190
+a single global so now we know how to build comp points but now we got to learn how to spend them
+
+205
+00:16:37,190 --> 00:16:41,350
+appropriately and because of the talent of ruthlessness we want to spend at the very bare
+
+206
+00:16:41,350 --> 00:16:46,650
+minimum at least five common points on finishers so once you reach five but in most cases you'll
+
+207
+00:16:46,650 --> 00:16:51,390
+reach six or seven quite easily with just how fast our load generates common points once you
+
+208
+00:16:51,390 --> 00:16:55,450
+have at least five common points this is where you want to start investing them into finishers
+
+209
+00:16:55,450 --> 00:16:59,190
+one of the basic finishers will be kid the shot which will be how you'll be locking down the
+
+210
+00:16:59,190 --> 00:17:04,450
+target in a stone for at least five seconds we generally use kid the shot on our kill target
+
+211
+00:17:04,450 --> 00:17:08,430
+but you could also use it on the CC target like if let's say you want to Crocodile Healer
+
+212
+00:17:08,430 --> 00:17:12,930
+and then lock down a DPS to make sure they're not getting any healing or any cooldowns.
+
+213
+00:17:13,150 --> 00:17:18,190
+There's a lot of uses for Kiddenshot but in most cases you'll use it on our priority kill target
+
+214
+00:17:18,190 --> 00:17:23,510
+when we're trying to stun them, lock them in place, prevent them from using defenses in order to land a kill.
+
+215
+00:17:23,990 --> 00:17:27,270
+Then we have Between the Eyes which is another finisher once you hit 5 combo points
+
+216
+00:17:27,270 --> 00:17:29,810
+and when you don't need to lock down an enemy in a Kiddenshot
+
+217
+00:17:29,810 --> 00:17:34,630
+Between the Eyes is something you want to maintain but also it will be your primary usage finisher for burst damage.
+
+218
+00:17:35,030 --> 00:17:40,070
+Between the Eyes does quite a bit of damage, even more damage if it lands a crit which is why we have some crit scaling on the spec.
+
+219
+00:17:40,450 --> 00:17:49,270
+But also grants us a buff of Between the Eyes increasing our critical strike chance by 20% which allows us to reach fairly high consistent crit chances increasing our overall damage.
+
+220
+00:17:49,750 --> 00:17:56,190
+Between the Eyes also becomes our priority finisher when we're using burst abilities thanks to the talent of Crackshot.
+
+221
+00:17:56,190 --> 00:18:04,090
+We'll be using stealth states primarily through the ability of vanish to enter a stealth mode which allows us to spam between the eyes as our primary finisher.
+
+222
+00:18:04,430 --> 00:18:20,910
+Using the ability of between the eyes also has a chance for you to refund back the common points that you just spent so it is not unlikely for you to be able to chain multiple uses of between the eyes back to back against the target with a bit of RNG that's kind of where a lot of the burst damage can come from the spec of Outlaw Rogue.
+
+223
+00:18:20,910 --> 00:18:25,030
+When between the eyes is not available and we are not able to lock down a target and
+
+224
+00:18:25,030 --> 00:18:29,190
+kid the shot we primarily spend all those common points into the ability of dispatch
+
+225
+00:18:29,190 --> 00:18:31,590
+which is a very basic common point spender.
+
+226
+00:18:31,590 --> 00:18:35,390
+Next I wanna talk about the ability of roll the bones which is a pretty decent component
+
+227
+00:18:35,390 --> 00:18:37,530
+around the out the road base playstyle.
+
+228
+00:18:37,530 --> 00:18:42,470
+With roll the bones we get to roll a random assortment of buffs and out of 5 or rather
+
+229
+00:18:42,470 --> 00:18:48,090
+6 buffs we can either get a 1 buff combo, a 2 buff combo or a 5 buff combo.
+
+230
+00:18:48,090 --> 00:18:50,970
+There's a variety of different buffs from a crit buff called Lucid Precision.
+
+231
+00:18:51,230 --> 00:18:52,230
+That's a high quality buff.
+
+232
+00:18:52,490 --> 00:18:54,890
+We have Broadside, which looks like a cannibal icon.
+
+233
+00:18:55,190 --> 00:18:58,930
+That grants our combo point builders an extra combo point that they can build and they do damage.
+
+234
+00:18:59,310 --> 00:19:00,630
+Also another high priority buff.
+
+235
+00:19:00,950 --> 00:19:03,510
+Then there's True Bearing that gives us better cooldown reduction.
+
+236
+00:19:03,750 --> 00:19:08,330
+As we're scoring combo points into finishers, it helps shave off the cooldown of many of our basic abilities.
+
+237
+00:19:08,750 --> 00:19:09,970
+Also a high priority buff.
+
+238
+00:19:10,270 --> 00:19:13,390
+And every other buff technically can be useful in some situations,
+
+239
+00:19:13,530 --> 00:19:16,970
+but they all fall under the category of a low priority buff.
+
+240
+00:19:16,970 --> 00:19:20,950
+and that's the only thing you really need to know about Outlaw when it comes to PvP content,
+
+241
+00:19:21,150 --> 00:19:23,410
+high priority and low priority buffs.
+
+242
+00:19:23,650 --> 00:19:29,350
+In most cases out of the Rogue, we want to try to maintain a high priority buff as best as possible with Roll the Bones.
+
+243
+00:19:29,550 --> 00:19:35,390
+But when we do get low priority buffs, we want to roll out of them as soon as the ability of Roll the Bones is back up and available.
+
+244
+00:19:35,810 --> 00:19:40,330
+However, even if you get a low priority buff, we do generate additional buffs with Count the Odds,
+
+245
+00:19:40,670 --> 00:19:43,290
+which becomes very, very important inside of our burst windows.
+
+246
+00:19:43,290 --> 00:19:48,590
+In most cases when we're bursting we're using abilities like ambush, sensor strikes, and dispatches during our burst
+
+247
+00:19:48,590 --> 00:19:51,950
+Which all have a chance to roll random buffs that you don't already have
+
+248
+00:19:51,950 --> 00:19:55,870
+So even if you end up rolling into a bad buff, just a basic combat gameplay
+
+249
+00:19:55,870 --> 00:19:58,450
+There's a good chance you'll roll other buffs on top of it
+
+250
+00:19:58,450 --> 00:20:00,670
+So this kind of makes the whole roll the bones
+
+251
+00:20:00,750 --> 00:20:06,290
+Mechanic a lot less bad to play with you still want to manage your buffs to make sure you have another set of buffs available
+
+252
+00:20:06,290 --> 00:20:08,710
+But during your big burst windows for instance
+
+253
+00:20:08,710 --> 00:20:12,770
+There's a good chance that you're going to be able to get a bunch of buffs as you're bursting
+
+254
+00:20:12,770 --> 00:20:17,470
+So it makes that playstyle just a little bit better and a little bit less annoying to play with
+
+255
+00:20:17,470 --> 00:20:19,830
+There's still a little bit of RNG when it comes to playing Outlaw
+
+256
+00:20:19,830 --> 00:20:21,510
+That's stuff that you're going to be able to escape of
+
+257
+00:20:21,510 --> 00:20:26,270
+But being able to roll the bones as you play aggressively as you build comp points to spend them
+
+258
+00:20:26,270 --> 00:20:29,310
+Does make it a little bit more manageable in the process
+
+259
+00:20:29,310 --> 00:20:35,050
+And the best part is roll the bones has a general basic set of rules that you'll usually work on and follow
+
+260
+00:20:35,050 --> 00:20:38,250
+In terms of when do you want to reroll, when do you not want to reroll
+
+261
+00:20:38,250 --> 00:20:43,130
+So when you press roll the bones and when you roll a at least one high value buff
+
+262
+00:20:43,130 --> 00:20:48,050
+You'll want to keep it even if it's just like part of a combination of a good buff and a bad buff if it lasts
+
+263
+00:20:48,050 --> 00:20:52,610
+At least one high value buff you want to keep it for as long as possible and not reroll out of it
+
+264
+00:20:52,610 --> 00:20:54,290
+If you get a low priority buff
+
+265
+00:20:54,290 --> 00:20:56,870
+Then you want to reroll out of it as soon as possible
+
+266
+00:20:57,030 --> 00:21:00,350
+If you're playing with the talent of supercharger variant of out the rogue
+
+267
+00:21:00,350 --> 00:21:03,110
+Then you can actually use roll the bones as a primer for big damage
+
+268
+00:21:03,130 --> 00:21:06,850
+Even if you roll a bad low priority buff it still buffs you next to finishers
+
+269
+00:21:06,850 --> 00:21:14,330
+So it lets you set up a big killing spree or a big maybe vanish crack shot between window to get a lot of damage out of the target.
+
+270
+00:21:14,710 --> 00:21:22,010
+So that can be really fun if you don't enjoy the RNG of Roll the Bones but still would want to be able to do something every time you roll it, which is really, really fun to play into.
+
+271
+00:21:22,210 --> 00:21:25,450
+Another mechanic that you want to pay attention to is Loaded Dice.
+
+272
+00:21:25,550 --> 00:21:33,450
+Whenever you use your big buff of a Drone Rush, which we'll talk about in a second, it grants us ability to at least roll two buffs without Roll the Bones.
+
+273
+00:21:33,450 --> 00:21:46,290
+So whenever you do have Loaded Dice active, this is an opportunity for you to, let's say you rolled into a bad buff, you want to replace it with a higher chance to get two good buffs, use a Drill and Rush, get Loaded Dice, and then roll into a guaranteed two buffs.
+
+274
+00:21:46,430 --> 00:21:53,710
+And there's a pretty good chance when you do so, you're probably going to get at least one higher priority buff, which I got true bearing here at the Compass icon.
+
+275
+00:21:54,070 --> 00:21:59,950
+So I'm going to keep that as long as possible inside of my big burst window with one big ability.
+
+276
+00:22:00,190 --> 00:22:03,150
+Speaking of burst, let's talk about Outlaw Rogue and some of the bigger cooldowns.
+
+277
+00:22:03,150 --> 00:22:05,810
+One of the mechanics you should know about Out of the Rogue is restless blades.
+
+278
+00:22:06,130 --> 00:22:07,890
+As you spend calm points into finishes,
+
+279
+00:22:08,070 --> 00:22:12,210
+we get to reduce the variety of different cooldowns for your Out of the Rogue within PvP.
+
+280
+00:22:12,550 --> 00:22:16,250
+Things like Adrenal Rush, Between the Eyes, Blade Flurry, Blade Rush, Ghost Strike,
+
+281
+00:22:16,350 --> 00:22:19,910
+Grapple Hook, Keep it Rolling, Killing Spree, Roll the Bone, Sprint, and Vanish.
+
+282
+00:22:20,270 --> 00:22:24,090
+So a lot of our cooldowns are going to be sometimes high CD,
+
+283
+00:22:24,470 --> 00:22:26,570
+but it's actually deceptively too high.
+
+284
+00:22:26,690 --> 00:22:29,830
+Like one of our big cooldowns we'll talk about here in a second, which is Adrenal Rush,
+
+285
+00:22:30,190 --> 00:22:31,490
+technically is a 3-minute cooldown,
+
+286
+00:22:31,490 --> 00:22:35,810
+but in actual day-to-day gameplay it feels like a minute and a half cooldown maybe to
+
+287
+00:22:35,810 --> 00:22:41,350
+add the longest so that is something that we want to play around with outlaw is try to use
+
+288
+00:22:41,350 --> 00:22:46,470
+the cooldowns aggressively as the spec we don't necessarily need to hold them back for key moments
+
+289
+00:22:46,470 --> 00:22:50,930
+like the other specs rogues and other classes we kind of want to send them as soon as possible
+
+290
+00:22:50,930 --> 00:22:54,950
+one of those big abilities is going to be adrenaline rush which is a big button for big
+
+291
+00:22:54,950 --> 00:23:00,190
+burst it grants you a bunch of resources from additional energy to additional calm points with
+
+292
+00:23:00,190 --> 00:23:05,190
+improved version of a Drone Wash. It also gives our better attack speed and can play around with
+
+293
+00:23:05,190 --> 00:23:09,870
+the cooldown reduction element of the spec which gives us a ton of burst window and we kind of
+
+294
+00:23:09,870 --> 00:23:14,170
+want to use Drone Wash pretty regularly. We don't necessarily want to hold it back like Assassination
+
+295
+00:23:14,170 --> 00:23:18,210
+Rogue's Death Mark or Accelerated Rogue's Shadow Blades. We want to use it as soon as possible
+
+296
+00:23:18,210 --> 00:23:22,990
+as aggressively as possible throughout a match. Another ability that's fantastic offensively and
+
+297
+00:23:22,990 --> 00:23:27,890
+defensively is Vanish. Obviously has some uses to be able to disappear from sight of a target
+
+298
+00:23:27,890 --> 00:23:32,870
+but because Outlaw plays around the talent of Crackshot we will use Vanish aggressively.
+
+299
+00:23:33,290 --> 00:23:37,110
+Because of the cooldown reduction we also get charges of Vanish back very very quickly so
+
+300
+00:23:37,110 --> 00:23:41,050
+at the very least if you want to just hold one charge for defense one charge for offense as
+
+301
+00:23:41,050 --> 00:23:45,750
+Outlaw that's a perfectly reasonable way of going about it but we will be using Vanishes aggressively
+
+302
+00:23:45,750 --> 00:23:50,430
+to deal damage as the spec. Another cooldown that's worth noting is Blade Flurry which basically
+
+303
+00:23:50,430 --> 00:23:55,830
+allows our single target abilities to cleave enemies around us which allows us to just deal
+
+304
+00:23:55,830 --> 00:24:01,490
+additional damage to enemies that is fully stacked together this is amazing in big fights within bga
+
+305
+00:24:01,490 --> 00:24:06,430
+blitz if you're looking to put pressure on a bunch of targets while having a high target focus and
+
+306
+00:24:06,430 --> 00:24:11,290
+also can be very very useful in twos and threes and solos in general or even out in the open world
+
+307
+00:24:11,290 --> 00:24:15,910
+if you're fighting multiple enemies we don't have a lot of ways to deal aoe damage to get stealthies
+
+308
+00:24:15,910 --> 00:24:20,770
+out of stealth either but blade rush does deal instant aoe damage when looking for other stealthies
+
+309
+00:24:20,770 --> 00:24:25,570
+so that can be useful when it comes to finding key targets another cooldown worth noting is
+
+310
+00:24:25,570 --> 00:24:29,390
+Ghost Strike which is actually a call point builder. It just builds one call point, has a
+
+311
+00:24:29,390 --> 00:24:33,870
+fairly long cooldown of 1.5 minutes but it's actually shorter and what it does is it places
+
+312
+00:24:33,870 --> 00:24:38,910
+a debuff on the target causing them to take 15% more damage from our abilities for a few seconds.
+
+313
+00:24:39,270 --> 00:24:43,110
+We basically want to use this ability fairly regularly as part of our burst window like when
+
+314
+00:24:43,110 --> 00:24:46,970
+you're focusing a target down, lock him down and kill the shot you want to apply a Ghost Strike on
+
+315
+00:24:46,970 --> 00:24:52,130
+them. Ghost Strike has an ability that is also off GCD but it will be necessary when it comes
+
+316
+00:24:52,130 --> 00:24:55,150
+to trying to combine burst in order to take down an enemy target.
+
+317
+00:24:55,350 --> 00:24:58,830
+Another cooldown we're talking about is Killing Spear, also a 1.5 minute cooldown.
+
+318
+00:24:59,050 --> 00:25:03,450
+This one I use for any kind of content, for any kind of combat, whenever I can within PvP.
+
+319
+00:25:03,790 --> 00:25:05,330
+It is excellent as a finisher.
+
+320
+00:25:05,630 --> 00:25:08,530
+It does a bunch of damage. It's been buffed up by quite a bit.
+
+321
+00:25:08,770 --> 00:25:11,270
+It can also free you out of roots, which can be incredibly good
+
+322
+00:25:11,270 --> 00:25:14,490
+and allows you to chase the target even if you get hit by some real big slows.
+
+323
+00:25:15,070 --> 00:25:17,570
+You also, while Killing Spring, don't take any damage,
+
+324
+00:25:17,670 --> 00:25:19,810
+but any damage taken while Killing Spring was active
+
+325
+00:25:19,810 --> 00:25:23,050
+will then be dealt to you slowly over time over 8 seconds.
+
+326
+00:25:23,150 --> 00:25:24,890
+So in a way it can be used defensively,
+
+327
+00:25:25,190 --> 00:25:27,330
+but for the most part we want to use it offensively.
+
+328
+00:25:27,650 --> 00:25:31,030
+I do try to separate Killing Spree away from my Crackshot windows however.
+
+329
+00:25:31,230 --> 00:25:33,670
+So I'll have like a Vanish window with big between the eyes,
+
+330
+00:25:33,930 --> 00:25:37,210
+but then I'll use Killing Spree whenever I'm not in a stealth window.
+
+331
+00:25:37,550 --> 00:25:39,890
+So try to separate the two, don't combine them together
+
+332
+00:25:39,890 --> 00:25:42,970
+because it's very very important to get as many between the eyes during Crackshot,
+
+333
+00:25:43,230 --> 00:25:45,950
+but Killing Spree you can use outside of Crackshot anytime you want to
+
+334
+00:25:45,950 --> 00:25:49,490
+and it pairs really well together with a challenge like Supercharger.
+
+335
+00:25:49,810 --> 00:25:56,050
+As for the burst damage of Outlaw Rogue, for the most part you want to get yourself a decent set of buffs and then land a Kitten Shot or a Cheap Shot on a target.
+
+336
+00:25:56,410 --> 00:25:59,790
+Killing Spree outside of Vanish or a Spam Between the Eyes inside of Vanish.
+
+337
+00:26:00,150 --> 00:26:06,570
+And one of the better ways to get a proper opener as an Outlaw Rogue, while we don't really have a proper stealth opener like some of the other classes,
+
+338
+00:26:06,570 --> 00:26:13,690
+we can do a decent bit of damage from the get-go by opening up with Stealth, going for a Drone Rush to build Calm Points, and activate the buff while in Stealth.
+
+339
+00:26:13,970 --> 00:26:17,530
+Use the roll of the bones to make sure that you have a buff set locked in before you even go.
+
+340
+00:26:17,530 --> 00:26:22,530
+then cheap shot goes to strike into the target and then you'll build the common points and spending as many
+
+341
+00:26:22,810 --> 00:26:26,670
+Between the eyes into the target as possible after that stealth win is over
+
+342
+00:26:26,670 --> 00:26:28,310
+Maybe you could follow up with the killing speed
+
+343
+00:26:28,310 --> 00:26:30,590
+But it does give us at least an opener to at least put some pressure
+
+344
+00:26:30,810 --> 00:26:34,170
+Into the target and out of the rogue does have quite a significant bit of burst
+
+345
+00:26:34,170 --> 00:26:37,350
+We just have not as high burst as some of the other specs out there
+
+346
+00:26:37,350 --> 00:26:41,390
+But we make up for it with great sustained damage outside of those burst cooldowns
+
+347
+00:26:41,410 --> 00:26:44,690
+But it doesn't mean that our burst does not have a bite behind it
+
+348
+00:26:44,690 --> 00:26:50,170
+Also, as a Rogue when it comes to PvP, knowing how to play defensively is also very very important.
+
+349
+00:26:50,390 --> 00:26:56,930
+Rogues have a variety of different talents to work with defensively, but one of the best defenses we have access to is just their ability to run away.
+
+350
+00:26:57,390 --> 00:27:07,810
+Double or even quad, a grapple hook is incredibly good, so if you just get a hit, your healer is locked down, they can't heal you, running away from an enemy target and just disappearing is not the worst option.
+
+351
+00:27:08,130 --> 00:27:14,110
+If you can't run away, that's a good idea to use cooldowns, usually evasion against physical damage or cloak of shadows against magic damage.
+
+352
+00:27:14,110 --> 00:27:19,950
+Because of the way that faint works right now with it being off DCD if you're running the talent of a Lucimus instead of cheat death
+
+353
+00:27:19,950 --> 00:27:25,110
+You can use a faint as an extra defensive layer in order to help survive some of the damage you take
+
+354
+00:27:25,350 --> 00:27:29,430
+Also crack control and enemy target is perfectly reasonable to whether you want to stun them
+
+355
+00:27:29,430 --> 00:27:31,590
+Which usually you want to save those for kill targets
+
+356
+00:27:31,590 --> 00:27:33,210
+But if you don't want to stun them
+
+357
+00:27:33,210 --> 00:27:37,770
+Dismantle I guess the melee target to take the weapons away can be very helpful or using even a gouge
+
+358
+00:27:37,770 --> 00:27:42,090
+And I guess the caster in order to stop them from casting into your face that could also be very very helpful
+
+359
+00:27:42,090 --> 00:27:46,930
+helpful then we have a little healer crimson vile it doesn't do a lot of healing but hey anything
+
+360
+00:27:46,930 --> 00:27:51,110
+works at this point right when you're just locked down uses not much you can really do it getting
+
+361
+00:27:51,110 --> 00:27:55,850
+some kind of a heal is better than no heal so don't forget that crimson vile is an ability that
+
+362
+00:27:55,850 --> 00:28:00,670
+you can utilize but besides that that's going to be all of the bases i can tell you when it comes
+
+363
+00:28:00,670 --> 00:28:05,950
+to playing you're out rogue within season one of war within this spec is incredibly fun but does
+
+364
+00:28:05,950 --> 00:28:10,450
+have a lot of things going for it at the same time if anything focusing on offensive damage
+
+365
+00:28:10,450 --> 00:28:15,570
+and pressure and using mobility to escape danger is usually the play. We're not really a bursty
+
+366
+00:28:15,570 --> 00:28:20,230
+class so you don't necessarily want to disengage as an outlaw rogue as often as you would as
+
+367
+00:28:20,230 --> 00:28:24,830
+assassination or even a subtlety. You kind of want to stay in combat as best as you can because the
+
+368
+00:28:24,830 --> 00:28:28,630
+longer you can stay in combat the faster you can get a lot of your cooldowns so you are punished
+
+369
+00:28:28,630 --> 00:28:33,430
+for disengaging too much and playing like a rogue thinking of yourself more like a fury warrior with
+
+370
+00:28:33,430 --> 00:28:37,430
+a lot of crowd control and a lot of stealthy elements in a way and that's probably the best
+
+371
+00:28:37,430 --> 00:28:42,710
+to approach out in day-to-day pvp situations but as always i do want to thank you guys so much for
+
+372
+00:28:42,710 --> 00:28:47,310
+watching this guide video and i do hope you did enjoy it if you did enjoy it or found it informative
+
+373
+00:28:47,310 --> 00:28:51,530
+go ahead give this video a like i would very very much appreciate it join our desk community if you
+
+374
+00:28:51,530 --> 00:28:55,850
+got any more questions regarding rogue pvp or if you want to get some of the guides like pve guides
+
+375
+00:28:55,850 --> 00:28:59,370
+specifically but also some of the mount guides i've been starting to put up more guides on the
+
+376
+00:28:59,370 --> 00:29:02,590
+channel there too so it's probably the best place to get some of those written versions of the guides
+
+377
+00:29:02,590 --> 00:29:06,470
+there directly let me know your thoughts in the comments down below are you playing out the rogue
+
+378
+00:29:06,470 --> 00:29:08,430
+and are you picking it up for the rest of the season
+
+379
+00:29:08,430 --> 00:29:09,170
+when we're within?
+
+380
+00:29:09,570 --> 00:29:11,670
+And I'll see all of you guys in the next one.

@@ -1,0 +1,362 @@
+{
+  "title": "魔兽世界英文玩家黑话与术语大全",
+  "categories": {
+    "general": [
+      {
+        "abbr": "AFK",
+        "full": "Away from Keyboard",
+        "meaning": "离开键盘，表示暂时离线或不在电脑前"
+      },
+      {
+        "abbr": "BRB",
+        "full": "Be Right Back",
+        "meaning": "马上回来"
+      },
+      {
+        "abbr": "NPC",
+        "full": "Non-Player Character",
+        "meaning": "非玩家角色，由系统控制的角色"
+      },
+      {
+        "abbr": "PvE",
+        "full": "Player vs. Environment",
+        "meaning": "玩家对环境（打怪、副本等PVE内容）"
+      },
+      {
+        "abbr": "PvP",
+        "full": "Player vs. Player",
+        "meaning": "玩家对战（战场、野外PK等PVP内容）"
+      },
+      {
+        "abbr": "LFG",
+        "full": "Looking for Group",
+        "meaning": "寻找队伍"
+      },
+      {
+        "abbr": "LFM",
+        "full": "Looking for More",
+        "meaning": "寻找更多成员（队伍缺人时使用）"
+      },
+      {
+        "abbr": "DPS",
+        "full": "Damage Per Second",
+        "meaning": "每秒伤害，指输出职业或伤害量"
+      },
+      {
+        "abbr": "Healer",
+        "full": "",
+        "meaning": "治疗者，负责回复生命的角色（如牧师、德鲁伊等）"
+      },
+      {
+        "abbr": "Tank",
+        "full": "",
+        "meaning": "坦克，主抗怪角色（战士、死亡骑士、熊德等）"
+      },
+      {
+        "abbr": "AoE",
+        "full": "Area of Effect",
+        "meaning": "范围效果技能，可同时影响多个目标"
+      },
+      {
+        "abbr": "Buff",
+        "full": "",
+        "meaning": "有益状态（增益效果）"
+      },
+      {
+        "abbr": "Debuff",
+        "full": "",
+        "meaning": "负面状态（减益效果）"
+      },
+      {
+        "abbr": "LoS",
+        "full": "Line of Sight",
+        "meaning": "视线，影响法术和攻击是否能命中"
+      },
+      {
+        "abbr": "CD",
+        "full": "Cooldown",
+        "meaning": "技能冷却时间"
+      },
+      {
+        "abbr": "GCD",
+        "full": "Global Cooldown",
+        "meaning": "公共冷却时间（大部分技能共用的延迟）"
+      },
+      {
+        "abbr": "OOM",
+        "full": "Out of Mana",
+        "meaning": "没蓝了（施法者法力值耗尽）"
+      },
+      {
+        "abbr": "Aggro",
+        "full": "Aggro / Threat",
+        "meaning": "仇恨/威胁值（怪物攻击目标的机制）"
+      },
+      {
+        "abbr": "Add",
+        "full": "Adds",
+        "meaning": "额外刷出的怪物"
+      },
+      {
+        "abbr": "Mob",
+        "full": "",
+        "meaning": "怪物（泛指敌对NPC）"
+      },
+      {
+        "abbr": "Proc",
+        "full": "",
+        "meaning": "概率触发效果（如武器特效）"
+      },
+      {
+        "abbr": "RNG",
+        "full": "Random Number Generator",
+        "meaning": "随机数，指运气或随机掉落"
+      },
+      {
+        "abbr": "Pug",
+        "full": "Pick-Up Group",
+        "meaning": "随机临时组队（非固定团）"
+      },
+      {
+        "abbr": "Alt",
+        "full": "Alternate Character",
+        "meaning": "小号"
+      },
+      {
+        "abbr": "Main",
+        "full": "",
+        "meaning": "主号"
+      },
+      {
+        "abbr": "GG",
+        "full": "Good Game",
+        "meaning": "好游戏（胜利后常用，有时带讽刺）"
+      },
+      {
+        "abbr": "Inc",
+        "full": "Incoming",
+        "meaning": "敌人来了（提醒怪物接近）"
+      }
+    ],
+    "equipment_trading": [
+      {
+        "abbr": "BoP",
+        "full": "Bind on Pickup",
+        "meaning": "拾取后绑定，无法交易"
+      },
+      {
+        "abbr": "BoE",
+        "full": "Bind on Equip",
+        "meaning": "装备后绑定，可在装备前交易"
+      },
+      {
+        "abbr": "BoA",
+        "full": "Bind on Account",
+        "meaning": "账号绑定，可在自己账号内角色间使用"
+      },
+      {
+        "abbr": "BiS",
+        "full": "Best in Slot",
+        "meaning": "当前版本该部位最佳装备"
+      },
+      {
+        "abbr": "AH",
+        "full": "Auction House",
+        "meaning": "拍卖行"
+      },
+      {
+        "abbr": "WTB",
+        "full": "Want to Buy",
+        "meaning": "想要购买"
+      },
+      {
+        "abbr": "WTS",
+        "full": "Want to Sell",
+        "meaning": "想要出售"
+      },
+      {
+        "abbr": "WTT",
+        "full": "Want to Trade",
+        "meaning": "想要交易/换物"
+      },
+      {
+        "abbr": "ilvl",
+        "full": "Item Level",
+        "meaning": "物品等级（衡量装备强度）"
+      },
+      {
+        "abbr": "Transmog",
+        "full": "Transmogrification",
+        "meaning": "幻化（改变装备外观）"
+      },
+      {
+        "abbr": "DE",
+        "full": "Disenchant",
+        "meaning": "分解装备获取附魔材料"
+      },
+      {
+        "abbr": "Mats",
+        "full": "Materials",
+        "meaning": "制作或附魔所需的材料"
+      }
+    ],
+    "dungeon_raid": [
+      {
+        "abbr": "Raid",
+        "full": "",
+        "meaning": "团队副本（通常10-40人大型副本）"
+      },
+      {
+        "abbr": "MT",
+        "full": "Main Tank",
+        "meaning": "主坦克"
+      },
+      {
+        "abbr": "OT",
+        "full": "Off Tank",
+        "meaning": "副坦克"
+      },
+      {
+        "abbr": "CC",
+        "full": "Crowd Control",
+        "meaning": "控场技能（如昏迷、恐惧、变羊）"
+      },
+      {
+        "abbr": "FF",
+        "full": "Focused Fire",
+        "meaning": "集火攻击（全团集中打一个目标）"
+      },
+      {
+        "abbr": "KS",
+        "full": "Kill Steal",
+        "meaning": "抢怪、抢人头（抢夺击杀或战利品）"
+      },
+      {
+        "abbr": "Pull",
+        "full": "",
+        "meaning": "拉怪（主动开始战斗）"
+      },
+      {
+        "abbr": "Trash",
+        "full": "",
+        "meaning": "小怪（Boss之间的普通敌人）"
+      },
+      {
+        "abbr": "Clear",
+        "full": "",
+        "meaning": "清副本（完成整个副本）"
+      },
+      {
+        "abbr": "M+",
+        "full": "Mythic+",
+        "meaning": "钥石地下城（零售版高难度模式）"
+      },
+      {
+        "abbr": "BG",
+        "full": "Battleground",
+        "meaning": "战场（如阿拉希盆地等）"
+      }
+    ],
+    "class_skill": [
+      {
+        "abbr": "DoT",
+        "full": "Damage over Time",
+        "meaning": "持续伤害（如毒药、诅咒）"
+      },
+      {
+        "abbr": "HoT",
+        "full": "Heal over Time",
+        "meaning": "持续治疗（如回春术、恢复）"
+      },
+      {
+        "abbr": "Kite",
+        "full": "",
+        "meaning": "风筝战术，边跑边打保持距离"
+      },
+      {
+        "abbr": "Sap",
+        "full": "",
+        "meaning": "闷棍（盗贼潜行控制技能）"
+      },
+      {
+        "abbr": "Backstab",
+        "full": "",
+        "meaning": "背刺（盗贼技能）"
+      },
+      {
+        "abbr": "Cheap Shot",
+        "full": "",
+        "meaning": "偷袭（盗贼开场控制技能）"
+      },
+      {
+        "abbr": "Burst",
+        "full": "",
+        "meaning": "爆发伤害（短时间内高输出）"
+      },
+      {
+        "abbr": "Interrupt",
+        "full": "",
+        "meaning": "打断敌人施法"
+      },
+      {
+        "abbr": "Brez",
+        "full": "Battle Resurrection",
+        "meaning": "战复（战斗中复活队友）"
+      },
+      {
+        "abbr": "Lust",
+        "full": "Bloodlust / Heroism",
+        "meaning": "嗜血/英勇（全团加速技能）"
+      },
+      {
+        "abbr": "HPS",
+        "full": "Heals Per Second",
+        "meaning": "每秒治疗量"
+      }
+    ],
+    "pvp_specific": [
+      {
+        "abbr": "Gank",
+        "full": "",
+        "meaning": "偷袭（高等级玩家蹲低级玩家）"
+      },
+      {
+        "abbr": "Camp",
+        "full": "",
+        "meaning": "蹲点、守尸（反复击杀同一玩家）"
+      },
+      {
+        "abbr": "Twink",
+        "full": "",
+        "meaning": "小号强化（用高阶装备碾压低等级战场）"
+      }
+    ],
+    "other": [
+      {
+        "abbr": "Nerf",
+        "full": "",
+        "meaning": "削弱（官方削弱某技能/职业）"
+      },
+      {
+        "abbr": "Buff",
+        "full": "",
+        "meaning": "加强（官方加强某技能）"
+      },
+      {
+        "abbr": "FotM",
+        "full": "Flavor of the Month",
+        "meaning": "当月热门（当前最强专精）"
+      },
+      {
+        "abbr": "Ding",
+        "full": "",
+        "meaning": "升级了（角色升一级时的庆祝语）"
+      },
+      {
+        "abbr": "Gratz",
+        "full": "Congratulations",
+        "meaning": "恭喜"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5362 @@
+[
+  {
+    "id": 56246,
+    "name_cn": "恶魔卫士雕文",
+    "name_en": "Glyph of Felguard"
+  },
+  {
+    "id": 56382,
+    "name_cn": "小动物变形术雕文",
+    "name_en": "Glyph of Crittermorph"
+  },
+  {
+    "id": 56384,
+    "name_cn": "奥术动能",
+    "name_en": "Arcane Momentum"
+  },
+  {
+    "id": 57870,
+    "name_cn": "体型缩小雕文",
+    "name_en": "Glyph of Lesser Proportion"
+  },
+  {
+    "id": 57954,
+    "name_cn": "天堂之火雕文",
+    "name_en": "Glyph of Fire From the Heavens"
+  },
+  {
+    "id": 57979,
+    "name_cn": "复仇之翼雕文",
+    "name_en": "Glyph of Winged Vengeance"
+  },
+  {
+    "id": 57986,
+    "name_cn": "束缚亡灵雕文",
+    "name_en": "Glyph of Shackle Undead"
+  },
+  {
+    "id": 58081,
+    "name_cn": "基尔罗格的狡诈",
+    "name_en": "Kilrogg's Cunning"
+  },
+  {
+    "id": 58094,
+    "name_cn": "灵魂之井雕文",
+    "name_en": "Glyph of Soulwell"
+  },
+  {
+    "id": 58099,
+    "name_cn": "龟裂创伤雕文",
+    "name_en": "Glyph of Gushing Wound"
+  },
+  {
+    "id": 58104,
+    "name_cn": "强力制胜雕文",
+    "name_en": "Glyph of Mighty Victory"
+  },
+  {
+    "id": 58135,
+    "name_cn": "鬼灵座狼雕文",
+    "name_en": "Glyph of the Spectral Wolf"
+  },
+  {
+    "id": 58640,
+    "name_cn": "恶鬼雕文",
+    "name_en": "Glyph of the Geist"
+  },
+  {
+    "id": 58642,
+    "name_cn": "邪恶兽群雕文",
+    "name_en": "Glyph of Foul Menagerie"
+  },
+  {
+    "id": 63268,
+    "name_cn": "伪装雕文",
+    "name_en": "Glyph of Disguise"
+  },
+  {
+    "id": 63312,
+    "name_cn": "猩红放逐雕文",
+    "name_en": "Glyph of Crimson Banish"
+  },
+  {
+    "id": 68164,
+    "name_cn": "雷霆一击雕文",
+    "name_en": "Glyph of Thunder Strike"
+  },
+  {
+    "id": 89401,
+    "name_cn": "辉煌坐骑雕文",
+    "name_en": "Glyph of the Luminous Charger"
+  },
+  {
+    "id": 107059,
+    "name_cn": "乌索尔变色龙雕文",
+    "name_en": "Glyph of the Ursol Chameleon"
+  },
+  {
+    "id": 107906,
+    "name_cn": "暗影雕文",
+    "name_en": "Glyph of Shadow"
+  },
+  {
+    "id": 112104,
+    "name_cn": "雕文技能",
+    "name_en": "Glyph Ability"
+  },
+  {
+    "id": 114301,
+    "name_cn": "群星雕文",
+    "name_en": "Glyph of Stars"
+  },
+  {
+    "id": 115943,
+    "name_cn": "雄鹰盛宴雕文",
+    "name_en": "Glyph of Hawk Feast"
+  },
+  {
+    "id": 115946,
+    "name_cn": "怒火冲天雕文",
+    "name_en": "Glyph of Burning Anger"
+  },
+  {
+    "id": 120581,
+    "name_cn": "天堂雕文",
+    "name_en": "Glyph of the Heavens"
+  },
+  {
+    "id": 123779,
+    "name_cn": "烈焰开道雕文",
+    "name_en": "Glyph of the Blazing Trail"
+  },
+  {
+    "id": 125151,
+    "name_cn": "猛虎出山雕文",
+    "name_en": "Glyph of Rising Tiger Kick"
+  },
+  {
+    "id": 125732,
+    "name_cn": "武道精神雕文",
+    "name_en": "Glyph of Honor"
+  },
+  {
+    "id": 125872,
+    "name_cn": "战斗姿态雕文",
+    "name_en": "Glyph of Fighting Pose"
+  },
+  {
+    "id": 125931,
+    "name_cn": "伏虎闪雷雕文",
+    "name_en": "Glyph of Crackling Tiger Lightning"
+  },
+  {
+    "id": 126094,
+    "name_cn": "瓦格里雕文",
+    "name_en": "Glyph of the Val'kyr"
+  },
+  {
+    "id": 126745,
+    "name_cn": "暗影盟友雕文",
+    "name_en": "Glyph of Shadowy Friends"
+  },
+  {
+    "id": 145722,
+    "name_cn": "天使之翼雕文",
+    "name_en": "Glyph of Angels"
+  },
+  {
+    "id": 146652,
+    "name_cn": "骷髅雕文",
+    "name_en": "Glyph of the Skeleton"
+  },
+  {
+    "id": 146662,
+    "name_cn": "汽化雕文",
+    "name_en": "Glyph of Evaporation"
+  },
+  {
+    "id": 146959,
+    "name_cn": "圣光之柱雕文",
+    "name_en": "Glyph of Pillar of Light"
+  },
+  {
+    "id": 146974,
+    "name_cn": "武器大师雕文",
+    "name_en": "Glyph of the Weaponmaster"
+  },
+  {
+    "id": 146976,
+    "name_cn": "不羁元素雕文",
+    "name_en": "Glyph of the Unbound Elemental"
+  },
+  {
+    "id": 147072,
+    "name_cn": "圣歌之灵雕文",
+    "name_en": "Glyph of Inspired Hymns"
+  },
+  {
+    "id": 147776,
+    "name_cn": "邪煞雕文",
+    "name_en": "Glyph of the Sha"
+  },
+  {
+    "id": 147783,
+    "name_cn": "幽灵迅猛龙雕文",
+    "name_en": "Glyph of Spirit Raptors"
+  },
+  {
+    "id": 147784,
+    "name_cn": "徘徊先祖雕文",
+    "name_en": "Glyph of Lingering Ancestors"
+  },
+  {
+    "id": 159456,
+    "name_cn": "旅行形态",
+    "name_en": "Travel Form"
+  },
+  {
+    "id": 171803,
+    "name_cn": "落日雕文",
+    "name_en": "Glyph of the Sun"
+  },
+  {
+    "id": 210333,
+    "name_cn": "野性变色龙雕文",
+    "name_en": "Glyph of the Feral Chameleon"
+  },
+  {
+    "id": 211829,
+    "name_cn": "炽燃拯救者雕文",
+    "name_en": "Glyph of the Blazing Savior"
+  },
+  {
+    "id": 211899,
+    "name_cn": "审判官之眼雕文",
+    "name_en": "Glyph of the Inquisitor's Eye"
+  },
+  {
+    "id": 211910,
+    "name_cn": "恶魔之眼雕文",
+    "name_en": "Glyph of the Demon Eye"
+  },
+  {
+    "id": 212339,
+    "name_cn": "三叉戟雕文",
+    "name_en": "Glyph of the Trident"
+  },
+  {
+    "id": 212354,
+    "name_cn": "倒钩雕文",
+    "name_en": "Glyph of the Hook"
+  },
+  {
+    "id": 212358,
+    "name_cn": "猎头煞星雕文",
+    "name_en": "Glyph of the Headhunter"
+  },
+  {
+    "id": 212407,
+    "name_cn": "蜘蛛克星雕文",
+    "name_en": "Glyph of Arachnophobia"
+  },
+  {
+    "id": 212410,
+    "name_cn": "奈辛瓦里宿敌雕文",
+    "name_en": "Glyph of Nesingwary's Nemeses"
+  },
+  {
+    "id": 212451,
+    "name_cn": "地精反重力照明弹雕文",
+    "name_en": "Glyph of the Goblin Anti-Grav Flare"
+  },
+  {
+    "id": 212462,
+    "name_cn": "星光弹雕文",
+    "name_en": "Glyph of Stellar Flare"
+  },
+  {
+    "id": 212524,
+    "name_cn": "裂冰雕文",
+    "name_en": "Glyph of Cracked Ice"
+  },
+  {
+    "id": 212631,
+    "name_cn": "鬼灵迅猛龙雕文",
+    "name_en": "Glyph of the Spectral Raptor"
+  },
+  {
+    "id": 212635,
+    "name_cn": "砾石雕文",
+    "name_en": "Glyph of Pebbles"
+  },
+  {
+    "id": 212636,
+    "name_cn": "闪烁雕文",
+    "name_en": "Glyph of Flickering"
+  },
+  {
+    "id": 212642,
+    "name_cn": "女王雕文",
+    "name_en": "Glyph of the Queen"
+  },
+  {
+    "id": 218979,
+    "name_cn": "赤壳雕文",
+    "name_en": "Glyph of the Crimson Shell"
+  },
+  {
+    "id": 218989,
+    "name_cn": "冰壳雕文",
+    "name_en": "Glyph of the Chilled Shell"
+  },
+  {
+    "id": 219093,
+    "name_cn": "林荫小路雕文",
+    "name_en": "Glyph of the Forest Path"
+  },
+  {
+    "id": 219183,
+    "name_cn": "凶暴兽栏雕文",
+    "name_en": "Glyph of the Dire Stable"
+  },
+  {
+    "id": 219213,
+    "name_cn": "小动物妖术雕文",
+    "name_en": "Glyph of Critterhex"
+  },
+  {
+    "id": 219510,
+    "name_cn": "蛮牛吼雷雕文",
+    "name_en": "Glyph of Crackling Ox Lightning"
+  },
+  {
+    "id": 219513,
+    "name_cn": "惊鸿掠电雕文",
+    "name_en": "Glyph of Crackling Crane Lightning"
+  },
+  {
+    "id": 219557,
+    "name_cn": "玉珑的优雅雕文",
+    "name_en": "Glyph of Yu'lon's Grace"
+  },
+  {
+    "id": 219573,
+    "name_cn": "火花雕文",
+    "name_en": "Glyph of Sparkles"
+  },
+  {
+    "id": 219592,
+    "name_cn": "闷烧雕文",
+    "name_en": "Glyph of Smolder"
+  },
+  {
+    "id": 219630,
+    "name_cn": "多态体型雕文",
+    "name_en": "Glyph of Polymorphic Proportions"
+  },
+  {
+    "id": 219669,
+    "name_cn": "幽灵渐隐雕文",
+    "name_en": "Glyph of Ghostly Fade"
+  },
+  {
+    "id": 219678,
+    "name_cn": "闪光弹雕文",
+    "name_en": "Glyph of Flash Bang"
+  },
+  {
+    "id": 219693,
+    "name_cn": "眩晕雕文",
+    "name_en": "Glyph of Blackout"
+  },
+  {
+    "id": 219713,
+    "name_cn": "邪触之魂雕文",
+    "name_en": "Glyph of Fel Touched Souls"
+  },
+  {
+    "id": 219744,
+    "name_cn": "魔触之魂雕文",
+    "name_en": "Glyph of Mana Touched Souls"
+  },
+  {
+    "id": 219831,
+    "name_cn": "熊熊烈焰雕文",
+    "name_en": "Glyph of Crackling Flames"
+  },
+  {
+    "id": 220083,
+    "name_cn": "金黄之翼雕文",
+    "name_en": "Glyph of Fallow Wings"
+  },
+  {
+    "id": 220226,
+    "name_cn": "破碎之翼雕文",
+    "name_en": "Glyph of Tattered Wings"
+  },
+  {
+    "id": 220228,
+    "name_cn": "邪能之翼雕文",
+    "name_en": "Glyph of Fel Wings"
+  },
+  {
+    "id": 220240,
+    "name_cn": "邪能宿敌雕文",
+    "name_en": "Glyph of Fel-Enemies"
+  },
+  {
+    "id": 220244,
+    "name_cn": "暗影宿敌雕文",
+    "name_en": "Glyph of Shadow-Enemies"
+  },
+  {
+    "id": 220279,
+    "name_cn": "燃尽雕文",
+    "name_en": "Glyph of Burnout"
+  },
+  {
+    "id": 220831,
+    "name_cn": "恐怖恶魔变形雕文",
+    "name_en": "Glyph of Fearsome Metamorphosis"
+  },
+  {
+    "id": 228378,
+    "name_cn": "落雷雕文",
+    "name_en": "Glyph of Falling Thunder"
+  },
+  {
+    "id": 231996,
+    "name_cn": "忠诚战马雕文",
+    "name_en": "Glyph of the Trusted Steed"
+  },
+  {
+    "id": 233059,
+    "name_cn": "金秋花蕾雕文",
+    "name_en": "Glyph of Autumnal Bloom"
+  },
+  {
+    "id": 233275,
+    "name_cn": "暮光花蕾雕文",
+    "name_en": "Glyph of Twilight Bloom"
+  },
+  {
+    "id": 246972,
+    "name_cn": "浮空碎片雕文",
+    "name_en": "Glyph of Floating Shards"
+  },
+  {
+    "id": 246975,
+    "name_cn": "燃烬碎片雕文",
+    "name_en": "Glyph of Ember Shards"
+  },
+  {
+    "id": 246997,
+    "name_cn": "邪触碎片雕文",
+    "name_en": "Glyph of Fel-Touched Shards"
+  },
+  {
+    "id": 254225,
+    "name_cn": "光耀之子雕文",
+    "name_en": "Glyph of the Lightspawn"
+  },
+  {
+    "id": 254233,
+    "name_cn": "虚空之子雕文",
+    "name_en": "Glyph of the Voidling"
+  },
+  {
+    "id": 254236,
+    "name_cn": "黑暗赦免雕文",
+    "name_en": "Glyph of Dark Absolution"
+  },
+  {
+    "id": 254465,
+    "name_cn": "英勇战马缰绳",
+    "name_en": "Valorous Charger's Bridle"
+  },
+  {
+    "id": 254467,
+    "name_cn": "复仇战马缰绳",
+    "name_en": "Vengeful Charger's Bridle"
+  },
+  {
+    "id": 254469,
+    "name_cn": "警戒战马缰绳",
+    "name_en": "Vigilant Charger's Bridle"
+  },
+  {
+    "id": 254475,
+    "name_cn": "金辉战马缰绳",
+    "name_en": "Golden Charger's Bridle"
+  },
+  {
+    "id": 289311,
+    "name_cn": "海潮雕文",
+    "name_en": "Glyph of the Tides"
+  },
+  {
+    "id": 289351,
+    "name_cn": "风暴之末雕文",
+    "name_en": "Glyph of Storm's Wake"
+  },
+  {
+    "id": 292848,
+    "name_cn": "达拉然光辉",
+    "name_en": "Dalaran Brilliance"
+  },
+  {
+    "id": 304028,
+    "name_cn": "黑暗深渊雕文",
+    "name_en": "Glyph of the Dark Depths"
+  },
+  {
+    "id": 304031,
+    "name_cn": "蒸汽之怒雕文",
+    "name_en": "Glyph of Steaming Fury"
+  },
+  {
+    "id": 304034,
+    "name_cn": "冰浪雕文",
+    "name_en": "Glyph of the Cold Waves"
+  },
+  {
+    "id": 304039,
+    "name_cn": "凶暴蜜蜂雕文",
+    "name_en": "Glyph of Dire Bees"
+  },
+  {
+    "id": 309440,
+    "name_cn": "奢华餐点雕文",
+    "name_en": "Glyph of Lavish Servings"
+  },
+  {
+    "id": 344336,
+    "name_cn": "迅捷变色龙雕文",
+    "name_en": "Glyph of the Swift Chameleon"
+  },
+  {
+    "id": 344338,
+    "name_cn": "水生变色龙雕文",
+    "name_en": "Glyph of the Aquatic Chameleon"
+  },
+  {
+    "id": 344342,
+    "name_cn": "飞空变色龙雕文",
+    "name_en": "Glyph of the Aerial Chameleon"
+  },
+  {
+    "id": 361721,
+    "name_cn": "野性蘑菇雕文",
+    "name_en": "Glyph of the Wild Mushroom"
+  },
+  {
+    "id": 365355,
+    "name_cn": "夜魔契约",
+    "name_en": "Incubus Pact"
+  },
+  {
+    "id": 365360,
+    "name_cn": "魅魔契约",
+    "name_en": "Succubus Pact"
+  },
+  {
+    "id": 367387,
+    "name_cn": "鬼灵元狼雕文",
+    "name_en": "Glyph of the Spectral Lupine"
+  },
+  {
+    "id": 367391,
+    "name_cn": "鬼灵狡狐雕文",
+    "name_en": "Glyph of the Spectral Vulpine"
+  },
+  {
+    "id": 401756,
+    "name_cn": "抉择战刃雕文",
+    "name_en": "Glyph of the Chosen Glaive"
+  },
+  {
+    "id": 401773,
+    "name_cn": "武装投掷雕文",
+    "name_en": "Glyph of the Heaved Armament"
+  },
+  {
+    "id": 413413,
+    "name_cn": "沙斯亚尔雕文",
+    "name_en": "Glyph of the Shath'Yar"
+  },
+  {
+    "id": 416219,
+    "name_cn": "魔王贝恩霍勒的灵魂石",
+    "name_en": "Lord Banehollow's Soulstone"
+  },
+  {
+    "id": 429140,
+    "name_cn": "月光变色龙雕文",
+    "name_en": "Glyph of the Lunar Chameleon"
+  },
+  {
+    "id": 440170,
+    "name_cn": "妖魂踏雕文",
+    "name_en": "Glyph of Faeline Stomp"
+  },
+  {
+    "id": 440250,
+    "name_cn": "晋升堡垒之矛雕文",
+    "name_en": "Glyph of the Spear of Bastion"
+  },
+  {
+    "id": 440251,
+    "name_cn": "恶魔追击雕文",
+    "name_en": "Glyph of The Hunt"
+  },
+  {
+    "id": 440255,
+    "name_cn": "燃焰饲魂雕文",
+    "name_en": "Glyph of Fodder to the Flame"
+  },
+  {
+    "id": 440256,
+    "name_cn": "极乐敕令雕文",
+    "name_en": "Glyph of Elysian Decree"
+  },
+  {
+    "id": 440257,
+    "name_cn": "控心术雕文",
+    "name_en": "Glyph of Mindgames"
+  },
+  {
+    "id": 440258,
+    "name_cn": "憎恶附肢雕文",
+    "name_en": "Glyph of Abomination Limb"
+  },
+  {
+    "id": 440261,
+    "name_cn": "死亡飞轮雕文",
+    "name_en": "Glyph of Death Chakram"
+  },
+  {
+    "id": 440262,
+    "name_cn": "变易幻能雕文",
+    "name_en": "Glyph of Shifting Power"
+  },
+  {
+    "id": 440264,
+    "name_cn": "璀璨火花雕文",
+    "name_en": "Glyph of Radiant Spark"
+  },
+  {
+    "id": 440265,
+    "name_cn": "精序兵戈雕文",
+    "name_en": "Glyph of Weapons of Order"
+  },
+  {
+    "id": 440267,
+    "name_cn": "圣洁鸣钟雕文",
+    "name_en": "Glyph of Divine Toll"
+  },
+  {
+    "id": 440268,
+    "name_cn": "四季祝福雕文",
+    "name_en": "Glyph of Blessing of the Seasons"
+  },
+  {
+    "id": 440270,
+    "name_cn": "申斥回响雕文",
+    "name_en": "Glyph of Echoing Reprimand"
+  },
+  {
+    "id": 440272,
+    "name_cn": "败血刃伤雕文",
+    "name_en": "Glyph of Sepsis"
+  },
+  {
+    "id": 440275,
+    "name_cn": "狂热鞭笞雕文",
+    "name_en": "Glyph of Flagellation"
+  },
+  {
+    "id": 440276,
+    "name_cn": "始源之潮雕文",
+    "name_en": "Glyph of Primordial Wave"
+  },
+  {
+    "id": 440278,
+    "name_cn": "灵魂腐化雕文",
+    "name_en": "Glyph of Soul Rot"
+  },
+  {
+    "id": 440286,
+    "name_cn": "万灵之召雕文",
+    "name_en": "Glyph of Convoke the Spirits"
+  },
+  {
+    "id": 440287,
+    "name_cn": "激变蜂群雕文",
+    "name_en": "Glyph of Adaptive Swarm"
+  },
+  {
+    "id": 454885,
+    "name_cn": "贯日突雕文",
+    "name_en": "Glyph of Jab"
+  },
+  {
+    "id": 468603,
+    "name_cn": "贯日突雕文",
+    "name_en": "Glyph of Jab"
+  },
+  {
+    "id": 470971,
+    "name_cn": "奥术魔宠雕文",
+    "name_en": "Glyph of Arcane Familiar"
+  },
+  {
+    "id": 471067,
+    "name_cn": "传统升腾雕文",
+    "name_en": "Glyph of Traditional Ascendance"
+  },
+  {
+    "id": 471527,
+    "name_cn": "高能升腾雕文",
+    "name_en": "Glyph of Energetic Ascendance"
+  },
+  {
+    "id": 1213556,
+    "name_cn": "艾什凡手枪射击雕文",
+    "name_en": "Glyph of the Ashvane Pistol Shot"
+  },
+  {
+    "id": 1213567,
+    "name_cn": "暮光手枪射击雕文",
+    "name_en": "Glyph of the Twilight Pistol Shot"
+  },
+  {
+    "id": 1213568,
+    "name_cn": "镀金手枪射击雕文",
+    "name_en": "Glyph of the Gilded Pistol Shot"
+  },
+  {
+    "id": 1213569,
+    "name_cn": "海军上将手枪射击雕文",
+    "name_en": "Glyph of the Admiral's Pistol Shot"
+  },
+  {
+    "id": 1234337,
+    "name_cn": "鸮之雕文",
+    "name_en": "Glyph of the Strix"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 1229376,
+    "name_cn": "一键辅助",
+    "name_en": "Single-Button Assistant"
+  },
+  {
+    "id": 6197,
+    "name_cn": "鹰眼术",
+    "name_en": "Eagle Eye"
+  },
+  {
+    "id": 53270,
+    "name_cn": "奇珍异兽",
+    "name_en": "Exotic Beasts"
+  },
+  {
+    "id": 137015,
+    "name_cn": "野兽控制猎人",
+    "name_en": "Beast Mastery Hunter"
+  },
+  {
+    "id": 137016,
+    "name_cn": "射击猎人",
+    "name_en": "Marksmanship Hunter"
+  },
+  {
+    "id": 137017,
+    "name_cn": "生存猎人",
+    "name_en": "Survival Hunter"
+  },
+  {
+    "id": 186289,
+    "name_cn": "雄鹰守护",
+    "name_en": "Aspect of the Eagle"
+  },
+  {
+    "id": 190925,
+    "name_cn": "鱼叉猛刺",
+    "name_en": "Harpoon"
+  },
+  {
+    "id": 193265,
+    "name_cn": "投掷手斧",
+    "name_en": "Hatchet Toss"
+  },
+  {
+    "id": 257620,
+    "name_cn": "多重射击",
+    "name_en": "Multi-Shot"
+  },
+  {
+    "id": 321297,
+    "name_cn": "野兽之眼",
+    "name_en": "Eyes of the Beast"
+  },
+  {
+    "id": 321297,
+    "name_cn": "野兽之眼",
+    "name_en": "Eyes of the Beast"
+  },
+  {
+    "id": 462079,
+    "name_cn": "野兽控制猎人",
+    "name_en": "Beast Mastery Hunter"
+  },
+  {
+    "id": 462080,
+    "name_cn": "猎人",
+    "name_en": "Hunter"
+  },
+  {
+    "id": 462080,
+    "name_cn": "猎人",
+    "name_en": "Hunter"
+  },
+  {
+    "id": 462080,
+    "name_cn": "猎人",
+    "name_en": "Hunter"
+  },
+  {
+    "id": 462081,
+    "name_cn": "射击猎人",
+    "name_en": "Marksmanship Hunter"
+  },
+  {
+    "id": 462082,
+    "name_cn": "生存猎人",
+    "name_en": "Survival Hunter"
+  },
+  {
+    "id": 466904,
+    "name_cn": "鹞鹰尖啸",
+    "name_en": "Harrier's Cry"
+  },
+  {
+    "id": 1217788,
+    "name_cn": "捕人猎手",
+    "name_en": "Manhunter"
+  },
+  {
+    "id": 1219616,
+    "name_cn": "瞭望印记",
+    "name_en": "Spotter's Mark"
+  },
+  {
+    "id": 1256939,
+    "name_cn": "野兽控制猎人",
+    "name_en": "Beast Mastery Hunter"
+  },
+  {
+    "id": 1256940,
+    "name_cn": "射击猎人",
+    "name_en": "Marksmanship Hunter"
+  },
+  {
+    "id": 1256941,
+    "name_cn": "生存猎人",
+    "name_en": "Survival Hunter"
+  },
+  {
+    "id": 1277760,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 674,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 46584,
+    "name_cn": "亡者复生",
+    "name_en": "Raise Dead"
+  },
+  {
+    "id": 51462,
+    "name_cn": "符文腐蚀",
+    "name_en": "Runic Corruption"
+  },
+  {
+    "id": 59057,
+    "name_cn": "白霜",
+    "name_en": "Rime"
+  },
+  {
+    "id": 81136,
+    "name_cn": "赤色天灾",
+    "name_en": "Crimson Scourge"
+  },
+  {
+    "id": 81229,
+    "name_cn": "符文强化",
+    "name_en": "Runic Empowerment"
+  },
+  {
+    "id": 81333,
+    "name_cn": "冰冻废土之力",
+    "name_en": "Might of the Frozen Wastes"
+  },
+  {
+    "id": 85948,
+    "name_cn": "脓疮打击",
+    "name_en": "Festering Strike"
+  },
+  {
+    "id": 137006,
+    "name_cn": "冰霜死亡骑士",
+    "name_en": "Frost Death Knight"
+  },
+  {
+    "id": 137007,
+    "name_cn": "邪恶死亡骑士",
+    "name_en": "Unholy Death Knight"
+  },
+  {
+    "id": 137008,
+    "name_cn": "鲜血死亡骑士",
+    "name_en": "Blood Death Knight"
+  },
+  {
+    "id": 161797,
+    "name_cn": "还击",
+    "name_en": "Riposte"
+  },
+  {
+    "id": 178819,
+    "name_cn": "黑暗援助",
+    "name_en": "Dark Succor"
+  },
+  {
+    "id": 178819,
+    "name_cn": "黑暗援助",
+    "name_en": "Dark Succor"
+  },
+  {
+    "id": 195292,
+    "name_cn": "死神的抚摩",
+    "name_en": "Death's Caress"
+  },
+  {
+    "id": 195621,
+    "name_cn": "冰霜疫病",
+    "name_en": "Frost Fever"
+  },
+  {
+    "id": 195621,
+    "name_cn": "冰霜疫病",
+    "name_en": "Frost Fever"
+  },
+  {
+    "id": 195621,
+    "name_cn": "冰霜疫病",
+    "name_en": "Frost Fever"
+  },
+  {
+    "id": 196770,
+    "name_cn": "冷酷严冬",
+    "name_en": "Remorseless Winter"
+  },
+  {
+    "id": 207317,
+    "name_cn": "扩散",
+    "name_en": "Epidemic"
+  },
+  {
+    "id": 317214,
+    "name_cn": "掠霜使者",
+    "name_en": "Frostreaper"
+  },
+  {
+    "id": 325554,
+    "name_cn": "黑暗突变",
+    "name_en": "Dark Transformation"
+  },
+  {
+    "id": 374721,
+    "name_cn": "鲜血强固",
+    "name_en": "Blood Fortification"
+  },
+  {
+    "id": 462061,
+    "name_cn": "鲜血死亡骑士",
+    "name_en": "Blood Death Knight"
+  },
+  {
+    "id": 462062,
+    "name_cn": "死亡骑士",
+    "name_en": "Death Knight"
+  },
+  {
+    "id": 462062,
+    "name_cn": "死亡骑士",
+    "name_en": "Death Knight"
+  },
+  {
+    "id": 462062,
+    "name_cn": "死亡骑士",
+    "name_en": "Death Knight"
+  },
+  {
+    "id": 462063,
+    "name_cn": "冰霜死亡骑士",
+    "name_en": "Frost Death Knight"
+  },
+  {
+    "id": 462064,
+    "name_cn": "邪恶死亡骑士",
+    "name_en": "Unholy Death Knight"
+  },
+  {
+    "id": 1255830,
+    "name_cn": "次级食尸鬼",
+    "name_en": "Lesser Ghoul"
+  },
+  {
+    "id": 1256915,
+    "name_cn": "冰霜死亡骑士",
+    "name_en": "Frost Death Knight"
+  },
+  {
+    "id": 1256916,
+    "name_cn": "鲜血死亡骑士",
+    "name_en": "Blood Death Knight"
+  },
+  {
+    "id": 1256918,
+    "name_cn": "邪恶死亡骑士",
+    "name_en": "Unholy Death Knight"
+  },
+  {
+    "id": 16974,
+    "name_cn": "掠食者的迅捷",
+    "name_en": "Predatory Swiftness"
+  },
+  {
+    "id": 86093,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 86096,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 86097,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 86104,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 88423,
+    "name_cn": "自然之愈",
+    "name_en": "Nature's Cure"
+  },
+  {
+    "id": 137010,
+    "name_cn": "守护德鲁伊",
+    "name_en": "Guardian Druid"
+  },
+  {
+    "id": 137011,
+    "name_cn": "野性德鲁伊",
+    "name_en": "Feral Druid"
+  },
+  {
+    "id": 137012,
+    "name_cn": "恢复德鲁伊",
+    "name_en": "Restoration Druid"
+  },
+  {
+    "id": 137013,
+    "name_cn": "平衡德鲁伊",
+    "name_en": "Balance Druid"
+  },
+  {
+    "id": 157447,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 157447,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 190984,
+    "name_cn": "愤怒",
+    "name_en": "Wrath"
+  },
+  {
+    "id": 191034,
+    "name_cn": "星辰坠落",
+    "name_en": "Starfall"
+  },
+  {
+    "id": 197911,
+    "name_cn": "星界能量",
+    "name_en": "Astral Power"
+  },
+  {
+    "id": 212040,
+    "name_cn": "新生",
+    "name_en": "Revitalize"
+  },
+  {
+    "id": 231042,
+    "name_cn": "枭兽狂怒",
+    "name_en": "Owlkin Frenzy"
+  },
+  {
+    "id": 231065,
+    "name_cn": "闪电反射",
+    "name_en": "Lightning Reflexes"
+  },
+  {
+    "id": 270100,
+    "name_cn": "熊形态",
+    "name_en": "Bear Form"
+  },
+  {
+    "id": 300346,
+    "name_cn": "熊灵精锐",
+    "name_en": "Ursine Adept"
+  },
+  {
+    "id": 300349,
+    "name_cn": "灵猫精锐",
+    "name_en": "Feline Adept"
+  },
+  {
+    "id": 326646,
+    "name_cn": "月火术",
+    "name_en": "Moonfire"
+  },
+  {
+    "id": 405834,
+    "name_cn": "强化潜行",
+    "name_en": "Improved Prowl"
+  },
+  {
+    "id": 405834,
+    "name_cn": "强化潜行",
+    "name_en": "Improved Prowl"
+  },
+  {
+    "id": 405834,
+    "name_cn": "强化潜行",
+    "name_en": "Improved Prowl"
+  },
+  {
+    "id": 417382,
+    "name_cn": "初始德鲁伊",
+    "name_en": "Initial Druid"
+  },
+  {
+    "id": 440015,
+    "name_cn": "清除腐蚀",
+    "name_en": "Remove Corruption"
+  },
+  {
+    "id": 462068,
+    "name_cn": "平衡德鲁伊",
+    "name_en": "Balance Druid"
+  },
+  {
+    "id": 462069,
+    "name_cn": "德鲁伊",
+    "name_en": "Druid"
+  },
+  {
+    "id": 462069,
+    "name_cn": "德鲁伊",
+    "name_en": "Druid"
+  },
+  {
+    "id": 462069,
+    "name_cn": "德鲁伊",
+    "name_en": "Druid"
+  },
+  {
+    "id": 462069,
+    "name_cn": "德鲁伊",
+    "name_en": "Druid"
+  },
+  {
+    "id": 462070,
+    "name_cn": "野性德鲁伊",
+    "name_en": "Feral Druid"
+  },
+  {
+    "id": 462071,
+    "name_cn": "守护德鲁伊",
+    "name_en": "Guardian Druid"
+  },
+  {
+    "id": 468146,
+    "name_cn": "活性树脂",
+    "name_en": "Reactive Resin"
+  },
+  {
+    "id": 1256992,
+    "name_cn": "野性德鲁伊",
+    "name_en": "Feral Druid"
+  },
+  {
+    "id": 1256993,
+    "name_cn": "守护德鲁伊",
+    "name_en": "Guardian Druid"
+  },
+  {
+    "id": 1256995,
+    "name_cn": "恢复德鲁伊",
+    "name_en": "Restoration Druid"
+  },
+  {
+    "id": 1256996,
+    "name_cn": "平衡德鲁伊",
+    "name_en": "Balance Druid"
+  },
+  {
+    "id": 498,
+    "name_cn": "圣佑术",
+    "name_en": "Divine Protection"
+  },
+  {
+    "id": 4987,
+    "name_cn": "清洁术",
+    "name_en": "Cleanse"
+  },
+  {
+    "id": 25780,
+    "name_cn": "正义之怒",
+    "name_en": "Righteous Fury"
+  },
+  {
+    "id": 53563,
+    "name_cn": "圣光道标",
+    "name_en": "Beacon of Light"
+  },
+  {
+    "id": 82326,
+    "name_cn": "圣光术",
+    "name_en": "Holy Light"
+  },
+  {
+    "id": 85256,
+    "name_cn": "圣殿骑士的裁决",
+    "name_en": "Templar's Verdict"
+  },
+  {
+    "id": 93417,
+    "name_cn": "道德楷模",
+    "name_en": "Paragon of Virtue"
+  },
+  {
+    "id": 105805,
+    "name_cn": "庇护",
+    "name_en": "Sanctuary"
+  },
+  {
+    "id": 137027,
+    "name_cn": "惩戒圣骑士",
+    "name_en": "Retribution Paladin"
+  },
+  {
+    "id": 137028,
+    "name_cn": "防护圣骑士",
+    "name_en": "Protection Paladin"
+  },
+  {
+    "id": 137029,
+    "name_cn": "神圣圣骑士",
+    "name_en": "Holy Paladin"
+  },
+  {
+    "id": 161800,
+    "name_cn": "还击",
+    "name_en": "Riposte"
+  },
+  {
+    "id": 212056,
+    "name_cn": "宽恕",
+    "name_en": "Absolution"
+  },
+  {
+    "id": 231642,
+    "name_cn": "道标照耀",
+    "name_en": "Tower of Radiance"
+  },
+  {
+    "id": 275773,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 275779,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 289941,
+    "name_cn": "神圣震击",
+    "name_en": "Holy Shock"
+  },
+  {
+    "id": 315867,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 315867,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 315867,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 315921,
+    "name_cn": "荣耀圣令",
+    "name_en": "Word of Glory"
+  },
+  {
+    "id": 327980,
+    "name_cn": "奉献",
+    "name_en": "Consecration"
+  },
+  {
+    "id": 342348,
+    "name_cn": "十字军打击",
+    "name_en": "Crusader Strike"
+  },
+  {
+    "id": 342348,
+    "name_cn": "十字军打击",
+    "name_en": "Crusader Strike"
+  },
+  {
+    "id": 353367,
+    "name_cn": "圣光护盾",
+    "name_en": "Aegis of Light"
+  },
+  {
+    "id": 358934,
+    "name_cn": "圣光护盾",
+    "name_en": "Aegis of Light"
+  },
+  {
+    "id": 376996,
+    "name_cn": "精锐战马",
+    "name_en": "Seasoned Warhorse"
+  },
+  {
+    "id": 376996,
+    "name_cn": "精锐战马",
+    "name_en": "Seasoned Warhorse"
+  },
+  {
+    "id": 376996,
+    "name_cn": "精锐战马",
+    "name_en": "Seasoned Warhorse"
+  },
+  {
+    "id": 384376,
+    "name_cn": "复仇之怒",
+    "name_en": "Avenging Wrath"
+  },
+  {
+    "id": 384376,
+    "name_cn": "复仇之怒",
+    "name_en": "Avenging Wrath"
+  },
+  {
+    "id": 403876,
+    "name_cn": "圣佑术",
+    "name_en": "Divine Protection"
+  },
+  {
+    "id": 404752,
+    "name_cn": "惩戒律令",
+    "name_en": "Instrument of Retribution"
+  },
+  {
+    "id": 404834,
+    "name_cn": "奉献之剑",
+    "name_en": "Consecrated Blade"
+  },
+  {
+    "id": 412314,
+    "name_cn": "惩戒圣骑士",
+    "name_en": "Retribution Paladin"
+  },
+  {
+    "id": 415091,
+    "name_cn": "正义盾击",
+    "name_en": "Shield of the Righteous"
+  },
+  {
+    "id": 417383,
+    "name_cn": "初始圣骑士",
+    "name_en": "Initial Paladin"
+  },
+  {
+    "id": 428076,
+    "name_cn": "神圣圣骑士",
+    "name_en": "Holy Paladin"
+  },
+  {
+    "id": 440013,
+    "name_cn": "清毒术",
+    "name_en": "Cleanse Toxins"
+  },
+  {
+    "id": 462092,
+    "name_cn": "圣骑士",
+    "name_en": "Paladin"
+  },
+  {
+    "id": 462092,
+    "name_cn": "圣骑士",
+    "name_en": "Paladin"
+  },
+  {
+    "id": 462092,
+    "name_cn": "圣骑士",
+    "name_en": "Paladin"
+  },
+  {
+    "id": 462093,
+    "name_cn": "神圣圣骑士",
+    "name_en": "Holy Paladin"
+  },
+  {
+    "id": 462095,
+    "name_cn": "防护圣骑士",
+    "name_en": "Protection Paladin"
+  },
+  {
+    "id": 462096,
+    "name_cn": "惩戒圣骑士",
+    "name_en": "Retribution Paladin"
+  },
+  {
+    "id": 1256936,
+    "name_cn": "防护圣骑士",
+    "name_en": "Protection Paladin"
+  },
+  {
+    "id": 1258011,
+    "name_cn": "惩戒圣骑士",
+    "name_en": "Retribution Paladin"
+  },
+  {
+    "id": 1258016,
+    "name_cn": "神圣圣骑士",
+    "name_en": "Holy Paladin"
+  },
+  {
+    "id": 527,
+    "name_cn": "纯净术",
+    "name_en": "Purify"
+  },
+  {
+    "id": 527,
+    "name_cn": "纯净术",
+    "name_en": "Purify"
+  },
+  {
+    "id": 15286,
+    "name_cn": "吸血鬼的拥抱",
+    "name_en": "Vampiric Embrace"
+  },
+  {
+    "id": 15407,
+    "name_cn": "精神鞭笞",
+    "name_en": "Mind Flay"
+  },
+  {
+    "id": 15487,
+    "name_cn": "沉默",
+    "name_en": "Silence"
+  },
+  {
+    "id": 20711,
+    "name_cn": "救赎之魂",
+    "name_en": "Spirit of Redemption"
+  },
+  {
+    "id": 33076,
+    "name_cn": "愈合祷言",
+    "name_en": "Prayer of Mending"
+  },
+  {
+    "id": 34914,
+    "name_cn": "吸血鬼之触",
+    "name_en": "Vampiric Touch"
+  },
+  {
+    "id": 47540,
+    "name_cn": "苦修",
+    "name_en": "Penance"
+  },
+  {
+    "id": 47585,
+    "name_cn": "消散",
+    "name_en": "Dispersion"
+  },
+  {
+    "id": 63733,
+    "name_cn": "妙手回春",
+    "name_en": "Serendipity"
+  },
+  {
+    "id": 137031,
+    "name_cn": "神圣牧师",
+    "name_en": "Holy Priest"
+  },
+  {
+    "id": 137032,
+    "name_cn": "戒律牧师",
+    "name_en": "Discipline Priest"
+  },
+  {
+    "id": 137033,
+    "name_cn": "暗影牧师",
+    "name_en": "Shadow Priest"
+  },
+  {
+    "id": 200829,
+    "name_cn": "恳求",
+    "name_en": "Plea"
+  },
+  {
+    "id": 212036,
+    "name_cn": "群体复活",
+    "name_en": "Mass Resurrection"
+  },
+  {
+    "id": 212036,
+    "name_cn": "群体复活",
+    "name_en": "Mass Resurrection"
+  },
+  {
+    "id": 232698,
+    "name_cn": "暗影形态",
+    "name_en": "Shadowform"
+  },
+  {
+    "id": 280752,
+    "name_cn": "幻像",
+    "name_en": "Hallucinations"
+  },
+  {
+    "id": 397527,
+    "name_cn": "狂乱",
+    "name_en": "Insanity"
+  },
+  {
+    "id": 417191,
+    "name_cn": "初始牧师",
+    "name_en": "Initial Priest"
+  },
+  {
+    "id": 440006,
+    "name_cn": "净化疾病",
+    "name_en": "Purify Disease"
+  },
+  {
+    "id": 440006,
+    "name_cn": "净化疾病",
+    "name_en": "Purify Disease"
+  },
+  {
+    "id": 462097,
+    "name_cn": "牧师",
+    "name_en": "Priest"
+  },
+  {
+    "id": 462097,
+    "name_cn": "牧师",
+    "name_en": "Priest"
+  },
+  {
+    "id": 462097,
+    "name_cn": "牧师",
+    "name_en": "Priest"
+  },
+  {
+    "id": 462098,
+    "name_cn": "戒律牧师",
+    "name_en": "Discipline Priest"
+  },
+  {
+    "id": 462099,
+    "name_cn": "神圣牧师",
+    "name_en": "Holy Priest"
+  },
+  {
+    "id": 462101,
+    "name_cn": "暗影牧师",
+    "name_en": "Shadow Priest"
+  },
+  {
+    "id": 1238052,
+    "name_cn": "神圣牧师",
+    "name_en": "Holy Priest"
+  },
+  {
+    "id": 1256903,
+    "name_cn": "戒律牧师",
+    "name_en": "Discipline Priest"
+  },
+  {
+    "id": 1256905,
+    "name_cn": "暗影牧师",
+    "name_en": "Shadow Priest"
+  },
+  {
+    "id": 101545,
+    "name_cn": "翔龙在天",
+    "name_en": "Flying Serpent Kick"
+  },
+  {
+    "id": 115151,
+    "name_cn": "复苏之雾",
+    "name_en": "Renewing Mist"
+  },
+  {
+    "id": 115450,
+    "name_cn": "清创生血",
+    "name_en": "Detox"
+  },
+  {
+    "id": 116092,
+    "name_cn": "转生",
+    "name_en": "Afterlife"
+  },
+  {
+    "id": 120224,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 120225,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 120227,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 122470,
+    "name_cn": "业报之触",
+    "name_en": "Touch of Karma"
+  },
+  {
+    "id": 124146,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 124146,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 128595,
+    "name_cn": "进退自如",
+    "name_en": "Combat Conditioning"
+  },
+  {
+    "id": 137023,
+    "name_cn": "酒仙武僧",
+    "name_en": "Brewmaster Monk"
+  },
+  {
+    "id": 137024,
+    "name_cn": "织雾武僧",
+    "name_en": "Mistweaver Monk"
+  },
+  {
+    "id": 137025,
+    "name_cn": "踏风武僧",
+    "name_en": "Windwalker Monk"
+  },
+  {
+    "id": 157445,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 157445,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 202577,
+    "name_cn": "迷雾护体",
+    "name_en": "Dome of Mist"
+  },
+  {
+    "id": 212051,
+    "name_cn": "死而复生",
+    "name_en": "Reawaken"
+  },
+  {
+    "id": 216519,
+    "name_cn": "天神护佑",
+    "name_en": "Celestial Fortune"
+  },
+  {
+    "id": 231602,
+    "name_cn": "强化活血术",
+    "name_en": "Improved Vivify"
+  },
+  {
+    "id": 245013,
+    "name_cn": "酒仙之道",
+    "name_en": "Brewmaster's Balance"
+  },
+  {
+    "id": 261916,
+    "name_cn": "幻灭踢",
+    "name_en": "Blackout Kick"
+  },
+  {
+    "id": 322102,
+    "name_cn": "移花接木",
+    "name_en": "Expel Harm"
+  },
+  {
+    "id": 322719,
+    "name_cn": "亡魂化气",
+    "name_en": "Afterlife"
+  },
+  {
+    "id": 322729,
+    "name_cn": "神鹤引项踢",
+    "name_en": "Spinning Crane Kick"
+  },
+  {
+    "id": 323999,
+    "name_cn": "伏虎强雷",
+    "name_en": "Empowered Tiger Lightning"
+  },
+  {
+    "id": 325095,
+    "name_cn": "轮回之触",
+    "name_en": "Touch of Death"
+  },
+  {
+    "id": 325215,
+    "name_cn": "轮回之触",
+    "name_en": "Touch of Death"
+  },
+  {
+    "id": 343730,
+    "name_cn": "神鹤引项踢",
+    "name_en": "Spinning Crane Kick"
+  },
+  {
+    "id": 343731,
+    "name_cn": "破坏",
+    "name_en": "Disable"
+  },
+  {
+    "id": 344487,
+    "name_cn": "翔龙在天",
+    "name_en": "Flying Serpent Kick"
+  },
+  {
+    "id": 346104,
+    "name_cn": "Windwalker Monk Two-Hand Adjustment",
+    "name_en": "Windwalker Monk Two-Hand Adjustment"
+  },
+  {
+    "id": 346104,
+    "name_cn": "Windwalker Monk Two-Hand Adjustment",
+    "name_en": "Windwalker Monk Two-Hand Adjustment"
+  },
+  {
+    "id": 362170,
+    "name_cn": "Initial Monk",
+    "name_en": "Initial Monk"
+  },
+  {
+    "id": 388023,
+    "name_cn": "谆谆古训",
+    "name_en": "Ancient Teachings"
+  },
+  {
+    "id": 428200,
+    "name_cn": "织雾武僧",
+    "name_en": "Mistweaver Monk"
+  },
+  {
+    "id": 440008,
+    "name_cn": "凝望平和",
+    "name_en": "Peer Into Peace"
+  },
+  {
+    "id": 462087,
+    "name_cn": "酒仙武僧",
+    "name_en": "Brewmaster Monk"
+  },
+  {
+    "id": 462088,
+    "name_cn": "武僧",
+    "name_en": "Monk"
+  },
+  {
+    "id": 462088,
+    "name_cn": "武僧",
+    "name_en": "Monk"
+  },
+  {
+    "id": 462088,
+    "name_cn": "武僧",
+    "name_en": "Monk"
+  },
+  {
+    "id": 462090,
+    "name_cn": "织雾武僧",
+    "name_en": "Mistweaver Monk"
+  },
+  {
+    "id": 462091,
+    "name_cn": "踏风武僧",
+    "name_en": "Windwalker Monk"
+  },
+  {
+    "id": 1222923,
+    "name_cn": "踏风武僧",
+    "name_en": "Windwalker Monk"
+  },
+  {
+    "id": 1256978,
+    "name_cn": "酒仙武僧",
+    "name_en": "Brewmaster Monk"
+  },
+  {
+    "id": 1258122,
+    "name_cn": "踏风武僧",
+    "name_en": "Windwalker Monk"
+  },
+  {
+    "id": 1258138,
+    "name_cn": "织雾武僧",
+    "name_en": "Mistweaver Monk"
+  },
+  {
+    "id": 1258153,
+    "name_cn": "酒仙武僧",
+    "name_en": "Brewmaster Monk"
+  },
+  {
+    "id": 1285660,
+    "name_cn": "静谧活力",
+    "name_en": "Serene Vitality"
+  },
+  {
+    "id": 71,
+    "name_cn": "先锋",
+    "name_en": "Vanguard"
+  },
+  {
+    "id": 1161,
+    "name_cn": "挑战怒吼",
+    "name_en": "Challenging Shout"
+  },
+  {
+    "id": 5308,
+    "name_cn": "斩杀",
+    "name_en": "Execute"
+  },
+  {
+    "id": 20243,
+    "name_cn": "毁灭打击",
+    "name_en": "Devastate"
+  },
+  {
+    "id": 46917,
+    "name_cn": "泰坦之握",
+    "name_en": "Titan's Grip"
+  },
+  {
+    "id": 81099,
+    "name_cn": "泰坦之握：鲁莽怒火",
+    "name_en": "Titan's Grip: Single-Minded Fury"
+  },
+  {
+    "id": 137048,
+    "name_cn": "防护战士",
+    "name_en": "Protection Warrior"
+  },
+  {
+    "id": 137049,
+    "name_cn": "武器战士",
+    "name_en": "Arms Warrior"
+  },
+  {
+    "id": 137050,
+    "name_cn": "狂怒战士",
+    "name_en": "Fury Warrior"
+  },
+  {
+    "id": 161798,
+    "name_cn": "还击",
+    "name_en": "Riposte"
+  },
+  {
+    "id": 184361,
+    "name_cn": "激怒",
+    "name_en": "Enrage"
+  },
+  {
+    "id": 190411,
+    "name_cn": "旋风斩",
+    "name_en": "Whirlwind"
+  },
+  {
+    "id": 231842,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 231847,
+    "name_cn": "盾牌格挡",
+    "name_en": "Shield Block"
+  },
+  {
+    "id": 260708,
+    "name_cn": "横扫攻击",
+    "name_en": "Sweeping Strikes"
+  },
+  {
+    "id": 279423,
+    "name_cn": "百战老兵",
+    "name_en": "Seasoned Soldier"
+  },
+  {
+    "id": 316428,
+    "name_cn": "先锋",
+    "name_en": "Vanguard"
+  },
+  {
+    "id": 316432,
+    "name_cn": "横扫攻击",
+    "name_en": "Sweeping Strikes"
+  },
+  {
+    "id": 325446,
+    "name_cn": "原初战士",
+    "name_en": "Initial Warrior"
+  },
+  {
+    "id": 397708,
+    "name_cn": "强化斩杀",
+    "name_en": "Improved Execute"
+  },
+  {
+    "id": 462115,
+    "name_cn": "武器战士",
+    "name_en": "Arms Warrior"
+  },
+  {
+    "id": 462116,
+    "name_cn": "战士",
+    "name_en": "Warrior"
+  },
+  {
+    "id": 462116,
+    "name_cn": "战士",
+    "name_en": "Warrior"
+  },
+  {
+    "id": 462116,
+    "name_cn": "战士",
+    "name_en": "Warrior"
+  },
+  {
+    "id": 462117,
+    "name_cn": "狂怒战士",
+    "name_en": "Fury Warrior"
+  },
+  {
+    "id": 462119,
+    "name_cn": "防护战士",
+    "name_en": "Protection Warrior"
+  },
+  {
+    "id": 1256919,
+    "name_cn": "武器战士",
+    "name_en": "Arms Warrior"
+  },
+  {
+    "id": 1256935,
+    "name_cn": "防护战士",
+    "name_en": "Protection Warrior"
+  },
+  {
+    "id": 1257520,
+    "name_cn": "狂怒战士",
+    "name_en": "Fury Warrior"
+  },
+  {
+    "id": 1258163,
+    "name_cn": "防护战士",
+    "name_en": "Protection Warrior"
+  },
+  {
+    "id": 348,
+    "name_cn": "献祭",
+    "name_en": "Immolate"
+  },
+  {
+    "id": 29722,
+    "name_cn": "烧尽",
+    "name_en": "Incinerate"
+  },
+  {
+    "id": 137043,
+    "name_cn": "痛苦术士",
+    "name_en": "Affliction Warlock"
+  },
+  {
+    "id": 137044,
+    "name_cn": "恶魔学识术士",
+    "name_en": "Demonology Warlock"
+  },
+  {
+    "id": 137046,
+    "name_cn": "毁灭术士",
+    "name_en": "Destruction Warlock"
+  },
+  {
+    "id": 231811,
+    "name_cn": "灵魂石",
+    "name_en": "Soulstone"
+  },
+  {
+    "id": 231811,
+    "name_cn": "灵魂石",
+    "name_en": "Soulstone"
+  },
+  {
+    "id": 231811,
+    "name_cn": "灵魂石",
+    "name_en": "Soulstone"
+  },
+  {
+    "id": 334591,
+    "name_cn": "恶魔火焰箭",
+    "name_en": "Fel Firebolt"
+  },
+  {
+    "id": 462111,
+    "name_cn": "痛苦术士",
+    "name_en": "Affliction Warlock"
+  },
+  {
+    "id": 462112,
+    "name_cn": "术士",
+    "name_en": "Warlock"
+  },
+  {
+    "id": 462112,
+    "name_cn": "术士",
+    "name_en": "Warlock"
+  },
+  {
+    "id": 462112,
+    "name_cn": "术士",
+    "name_en": "Warlock"
+  },
+  {
+    "id": 462113,
+    "name_cn": "恶魔学识术士",
+    "name_en": "Demonology Warlock"
+  },
+  {
+    "id": 462114,
+    "name_cn": "毁灭术士",
+    "name_en": "Destruction Warlock"
+  },
+  {
+    "id": 1256906,
+    "name_cn": "痛苦术士",
+    "name_en": "Affliction Warlock"
+  },
+  {
+    "id": 1256907,
+    "name_cn": "恶魔学识术士",
+    "name_en": "Demonology Warlock"
+  },
+  {
+    "id": 1256908,
+    "name_cn": "毁灭术士",
+    "name_en": "Destruction Warlock"
+  },
+  {
+    "id": 133,
+    "name_cn": "火球术",
+    "name_en": "Fireball"
+  },
+  {
+    "id": 30451,
+    "name_cn": "奥术冲击",
+    "name_en": "Arcane Blast"
+  },
+  {
+    "id": 44425,
+    "name_cn": "奥术弹幕",
+    "name_en": "Arcane Barrage"
+  },
+  {
+    "id": 137019,
+    "name_cn": "火焰法师",
+    "name_en": "Fire Mage"
+  },
+  {
+    "id": 137020,
+    "name_cn": "冰霜法师",
+    "name_en": "Frost Mage"
+  },
+  {
+    "id": 137021,
+    "name_cn": "奥术法师",
+    "name_en": "Arcane Mage"
+  },
+  {
+    "id": 195283,
+    "name_cn": "炽热连击",
+    "name_en": "Hot Streak"
+  },
+  {
+    "id": 462083,
+    "name_cn": "奥术法师",
+    "name_en": "Arcane Mage"
+  },
+  {
+    "id": 462084,
+    "name_cn": "法师",
+    "name_en": "Mage"
+  },
+  {
+    "id": 462084,
+    "name_cn": "法师",
+    "name_en": "Mage"
+  },
+  {
+    "id": 462084,
+    "name_cn": "法师",
+    "name_en": "Mage"
+  },
+  {
+    "id": 462085,
+    "name_cn": "火焰法师",
+    "name_en": "Fire Mage"
+  },
+  {
+    "id": 462086,
+    "name_cn": "冰霜法师",
+    "name_en": "Frost Mage"
+  },
+  {
+    "id": 1246769,
+    "name_cn": "碎裂",
+    "name_en": "Shatter"
+  },
+  {
+    "id": 1247775,
+    "name_cn": "凛冬之末",
+    "name_en": "Winter's End"
+  },
+  {
+    "id": 1256909,
+    "name_cn": "奥术法师",
+    "name_en": "Arcane Mage"
+  },
+  {
+    "id": 1256911,
+    "name_cn": "火焰法师",
+    "name_en": "Fire Mage"
+  },
+  {
+    "id": 1256913,
+    "name_cn": "冰霜法师",
+    "name_en": "Frost Mage"
+  },
+  {
+    "id": 53,
+    "name_cn": "背刺",
+    "name_en": "Backstab"
+  },
+  {
+    "id": 703,
+    "name_cn": "锁喉",
+    "name_en": "Garrote"
+  },
+  {
+    "id": 1329,
+    "name_cn": "毁伤",
+    "name_en": "Mutilate"
+  },
+  {
+    "id": 1943,
+    "name_cn": "割裂",
+    "name_en": "Rupture"
+  },
+  {
+    "id": 2098,
+    "name_cn": "斩击",
+    "name_en": "Dispatch"
+  },
+  {
+    "id": 13877,
+    "name_cn": "剑刃乱舞",
+    "name_en": "Blade Flurry"
+  },
+  {
+    "id": 32645,
+    "name_cn": "毒伤",
+    "name_en": "Envenom"
+  },
+  {
+    "id": 51667,
+    "name_cn": "穷追猛砍",
+    "name_en": "Cut to the Chase"
+  },
+  {
+    "id": 51667,
+    "name_cn": "穷追猛砍",
+    "name_en": "Cut to the Chase"
+  },
+  {
+    "id": 51667,
+    "name_cn": "穷追猛砍",
+    "name_en": "Cut to the Chase"
+  },
+  {
+    "id": 51723,
+    "name_cn": "刀扇",
+    "name_en": "Fan of Knives"
+  },
+  {
+    "id": 79096,
+    "name_cn": "无休锋刃",
+    "name_en": "Restless Blades"
+  },
+  {
+    "id": 114014,
+    "name_cn": "飞镖投掷",
+    "name_en": "Shuriken Toss"
+  },
+  {
+    "id": 137035,
+    "name_cn": "敏锐潜行者",
+    "name_en": "Subtlety Rogue"
+  },
+  {
+    "id": 137036,
+    "name_cn": "狂徒潜行者",
+    "name_en": "Outlaw Rogue"
+  },
+  {
+    "id": 137037,
+    "name_cn": "奇袭潜行者",
+    "name_en": "Assassination Rogue"
+  },
+  {
+    "id": 185313,
+    "name_cn": "暗影之舞",
+    "name_en": "Shadow Dance"
+  },
+  {
+    "id": 185438,
+    "name_cn": "暗影打击",
+    "name_en": "Shadowstrike"
+  },
+  {
+    "id": 185565,
+    "name_cn": "剧毒之刃",
+    "name_en": "Poisoned Knife"
+  },
+  {
+    "id": 185763,
+    "name_cn": "手枪射击",
+    "name_en": "Pistol Shot"
+  },
+  {
+    "id": 193315,
+    "name_cn": "影袭",
+    "name_en": "Sinister Strike"
+  },
+  {
+    "id": 195457,
+    "name_cn": "抓钩",
+    "name_en": "Grappling Hook"
+  },
+  {
+    "id": 196912,
+    "name_cn": "暗影技巧",
+    "name_en": "Shadow Techniques"
+  },
+  {
+    "id": 197835,
+    "name_cn": "袖剑风暴",
+    "name_en": "Shuriken Storm"
+  },
+  {
+    "id": 315341,
+    "name_cn": "正中眉心",
+    "name_en": "Between the Eyes"
+  },
+  {
+    "id": 319175,
+    "name_cn": "黑火药",
+    "name_en": "Black Powder"
+  },
+  {
+    "id": 319473,
+    "name_cn": "精通：强效奇袭",
+    "name_en": "Mastery: Potent Assassin"
+  },
+  {
+    "id": 319600,
+    "name_cn": "抓钩",
+    "name_en": "Grappling Hook"
+  },
+  {
+    "id": 394932,
+    "name_cn": "暗影步",
+    "name_en": "Shadowstep"
+  },
+  {
+    "id": 394935,
+    "name_cn": "暗影步",
+    "name_en": "Shadowstep"
+  },
+  {
+    "id": 462102,
+    "name_cn": "奇袭潜行者",
+    "name_en": "Assassination Rogue"
+  },
+  {
+    "id": 462103,
+    "name_cn": "潜行者",
+    "name_en": "Rogue"
+  },
+  {
+    "id": 462103,
+    "name_cn": "潜行者",
+    "name_en": "Rogue"
+  },
+  {
+    "id": 462103,
+    "name_cn": "潜行者",
+    "name_en": "Rogue"
+  },
+  {
+    "id": 462104,
+    "name_cn": "狂徒潜行者",
+    "name_en": "Outlaw Rogue"
+  },
+  {
+    "id": 462105,
+    "name_cn": "敏锐潜行者",
+    "name_en": "Subtlety Rogue"
+  },
+  {
+    "id": 1214909,
+    "name_cn": "命运骨骰",
+    "name_en": "Roll the Bones"
+  },
+  {
+    "id": 1256946,
+    "name_cn": "敏锐潜行者",
+    "name_en": "Subtlety Rogue"
+  },
+  {
+    "id": 1256947,
+    "name_cn": "狂徒潜行者",
+    "name_en": "Outlaw Rogue"
+  },
+  {
+    "id": 1256950,
+    "name_cn": "奇袭潜行者",
+    "name_en": "Assassination Rogue"
+  },
+  {
+    "id": 1279401,
+    "name_cn": "袖剑风暴",
+    "name_en": "Shuriken Storm"
+  },
+  {
+    "id": 17364,
+    "name_cn": "风暴打击",
+    "name_en": "Stormstrike"
+  },
+  {
+    "id": 51490,
+    "name_cn": "雷霆风暴",
+    "name_en": "Thunderstorm"
+  },
+  {
+    "id": 52127,
+    "name_cn": "水之护盾",
+    "name_en": "Water Shield"
+  },
+  {
+    "id": 77130,
+    "name_cn": "净化灵魂",
+    "name_en": "Purify Spirit"
+  },
+  {
+    "id": 77472,
+    "name_cn": "治疗波",
+    "name_en": "Healing Wave"
+  },
+  {
+    "id": 77756,
+    "name_cn": "熔岩奔腾",
+    "name_en": "Lava Surge"
+  },
+  {
+    "id": 77756,
+    "name_cn": "熔岩奔腾",
+    "name_en": "Lava Surge"
+  },
+  {
+    "id": 86629,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 137039,
+    "name_cn": "恢复萨满祭司",
+    "name_en": "Restoration Shaman"
+  },
+  {
+    "id": 137040,
+    "name_cn": "元素萨满祭司",
+    "name_en": "Elemental Shaman"
+  },
+  {
+    "id": 137041,
+    "name_cn": "增强萨满祭司",
+    "name_en": "Enhancement Shaman"
+  },
+  {
+    "id": 187828,
+    "name_cn": "漩涡值",
+    "name_en": "Maelstrom"
+  },
+  {
+    "id": 201845,
+    "name_cn": "风暴喷涌",
+    "name_en": "Stormsurge"
+  },
+  {
+    "id": 212048,
+    "name_cn": "先祖视界",
+    "name_en": "Ancestral Vision"
+  },
+  {
+    "id": 343725,
+    "name_cn": "漩涡",
+    "name_en": "Maelstrom"
+  },
+  {
+    "id": 378776,
+    "name_cn": "紊流",
+    "name_en": "Inundate"
+  },
+  {
+    "id": 417374,
+    "name_cn": "初始萨满祭司",
+    "name_en": "Initial Shaman"
+  },
+  {
+    "id": 440012,
+    "name_cn": "净化灵魂",
+    "name_en": "Cleanse Spirit"
+  },
+  {
+    "id": 462106,
+    "name_cn": "萨满祭司",
+    "name_en": "Shaman"
+  },
+  {
+    "id": 462106,
+    "name_cn": "萨满祭司",
+    "name_en": "Shaman"
+  },
+  {
+    "id": 462106,
+    "name_cn": "萨满祭司",
+    "name_en": "Shaman"
+  },
+  {
+    "id": 462107,
+    "name_cn": "元素萨满祭司",
+    "name_en": "Elemental Shaman"
+  },
+  {
+    "id": 462108,
+    "name_cn": "增强萨满祭司",
+    "name_en": "Enhancement Shaman"
+  },
+  {
+    "id": 462110,
+    "name_cn": "恢复萨满祭司",
+    "name_en": "Restoration Shaman"
+  },
+  {
+    "id": 1214207,
+    "name_cn": "增强萨满祭司",
+    "name_en": "Enhancement Shaman"
+  },
+  {
+    "id": 1231772,
+    "name_cn": "元素萨满祭司",
+    "name_en": "Elemental Shaman"
+  },
+  {
+    "id": 1256945,
+    "name_cn": "恢复萨满祭司",
+    "name_en": "Restoration Shaman"
+  },
+  {
+    "id": 162243,
+    "name_cn": "恶魔之咬",
+    "name_en": "Demon's Bite"
+  },
+  {
+    "id": 162794,
+    "name_cn": "混乱打击",
+    "name_en": "Chaos Strike"
+  },
+  {
+    "id": 178940,
+    "name_cn": "破碎灵魂",
+    "name_en": "Shattered Souls"
+  },
+  {
+    "id": 187827,
+    "name_cn": "恶魔变形",
+    "name_en": "Metamorphosis"
+  },
+  {
+    "id": 188499,
+    "name_cn": "刃舞",
+    "name_en": "Blade Dance"
+  },
+  {
+    "id": 189110,
+    "name_cn": "地狱火撞击",
+    "name_en": "Infernal Strike"
+  },
+  {
+    "id": 195072,
+    "name_cn": "邪能冲撞",
+    "name_en": "Fel Rush"
+  },
+  {
+    "id": 198589,
+    "name_cn": "疾影",
+    "name_en": "Blur"
+  },
+  {
+    "id": 198589,
+    "name_cn": "疾影",
+    "name_en": "Blur"
+  },
+  {
+    "id": 203513,
+    "name_cn": "恶魔结界",
+    "name_en": "Demonic Wards"
+  },
+  {
+    "id": 203720,
+    "name_cn": "恶魔尖刺",
+    "name_en": "Demon Spikes"
+  },
+  {
+    "id": 203783,
+    "name_cn": "裂魂",
+    "name_en": "Shear"
+  },
+  {
+    "id": 204157,
+    "name_cn": "投掷利刃",
+    "name_en": "Throw Glaive"
+  },
+  {
+    "id": 204254,
+    "name_cn": "破碎灵魂",
+    "name_en": "Shattered Souls"
+  },
+  {
+    "id": 204596,
+    "name_cn": "烈焰咒符",
+    "name_en": "Sigil of Flame"
+  },
+  {
+    "id": 207197,
+    "name_cn": "还击",
+    "name_en": "Riposte"
+  },
+  {
+    "id": 212612,
+    "name_cn": "浩劫恶魔猎手",
+    "name_en": "Havoc Demon Hunter"
+  },
+  {
+    "id": 212613,
+    "name_cn": "复仇恶魔猎手",
+    "name_en": "Vengeance Demon Hunter"
+  },
+  {
+    "id": 221351,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 221351,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 228477,
+    "name_cn": "灵魂裂劈",
+    "name_en": "Soul Cleave"
+  },
+  {
+    "id": 278386,
+    "name_cn": "恶魔结界",
+    "name_en": "Demonic Wards"
+  },
+  {
+    "id": 320377,
+    "name_cn": "献祭光环",
+    "name_en": "Immolation Aura"
+  },
+  {
+    "id": 320378,
+    "name_cn": "献祭光环",
+    "name_en": "Immolation Aura"
+  },
+  {
+    "id": 320380,
+    "name_cn": "皮糙肉厚",
+    "name_en": "Thick Skin"
+  },
+  {
+    "id": 320381,
+    "name_cn": "恶魔结界",
+    "name_en": "Demonic Wards"
+  },
+  {
+    "id": 320382,
+    "name_cn": "恶魔结界",
+    "name_en": "Demonic Wards"
+  },
+  {
+    "id": 320402,
+    "name_cn": "刃舞",
+    "name_en": "Blade Dance"
+  },
+  {
+    "id": 320639,
+    "name_cn": "邪能毁灭",
+    "name_en": "Fel Devastation"
+  },
+  {
+    "id": 320794,
+    "name_cn": "烈焰咒符",
+    "name_en": "Sigil of Flame"
+  },
+  {
+    "id": 320962,
+    "name_cn": "烈火烙印",
+    "name_en": "Fiery Brand"
+  },
+  {
+    "id": 321028,
+    "name_cn": "恶魔尖刺",
+    "name_en": "Demon Spikes"
+  },
+  {
+    "id": 321067,
+    "name_cn": "恶魔变形",
+    "name_en": "Metamorphosis"
+  },
+  {
+    "id": 321068,
+    "name_cn": "恶魔变形",
+    "name_en": "Metamorphosis"
+  },
+  {
+    "id": 462065,
+    "name_cn": "恶魔猎手",
+    "name_en": "Demon Hunter"
+  },
+  {
+    "id": 462065,
+    "name_cn": "恶魔猎手",
+    "name_en": "Demon Hunter"
+  },
+  {
+    "id": 462065,
+    "name_cn": "恶魔猎手",
+    "name_en": "Demon Hunter"
+  },
+  {
+    "id": 462066,
+    "name_cn": "浩劫恶魔猎手",
+    "name_en": "Havoc Demon Hunter"
+  },
+  {
+    "id": 462067,
+    "name_cn": "复仇恶魔猎手",
+    "name_en": "Vengeance Demon Hunter"
+  },
+  {
+    "id": 473662,
+    "name_cn": "吞噬",
+    "name_en": "Consume"
+  },
+  {
+    "id": 1213636,
+    "name_cn": "噬灭恶魔猎手",
+    "name_en": "Devourer Demon Hunter"
+  },
+  {
+    "id": 1217605,
+    "name_cn": "虚空变形",
+    "name_en": "Void Metamorphosis"
+  },
+  {
+    "id": 1226019,
+    "name_cn": "收割",
+    "name_en": "Reap"
+  },
+  {
+    "id": 1227619,
+    "name_cn": "破碎灵魂",
+    "name_en": "Shattered Souls"
+  },
+  {
+    "id": 1234796,
+    "name_cn": "变换",
+    "name_en": "Shift"
+  },
+  {
+    "id": 1251417,
+    "name_cn": "幽灵视觉",
+    "name_en": "Spectral Sight"
+  },
+  {
+    "id": 1256955,
+    "name_cn": "浩劫恶魔猎手",
+    "name_en": "Havoc Demon Hunter"
+  },
+  {
+    "id": 1256959,
+    "name_cn": "复仇恶魔猎手",
+    "name_en": "Vengeance Demon Hunter"
+  },
+  {
+    "id": 1256964,
+    "name_cn": "噬灭恶魔猎手",
+    "name_en": "Devourer Demon Hunter"
+  },
+  {
+    "id": 1256968,
+    "name_cn": "噬灭恶魔猎手",
+    "name_en": "Devourer Demon Hunter"
+  },
+  {
+    "id": 1260008,
+    "name_cn": "冷酷专注",
+    "name_en": "Grim Focus"
+  },
+  {
+    "id": 1277734,
+    "name_cn": "皮甲专精",
+    "name_en": "Leather Specialization"
+  },
+  {
+    "id": 1277736,
+    "name_cn": "恶魔结界",
+    "name_en": "Demonic Wards"
+  },
+  {
+    "id": 1285383,
+    "name_cn": "初始恶魔猎手",
+    "name_en": "Initial Demon Hunter"
+  },
+  {
+    "id": 1285387,
+    "name_cn": "破碎灵魂",
+    "name_en": "Shattered Souls"
+  },
+  {
+    "id": 356809,
+    "name_cn": "湮灭唤魔师",
+    "name_en": "Devastation Evoker"
+  },
+  {
+    "id": 356810,
+    "name_cn": "恩护唤魔师",
+    "name_en": "Preservation Evoker"
+  },
+  {
+    "id": 356816,
+    "name_cn": "基础唤魔师",
+    "name_en": "Initial Evoker"
+  },
+  {
+    "id": 360823,
+    "name_cn": "自然平衡",
+    "name_en": "Naturalize"
+  },
+  {
+    "id": 361021,
+    "name_cn": "威力感知",
+    "name_en": "Sense Power"
+  },
+  {
+    "id": 361178,
+    "name_cn": "群体生还",
+    "name_en": "Mass Return"
+  },
+  {
+    "id": 365261,
+    "name_cn": "翡翠之花",
+    "name_en": "Emerald Blossom"
+  },
+  {
+    "id": 365261,
+    "name_cn": "翡翠之花",
+    "name_en": "Emerald Blossom"
+  },
+  {
+    "id": 365261,
+    "name_cn": "翡翠之花",
+    "name_en": "Emerald Blossom"
+  },
+  {
+    "id": 365262,
+    "name_cn": "强化翡翠之花",
+    "name_en": "Improved Emerald Blossom"
+  },
+  {
+    "id": 395153,
+    "name_cn": "时间之沙",
+    "name_en": "Sands of Time"
+  },
+  {
+    "id": 396043,
+    "name_cn": "亲如胞友",
+    "name_en": "Close as Clutchmates"
+  },
+  {
+    "id": 396186,
+    "name_cn": "增辉唤魔师",
+    "name_en": "Augmentation Evoker"
+  },
+  {
+    "id": 406041,
+    "name_cn": "滋养之沙",
+    "name_en": "Nourishing Sands"
+  },
+  {
+    "id": 462074,
+    "name_cn": "增辉唤魔师",
+    "name_en": "Augmentation Evoker"
+  },
+  {
+    "id": 462075,
+    "name_cn": "唤魔师",
+    "name_en": "Evoker"
+  },
+  {
+    "id": 462075,
+    "name_cn": "唤魔师",
+    "name_en": "Evoker"
+  },
+  {
+    "id": 462075,
+    "name_cn": "唤魔师",
+    "name_en": "Evoker"
+  },
+  {
+    "id": 462076,
+    "name_cn": "湮灭唤魔师",
+    "name_en": "Devastation Evoker"
+  },
+  {
+    "id": 462078,
+    "name_cn": "恩护唤魔师",
+    "name_en": "Preservation Evoker"
+  },
+  {
+    "id": 1256942,
+    "name_cn": "增辉唤魔师",
+    "name_en": "Augmentation Evoker"
+  },
+  {
+    "id": 1256943,
+    "name_cn": "湮灭唤魔师",
+    "name_en": "Devastation Evoker"
+  },
+  {
+    "id": 1256944,
+    "name_cn": "恩护唤魔师",
+    "name_en": "Preservation Evoker"
+  },
+  {
+    "id": 1286123,
+    "name_cn": "湮灭唤魔师",
+    "name_en": "Devastation Evoker"
+  },
+  {
+    "id": 107,
+    "name_cn": "格挡",
+    "name_en": "Block"
+  },
+  {
+    "id": 107,
+    "name_cn": "格挡",
+    "name_en": "Block"
+  },
+  {
+    "id": 107,
+    "name_cn": "格挡",
+    "name_en": "Block"
+  },
+  {
+    "id": 5019,
+    "name_cn": "射击",
+    "name_en": "Shoot"
+  },
+  {
+    "id": 5019,
+    "name_cn": "射击",
+    "name_en": "Shoot"
+  },
+  {
+    "id": 5019,
+    "name_cn": "射击",
+    "name_en": "Shoot"
+  },
+  {
+    "id": 366524,
+    "name_cn": "锁甲专精",
+    "name_en": "Mail Specialization"
+  },
+  {
+    "id": 136,
+    "name_cn": "治疗宠物",
+    "name_en": "Mend Pet"
+  },
+  {
+    "id": 781,
+    "name_cn": "逃脱",
+    "name_en": "Disengage"
+  },
+  {
+    "id": 883,
+    "name_cn": "召唤宠物 1",
+    "name_en": "Call Pet 1"
+  },
+  {
+    "id": 982,
+    "name_cn": "复活宠物",
+    "name_en": "Revive Pet"
+  },
+  {
+    "id": 1462,
+    "name_cn": "野兽知识",
+    "name_en": "Beast Lore"
+  },
+  {
+    "id": 1515,
+    "name_cn": "驯服野兽",
+    "name_en": "Tame Beast"
+  },
+  {
+    "id": 1543,
+    "name_cn": "照明弹",
+    "name_en": "Flare"
+  },
+  {
+    "id": 2641,
+    "name_cn": "解散宠物",
+    "name_en": "Dismiss Pet"
+  },
+  {
+    "id": 5384,
+    "name_cn": "假死",
+    "name_en": "Feign Death"
+  },
+  {
+    "id": 6991,
+    "name_cn": "喂养宠物",
+    "name_en": "Feed Pet"
+  },
+  {
+    "id": 56641,
+    "name_cn": "稳固射击",
+    "name_en": "Steady Shot"
+  },
+  {
+    "id": 61648,
+    "name_cn": "变色龙守护",
+    "name_en": "Aspect of the Chameleon"
+  },
+  {
+    "id": 83242,
+    "name_cn": "召唤宠物 2",
+    "name_en": "Call Pet 2"
+  },
+  {
+    "id": 83243,
+    "name_cn": "召唤宠物 3",
+    "name_en": "Call Pet 3"
+  },
+  {
+    "id": 83244,
+    "name_cn": "召唤宠物 4",
+    "name_en": "Call Pet 4"
+  },
+  {
+    "id": 83245,
+    "name_cn": "召唤宠物 5",
+    "name_en": "Call Pet 5"
+  },
+  {
+    "id": 93321,
+    "name_cn": "控制宠物",
+    "name_en": "Control Pet"
+  },
+  {
+    "id": 109304,
+    "name_cn": "意气风发",
+    "name_en": "Exhilaration"
+  },
+  {
+    "id": 125050,
+    "name_cn": "拾回",
+    "name_en": "Fetch"
+  },
+  {
+    "id": 127933,
+    "name_cn": "烟花",
+    "name_en": "Fireworks"
+  },
+  {
+    "id": 137014,
+    "name_cn": "猎人",
+    "name_en": "Hunter"
+  },
+  {
+    "id": 157443,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 162487,
+    "name_cn": "精钢陷阱",
+    "name_en": "Steel Trap"
+  },
+  {
+    "id": 185358,
+    "name_cn": "奥术射击",
+    "name_en": "Arcane Shot"
+  },
+  {
+    "id": 186257,
+    "name_cn": "猎豹守护",
+    "name_en": "Aspect of the Cheetah"
+  },
+  {
+    "id": 186265,
+    "name_cn": "灵龟守护",
+    "name_en": "Aspect of the Turtle"
+  },
+  {
+    "id": 187650,
+    "name_cn": "冰冻陷阱",
+    "name_en": "Freezing Trap"
+  },
+  {
+    "id": 195645,
+    "name_cn": "摔绊",
+    "name_en": "Wing Clip"
+  },
+  {
+    "id": 209997,
+    "name_cn": "装死",
+    "name_en": "Play Dead"
+  },
+  {
+    "id": 210000,
+    "name_cn": "唤醒",
+    "name_en": "Wake Up"
+  },
+  {
+    "id": 257284,
+    "name_cn": "猎人印记",
+    "name_en": "Hunter's Mark"
+  },
+  {
+    "id": 259398,
+    "name_cn": "飞轮",
+    "name_en": "Chakrams"
+  },
+  {
+    "id": 272651,
+    "name_cn": "宠物掌控",
+    "name_en": "Command Pet"
+  },
+  {
+    "id": 325028,
+    "name_cn": "死亡飞轮",
+    "name_en": "Death Chakram"
+  },
+  {
+    "id": 325037,
+    "name_cn": "死亡飞轮",
+    "name_en": "Death Chakram"
+  },
+  {
+    "id": 343241,
+    "name_cn": "猎豹守护",
+    "name_en": "Aspect of the Cheetah"
+  },
+  {
+    "id": 344572,
+    "name_cn": "狂野怒火",
+    "name_en": "Bestial Wrath"
+  },
+  {
+    "id": 355589,
+    "name_cn": "哀恸箭",
+    "name_en": "Wailing Arrow"
+  },
+  {
+    "id": 355596,
+    "name_cn": "哀恸箭",
+    "name_en": "Wailing Arrow"
+  },
+  {
+    "id": 3714,
+    "name_cn": "冰霜之路",
+    "name_en": "Path of Frost"
+  },
+  {
+    "id": 43265,
+    "name_cn": "枯萎凋零",
+    "name_en": "Death and Decay"
+  },
+  {
+    "id": 45524,
+    "name_cn": "寒冰锁链",
+    "name_en": "Chains of Ice"
+  },
+  {
+    "id": 47541,
+    "name_cn": "凋零缠绕",
+    "name_en": "Death Coil"
+  },
+  {
+    "id": 48265,
+    "name_cn": "死亡脚步",
+    "name_en": "Death's Advance"
+  },
+  {
+    "id": 48707,
+    "name_cn": "反魔法护罩",
+    "name_en": "Anti-Magic Shell"
+  },
+  {
+    "id": 49039,
+    "name_cn": "巫妖之躯",
+    "name_en": "Lichborne"
+  },
+  {
+    "id": 49576,
+    "name_cn": "死亡之握",
+    "name_en": "Death Grip"
+  },
+  {
+    "id": 50977,
+    "name_cn": "黑锋之门",
+    "name_en": "Death Gate"
+  },
+  {
+    "id": 51986,
+    "name_cn": "死神降临",
+    "name_en": "On a Pale Horse"
+  },
+  {
+    "id": 56222,
+    "name_cn": "黑暗命令",
+    "name_en": "Dark Command"
+  },
+  {
+    "id": 61999,
+    "name_cn": "复活盟友",
+    "name_en": "Raise Ally"
+  },
+  {
+    "id": 82246,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 127344,
+    "name_cn": "邪爆",
+    "name_en": "Corpse Exploder"
+  },
+  {
+    "id": 137005,
+    "name_cn": "死亡骑士",
+    "name_en": "Death Knight"
+  },
+  {
+    "id": 190780,
+    "name_cn": "冰霜吐息",
+    "name_en": "Frost Breath"
+  },
+  {
+    "id": 197147,
+    "name_cn": "溃烂之伤",
+    "name_en": "Festering Wound"
+  },
+  {
+    "id": 278107,
+    "name_cn": "瓦格里",
+    "name_en": "Val'kyr"
+  },
+  {
+    "id": 316239,
+    "name_cn": "符文打击",
+    "name_en": "Rune Strike"
+  },
+  {
+    "id": 343257,
+    "name_cn": "死亡脚步",
+    "name_en": "Death's Advance"
+  },
+  {
+    "id": 339,
+    "name_cn": "纠缠根须",
+    "name_en": "Entangling Roots"
+  },
+  {
+    "id": 768,
+    "name_cn": "猎豹形态",
+    "name_en": "Cat Form"
+  },
+  {
+    "id": 783,
+    "name_cn": "旅行形态",
+    "name_en": "Travel Form"
+  },
+  {
+    "id": 1126,
+    "name_cn": "野性印记",
+    "name_en": "Mark of the Wild"
+  },
+  {
+    "id": 1850,
+    "name_cn": "急奔",
+    "name_en": "Dash"
+  },
+  {
+    "id": 5176,
+    "name_cn": "愤怒",
+    "name_en": "Wrath"
+  },
+  {
+    "id": 5215,
+    "name_cn": "潜行",
+    "name_en": "Prowl"
+  },
+  {
+    "id": 5221,
+    "name_cn": "撕碎",
+    "name_en": "Shred"
+  },
+  {
+    "id": 5487,
+    "name_cn": "熊形态",
+    "name_en": "Bear Form"
+  },
+  {
+    "id": 6795,
+    "name_cn": "低吼",
+    "name_en": "Growl"
+  },
+  {
+    "id": 8921,
+    "name_cn": "月火术",
+    "name_en": "Moonfire"
+  },
+  {
+    "id": 8936,
+    "name_cn": "愈合",
+    "name_en": "Regrowth"
+  },
+  {
+    "id": 18960,
+    "name_cn": "传送：月光林地",
+    "name_en": "Teleport: Moonglade"
+  },
+  {
+    "id": 20484,
+    "name_cn": "复生",
+    "name_en": "Rebirth"
+  },
+  {
+    "id": 22568,
+    "name_cn": "凶猛撕咬",
+    "name_en": "Ferocious Bite"
+  },
+  {
+    "id": 22812,
+    "name_cn": "树皮术",
+    "name_en": "Barkskin"
+  },
+  {
+    "id": 33917,
+    "name_cn": "裂伤",
+    "name_en": "Mangle"
+  },
+  {
+    "id": 50769,
+    "name_cn": "起死回生",
+    "name_en": "Revive"
+  },
+  {
+    "id": 77758,
+    "name_cn": "痛击",
+    "name_en": "Thrash"
+  },
+  {
+    "id": 125972,
+    "name_cn": "豹之优雅",
+    "name_en": "Feline Grace"
+  },
+  {
+    "id": 127757,
+    "name_cn": "魅惑林地生物",
+    "name_en": "Charm Woodland Creature"
+  },
+  {
+    "id": 137009,
+    "name_cn": "德鲁伊",
+    "name_en": "Druid"
+  },
+  {
+    "id": 164815,
+    "name_cn": "阳炎术",
+    "name_en": "Sunfire"
+  },
+  {
+    "id": 164862,
+    "name_cn": "振翅",
+    "name_en": "Flap"
+  },
+  {
+    "id": 165962,
+    "name_cn": "飞行形态",
+    "name_en": "Flight Form"
+  },
+  {
+    "id": 193753,
+    "name_cn": "梦境行者",
+    "name_en": "Dreamwalk"
+  },
+  {
+    "id": 210053,
+    "name_cn": "坐骑形态",
+    "name_en": "Mount Form"
+  },
+  {
+    "id": 231437,
+    "name_cn": "大德鲁伊的月翼形态",
+    "name_en": "Archdruid's Lunarwing Form"
+  },
+  {
+    "id": 236716,
+    "name_cn": "野性力量",
+    "name_en": "Strength of the Wild"
+  },
+  {
+    "id": 276012,
+    "name_cn": "水栖形态",
+    "name_en": "Aquatic Form"
+  },
+  {
+    "id": 276029,
+    "name_cn": "飞行形态",
+    "name_en": "Flight Form"
+  },
+  {
+    "id": 343238,
+    "name_cn": "纠缠根须",
+    "name_en": "Entangling Roots"
+  },
+  {
+    "id": 465,
+    "name_cn": "虔诚光环",
+    "name_en": "Devotion Aura"
+  },
+  {
+    "id": 642,
+    "name_cn": "圣盾术",
+    "name_en": "Divine Shield"
+  },
+  {
+    "id": 853,
+    "name_cn": "制裁之锤",
+    "name_en": "Hammer of Justice"
+  },
+  {
+    "id": 5502,
+    "name_cn": "感知亡灵",
+    "name_en": "Sense Undead"
+  },
+  {
+    "id": 7328,
+    "name_cn": "救赎",
+    "name_en": "Redemption"
+  },
+  {
+    "id": 13819,
+    "name_cn": "召唤战马",
+    "name_en": "Summon Warhorse"
+  },
+  {
+    "id": 19750,
+    "name_cn": "圣光闪现",
+    "name_en": "Flash of Light"
+  },
+  {
+    "id": 20271,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 23214,
+    "name_cn": "召唤军马",
+    "name_en": "Summon Charger"
+  },
+  {
+    "id": 24275,
+    "name_cn": "愤怒之锤",
+    "name_en": "Hammer of Wrath"
+  },
+  {
+    "id": 26573,
+    "name_cn": "奉献",
+    "name_en": "Consecration"
+  },
+  {
+    "id": 32223,
+    "name_cn": "十字军光环",
+    "name_en": "Crusader Aura"
+  },
+  {
+    "id": 34767,
+    "name_cn": "召唤萨拉斯军马",
+    "name_en": "Summon Thalassian Charger"
+  },
+  {
+    "id": 34769,
+    "name_cn": "召唤萨拉斯战马",
+    "name_en": "Summon Thalassian Warhorse"
+  },
+  {
+    "id": 35395,
+    "name_cn": "十字军打击",
+    "name_en": "Crusader Strike"
+  },
+  {
+    "id": 53600,
+    "name_cn": "正义盾击",
+    "name_en": "Shield of the Righteous"
+  },
+  {
+    "id": 62124,
+    "name_cn": "清算之手",
+    "name_en": "Hand of Reckoning"
+  },
+  {
+    "id": 69820,
+    "name_cn": "召唤烈日行者科多兽",
+    "name_en": "Summon Sunwalker Kodo"
+  },
+  {
+    "id": 69826,
+    "name_cn": "召唤巨型烈日行者科多兽",
+    "name_en": "Summon Great Sunwalker Kodo"
+  },
+  {
+    "id": 73629,
+    "name_cn": "召唤主教的雷象",
+    "name_en": "Summon Exarch's Elekk"
+  },
+  {
+    "id": 73630,
+    "name_cn": "召唤大主教的雷象",
+    "name_en": "Summon Great Exarch's Elekk"
+  },
+  {
+    "id": 82242,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 85673,
+    "name_cn": "荣耀圣令",
+    "name_en": "Word of Glory"
+  },
+  {
+    "id": 115675,
+    "name_cn": "无边定罪",
+    "name_en": "Boundless Conviction"
+  },
+  {
+    "id": 121183,
+    "name_cn": "静思",
+    "name_en": "Contemplation"
+  },
+  {
+    "id": 137026,
+    "name_cn": "圣骑士",
+    "name_en": "Paladin"
+  },
+  {
+    "id": 183435,
+    "name_cn": "惩戒光环",
+    "name_en": "Retribution Aura"
+  },
+  {
+    "id": 200327,
+    "name_cn": "牺牲祝福",
+    "name_en": "Blessing of Sacrifice"
+  },
+  {
+    "id": 200654,
+    "name_cn": "提尔的拯救",
+    "name_en": "Tyr's Deliverance"
+  },
+  {
+    "id": 270562,
+    "name_cn": "召唤暗炉山羊",
+    "name_en": "Summon Darkforge Ram"
+  },
+  {
+    "id": 270564,
+    "name_cn": "召唤晨炉山羊",
+    "name_en": "Summon Dawnforge Ram"
+  },
+  {
+    "id": 290608,
+    "name_cn": "十字军恐角龙",
+    "name_en": "Crusader's Direhorn"
+  },
+  {
+    "id": 317872,
+    "name_cn": "复仇之怒",
+    "name_en": "Avenging Wrath"
+  },
+  {
+    "id": 317906,
+    "name_cn": "惩戒光环",
+    "name_en": "Retribution Aura"
+  },
+  {
+    "id": 317911,
+    "name_cn": "神圣马驹",
+    "name_en": "Divine Steed"
+  },
+  {
+    "id": 326730,
+    "name_cn": "愤怒之锤",
+    "name_en": "Hammer of Wrath"
+  },
+  {
+    "id": 327977,
+    "name_cn": "审判",
+    "name_en": "Judgment"
+  },
+  {
+    "id": 363613,
+    "name_cn": "召唤光铸废墟奔踏者",
+    "name_en": "Summon Lightforged Ruinstrider"
+  },
+  {
+    "id": 391054,
+    "name_cn": "代祷",
+    "name_en": "Intercession"
+  },
+  {
+    "id": 453785,
+    "name_cn": "土灵宣令者的磐羊",
+    "name_en": "Earthen Ordinant's Ramolith"
+  },
+  {
+    "id": 17,
+    "name_cn": "真言术：盾",
+    "name_en": "Power Word: Shield"
+  },
+  {
+    "id": 453,
+    "name_cn": "安抚心灵",
+    "name_en": "Mind Soothe"
+  },
+  {
+    "id": 585,
+    "name_cn": "惩击",
+    "name_en": "Smite"
+  },
+  {
+    "id": 589,
+    "name_cn": "暗言术：痛",
+    "name_en": "Shadow Word: Pain"
+  },
+  {
+    "id": 1706,
+    "name_cn": "漂浮术",
+    "name_en": "Levitate"
+  },
+  {
+    "id": 2006,
+    "name_cn": "复活术",
+    "name_en": "Resurrection"
+  },
+  {
+    "id": 2061,
+    "name_cn": "快速治疗",
+    "name_en": "Flash Heal"
+  },
+  {
+    "id": 2096,
+    "name_cn": "心灵视界",
+    "name_en": "Mind Vision"
+  },
+  {
+    "id": 21562,
+    "name_cn": "真言术：韧",
+    "name_en": "Power Word: Fortitude"
+  },
+  {
+    "id": 45243,
+    "name_cn": "专注意志",
+    "name_en": "Focused Will"
+  },
+  {
+    "id": 78500,
+    "name_cn": "灵魂守护",
+    "name_en": "Soul Warding"
+  },
+  {
+    "id": 137030,
+    "name_cn": "牧师",
+    "name_en": "Priest"
+  },
+  {
+    "id": 228264,
+    "name_cn": "虚空形态",
+    "name_en": "Voidform"
+  },
+  {
+    "id": 228266,
+    "name_cn": "虚空箭",
+    "name_en": "Void Bolt"
+  },
+  {
+    "id": 8647,
+    "name_cn": "玄秘掌",
+    "name_en": "Mystic Touch"
+  },
+  {
+    "id": 100780,
+    "name_cn": "猛虎掌",
+    "name_en": "Tiger Palm"
+  },
+  {
+    "id": 100784,
+    "name_cn": "幻灭踢",
+    "name_en": "Blackout Kick"
+  },
+  {
+    "id": 101546,
+    "name_cn": "神鹤引项踢",
+    "name_en": "Spinning Crane Kick"
+  },
+  {
+    "id": 109132,
+    "name_cn": "滚地翻",
+    "name_en": "Roll"
+  },
+  {
+    "id": 115178,
+    "name_cn": "轮回转世",
+    "name_en": "Resuscitate"
+  },
+  {
+    "id": 115546,
+    "name_cn": "嚎镇八方",
+    "name_en": "Provoke"
+  },
+  {
+    "id": 116670,
+    "name_cn": "活血术",
+    "name_en": "Vivify"
+  },
+  {
+    "id": 116812,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 117952,
+    "name_cn": "碎玉闪电",
+    "name_en": "Crackling Jade Lightning"
+  },
+  {
+    "id": 119381,
+    "name_cn": "扫堂腿",
+    "name_en": "Leg Sweep"
+  },
+  {
+    "id": 125883,
+    "name_cn": "禅意飞行",
+    "name_en": "Zen Flight"
+  },
+  {
+    "id": 126892,
+    "name_cn": "禅宗朝圣",
+    "name_en": "Zen Pilgrimage"
+  },
+  {
+    "id": 137022,
+    "name_cn": "武僧",
+    "name_en": "Monk"
+  },
+  {
+    "id": 169340,
+    "name_cn": "绝命之触",
+    "name_en": "Touch of Fatality"
+  },
+  {
+    "id": 209525,
+    "name_cn": "抚慰之雾",
+    "name_en": "Soothing Mist"
+  },
+  {
+    "id": 322101,
+    "name_cn": "移花接木",
+    "name_en": "Expel Harm"
+  },
+  {
+    "id": 322109,
+    "name_cn": "轮回之触",
+    "name_en": "Touch of Death"
+  },
+  {
+    "id": 100,
+    "name_cn": "冲锋",
+    "name_en": "Charge"
+  },
+  {
+    "id": 355,
+    "name_cn": "嘲讽",
+    "name_en": "Taunt"
+  },
+  {
+    "id": 1464,
+    "name_cn": "猛击",
+    "name_en": "Slam"
+  },
+  {
+    "id": 1680,
+    "name_cn": "旋风斩",
+    "name_en": "Whirlwind"
+  },
+  {
+    "id": 1715,
+    "name_cn": "断筋",
+    "name_en": "Hamstring"
+  },
+  {
+    "id": 2565,
+    "name_cn": "盾牌格挡",
+    "name_en": "Shield Block"
+  },
+  {
+    "id": 3127,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 6552,
+    "name_cn": "拳击",
+    "name_en": "Pummel"
+  },
+  {
+    "id": 6673,
+    "name_cn": "战斗怒吼",
+    "name_en": "Battle Shout"
+  },
+  {
+    "id": 18499,
+    "name_cn": "狂暴之怒",
+    "name_en": "Berserker Rage"
+  },
+  {
+    "id": 23922,
+    "name_cn": "盾牌猛击",
+    "name_en": "Shield Slam"
+  },
+  {
+    "id": 34428,
+    "name_cn": "乘胜追击",
+    "name_en": "Victory Rush"
+  },
+  {
+    "id": 57755,
+    "name_cn": "英勇投掷",
+    "name_en": "Heroic Throw"
+  },
+  {
+    "id": 137047,
+    "name_cn": "战士",
+    "name_en": "Warrior"
+  },
+  {
+    "id": 163201,
+    "name_cn": "斩杀",
+    "name_en": "Execute"
+  },
+  {
+    "id": 294184,
+    "name_cn": "热键栏空槽01",
+    "name_en": "Hotbar Slot 01"
+  },
+  {
+    "id": 294189,
+    "name_cn": "热键栏空槽02",
+    "name_en": "Hotbar Slot 02"
+  },
+  {
+    "id": 296087,
+    "name_cn": "双武器",
+    "name_en": "Dual Wield"
+  },
+  {
+    "id": 316523,
+    "name_cn": "盾牌猛击",
+    "name_en": "Shield Slam"
+  },
+  {
+    "id": 319157,
+    "name_cn": "冲锋",
+    "name_en": "Charge"
+  },
+  {
+    "id": 319158,
+    "name_cn": "乘胜追击",
+    "name_en": "Victory Rush"
+  },
+  {
+    "id": 126,
+    "name_cn": "基尔罗格之眼",
+    "name_en": "Eye of Kilrogg"
+  },
+  {
+    "id": 172,
+    "name_cn": "腐蚀术",
+    "name_en": "Corruption"
+  },
+  {
+    "id": 686,
+    "name_cn": "暗影箭",
+    "name_en": "Shadow Bolt"
+  },
+  {
+    "id": 688,
+    "name_cn": "召唤小鬼",
+    "name_en": "Summon Imp"
+  },
+  {
+    "id": 691,
+    "name_cn": "召唤地狱猎犬",
+    "name_en": "Summon Felhunter"
+  },
+  {
+    "id": 697,
+    "name_cn": "召唤虚空行者",
+    "name_en": "Summon Voidwalker"
+  },
+  {
+    "id": 698,
+    "name_cn": "召唤仪式",
+    "name_en": "Ritual of Summoning"
+  },
+  {
+    "id": 702,
+    "name_cn": "虚弱诅咒",
+    "name_en": "Curse of Weakness"
+  },
+  {
+    "id": 1098,
+    "name_cn": "征服恶魔",
+    "name_en": "Subjugate Demon"
+  },
+  {
+    "id": 5697,
+    "name_cn": "无尽呼吸",
+    "name_en": "Unending Breath"
+  },
+  {
+    "id": 5782,
+    "name_cn": "恐惧",
+    "name_en": "Fear"
+  },
+  {
+    "id": 5784,
+    "name_cn": "地狱战马",
+    "name_en": "Felsteed"
+  },
+  {
+    "id": 6201,
+    "name_cn": "制造治疗石",
+    "name_en": "Create Healthstone"
+  },
+  {
+    "id": 20707,
+    "name_cn": "灵魂石",
+    "name_en": "Soulstone"
+  },
+  {
+    "id": 23161,
+    "name_cn": "恐惧战马",
+    "name_en": "Dreadsteed"
+  },
+  {
+    "id": 29893,
+    "name_cn": "制造灵魂之井",
+    "name_en": "Create Soulwell"
+  },
+  {
+    "id": 104773,
+    "name_cn": "不灭决心",
+    "name_en": "Unending Resolve"
+  },
+  {
+    "id": 119898,
+    "name_cn": "恶魔掌控",
+    "name_en": "Command Demon"
+  },
+  {
+    "id": 137042,
+    "name_cn": "术士",
+    "name_en": "Warlock"
+  },
+  {
+    "id": 234153,
+    "name_cn": "吸取生命",
+    "name_en": "Drain Life"
+  },
+  {
+    "id": 246985,
+    "name_cn": "灵魂碎片",
+    "name_en": "Soul Shards"
+  },
+  {
+    "id": 342601,
+    "name_cn": "末日仪式",
+    "name_en": "Ritual of Doom"
+  },
+  {
+    "id": 342914,
+    "name_cn": "恐惧",
+    "name_en": "Fear"
+  },
+  {
+    "id": 366222,
+    "name_cn": "召唤萨亚德",
+    "name_en": "Summon Sayaad"
+  },
+  {
+    "id": 66,
+    "name_cn": "隐形术",
+    "name_en": "Invisibility"
+  },
+  {
+    "id": 116,
+    "name_cn": "寒冰箭",
+    "name_en": "Frostbolt"
+  },
+  {
+    "id": 118,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 120,
+    "name_cn": "冰锥术",
+    "name_en": "Cone of Cold"
+  },
+  {
+    "id": 122,
+    "name_cn": "冰霜新星",
+    "name_en": "Frost Nova"
+  },
+  {
+    "id": 130,
+    "name_cn": "缓落术",
+    "name_en": "Slow Fall"
+  },
+  {
+    "id": 1449,
+    "name_cn": "魔爆术",
+    "name_en": "Arcane Explosion"
+  },
+  {
+    "id": 1459,
+    "name_cn": "奥术智慧",
+    "name_en": "Arcane Intellect"
+  },
+  {
+    "id": 1953,
+    "name_cn": "闪现术",
+    "name_en": "Blink"
+  },
+  {
+    "id": 2139,
+    "name_cn": "法术反制",
+    "name_en": "Counterspell"
+  },
+  {
+    "id": 3561,
+    "name_cn": "传送：暴风城",
+    "name_en": "Teleport: Stormwind"
+  },
+  {
+    "id": 3562,
+    "name_cn": "传送：铁炉堡",
+    "name_en": "Teleport: Ironforge"
+  },
+  {
+    "id": 3563,
+    "name_cn": "传送：幽暗城",
+    "name_en": "Teleport: Undercity"
+  },
+  {
+    "id": 3565,
+    "name_cn": "传送：达纳苏斯",
+    "name_en": "Teleport: Darnassus"
+  },
+  {
+    "id": 3566,
+    "name_cn": "传送：雷霆崖",
+    "name_en": "Teleport: Thunder Bluff"
+  },
+  {
+    "id": 3567,
+    "name_cn": "传送：奥格瑞玛",
+    "name_en": "Teleport: Orgrimmar"
+  },
+  {
+    "id": 10059,
+    "name_cn": "传送门：暴风城",
+    "name_en": "Portal: Stormwind"
+  },
+  {
+    "id": 11416,
+    "name_cn": "传送门：铁炉堡",
+    "name_en": "Portal: Ironforge"
+  },
+  {
+    "id": 11417,
+    "name_cn": "传送门：奥格瑞玛",
+    "name_en": "Portal: Orgrimmar"
+  },
+  {
+    "id": 11418,
+    "name_cn": "传送门：幽暗城",
+    "name_en": "Portal: Undercity"
+  },
+  {
+    "id": 11419,
+    "name_cn": "传送门：达纳苏斯",
+    "name_en": "Portal: Darnassus"
+  },
+  {
+    "id": 11420,
+    "name_cn": "传送门：雷霆崖",
+    "name_en": "Portal: Thunder Bluff"
+  },
+  {
+    "id": 28271,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 28272,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 32266,
+    "name_cn": "传送门：埃索达",
+    "name_en": "Portal: Exodar"
+  },
+  {
+    "id": 32267,
+    "name_cn": "传送门：银月城（燃烧的远征）",
+    "name_en": "Portal: Silvermoon (Burning Crusade)"
+  },
+  {
+    "id": 32271,
+    "name_cn": "传送：埃索达",
+    "name_en": "Teleport: Exodar"
+  },
+  {
+    "id": 32272,
+    "name_cn": "传送：银月城（燃烧的远征）",
+    "name_en": "Teleport: Silvermoon (Burning Crusade)"
+  },
+  {
+    "id": 33690,
+    "name_cn": "传送：沙塔斯",
+    "name_en": "Teleport: Shattrath"
+  },
+  {
+    "id": 33691,
+    "name_cn": "传送门：沙塔斯",
+    "name_en": "Portal: Shattrath"
+  },
+  {
+    "id": 35715,
+    "name_cn": "传送：沙塔斯",
+    "name_en": "Teleport: Shattrath"
+  },
+  {
+    "id": 35717,
+    "name_cn": "传送门：沙塔斯",
+    "name_en": "Portal: Shattrath"
+  },
+  {
+    "id": 49358,
+    "name_cn": "传送：斯通纳德",
+    "name_en": "Teleport: Stonard"
+  },
+  {
+    "id": 49359,
+    "name_cn": "传送：塞拉摩",
+    "name_en": "Teleport: Theramore"
+  },
+  {
+    "id": 49360,
+    "name_cn": "传送门：塞拉摩",
+    "name_en": "Portal: Theramore"
+  },
+  {
+    "id": 49361,
+    "name_cn": "传送门：斯通纳德",
+    "name_en": "Portal: Stonard"
+  },
+  {
+    "id": 53140,
+    "name_cn": "传送：达拉然 - 诺森德",
+    "name_en": "Teleport: Dalaran - Northrend"
+  },
+  {
+    "id": 53142,
+    "name_cn": "传送门：达拉然 - 诺森德",
+    "name_en": "Portal: Dalaran - Northrend"
+  },
+  {
+    "id": 61305,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 61721,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 61780,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 80353,
+    "name_cn": "时间扭曲",
+    "name_en": "Time Warp"
+  },
+  {
+    "id": 88342,
+    "name_cn": "传送：托尔巴拉德",
+    "name_en": "Teleport: Tol Barad"
+  },
+  {
+    "id": 88344,
+    "name_cn": "传送：托尔巴拉德",
+    "name_en": "Teleport: Tol Barad"
+  },
+  {
+    "id": 88345,
+    "name_cn": "传送门：托尔巴拉德",
+    "name_en": "Portal: Tol Barad"
+  },
+  {
+    "id": 88346,
+    "name_cn": "传送门：托尔巴拉德",
+    "name_en": "Portal: Tol Barad"
+  },
+  {
+    "id": 120145,
+    "name_cn": "远古传送：达拉然",
+    "name_en": "Ancient Teleport: Dalaran"
+  },
+  {
+    "id": 120146,
+    "name_cn": "远古传送门：达拉然",
+    "name_en": "Ancient Portal: Dalaran"
+  },
+  {
+    "id": 126819,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 131784,
+    "name_cn": "幻觉",
+    "name_en": "Illusion"
+  },
+  {
+    "id": 132620,
+    "name_cn": "传送门：锦绣谷",
+    "name_en": "Portal: Vale of Eternal Blossoms"
+  },
+  {
+    "id": 132621,
+    "name_cn": "传送：锦绣谷",
+    "name_en": "Teleport: Vale of Eternal Blossoms"
+  },
+  {
+    "id": 132626,
+    "name_cn": "传送门：锦绣谷",
+    "name_en": "Portal: Vale of Eternal Blossoms"
+  },
+  {
+    "id": 132627,
+    "name_cn": "传送：锦绣谷",
+    "name_en": "Teleport: Vale of Eternal Blossoms"
+  },
+  {
+    "id": 137018,
+    "name_cn": "法师",
+    "name_en": "Mage"
+  },
+  {
+    "id": 161353,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 161354,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 161355,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 161372,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 176242,
+    "name_cn": "传送：战争之矛",
+    "name_en": "Teleport: Warspear"
+  },
+  {
+    "id": 176244,
+    "name_cn": "传送门：战争之矛",
+    "name_en": "Portal: Warspear"
+  },
+  {
+    "id": 176246,
+    "name_cn": "传送门：暴风之盾",
+    "name_en": "Portal: Stormshield"
+  },
+  {
+    "id": 176248,
+    "name_cn": "传送：暴风之盾",
+    "name_en": "Teleport: Stormshield"
+  },
+  {
+    "id": 190336,
+    "name_cn": "造餐术",
+    "name_en": "Conjure Refreshment"
+  },
+  {
+    "id": 193759,
+    "name_cn": "传送：守护者圣殿",
+    "name_en": "Teleport: Hall of the Guardian"
+  },
+  {
+    "id": 210086,
+    "name_cn": "奥术语言",
+    "name_en": "Arcane Linguist"
+  },
+  {
+    "id": 224869,
+    "name_cn": "传送：达拉然 - 破碎群岛",
+    "name_en": "Teleport: Dalaran - Broken Isles"
+  },
+  {
+    "id": 277787,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 277792,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 281400,
+    "name_cn": "传送门：伯拉勒斯",
+    "name_en": "Portal: Boralus"
+  },
+  {
+    "id": 281402,
+    "name_cn": "传送门：达萨罗",
+    "name_en": "Portal: Dazar'alor"
+  },
+  {
+    "id": 281403,
+    "name_cn": "传送：伯拉勒斯",
+    "name_en": "Teleport: Boralus"
+  },
+  {
+    "id": 281404,
+    "name_cn": "传送：达萨罗",
+    "name_en": "Teleport: Dazar'alor"
+  },
+  {
+    "id": 319836,
+    "name_cn": "火焰冲击",
+    "name_en": "Fire Blast"
+  },
+  {
+    "id": 321395,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 343127,
+    "name_cn": "传送",
+    "name_en": "Teleport"
+  },
+  {
+    "id": 343140,
+    "name_cn": "传送门",
+    "name_en": "Portal"
+  },
+  {
+    "id": 344587,
+    "name_cn": "传送：奥利波斯",
+    "name_en": "Teleport: Oribos"
+  },
+  {
+    "id": 344597,
+    "name_cn": "传送门：奥利波斯",
+    "name_en": "Portal: Oribos"
+  },
+  {
+    "id": 391622,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 395277,
+    "name_cn": "传送：瓦德拉肯",
+    "name_en": "Teleport: Valdrakken"
+  },
+  {
+    "id": 395289,
+    "name_cn": "传送门：瓦德拉肯",
+    "name_en": "Portal: Valdrakken"
+  },
+  {
+    "id": 446534,
+    "name_cn": "传送门：多恩诺嘉尔",
+    "name_en": "Portal: Dornogal"
+  },
+  {
+    "id": 446540,
+    "name_cn": "传送：多恩诺嘉尔",
+    "name_en": "Teleport: Dornogal"
+  },
+  {
+    "id": 460392,
+    "name_cn": "变形术",
+    "name_en": "Polymorph"
+  },
+  {
+    "id": 1259190,
+    "name_cn": "传送：银月城",
+    "name_en": "Teleport: Silvermoon City"
+  },
+  {
+    "id": 1259194,
+    "name_cn": "传送门：银月城",
+    "name_en": "Portal: Silvermoon City"
+  },
+  {
+    "id": 408,
+    "name_cn": "肾击",
+    "name_en": "Kidney Shot"
+  },
+  {
+    "id": 921,
+    "name_cn": "搜索",
+    "name_en": "Pick Pocket"
+  },
+  {
+    "id": 1725,
+    "name_cn": "扰乱",
+    "name_en": "Distract"
+  },
+  {
+    "id": 1752,
+    "name_cn": "影袭",
+    "name_en": "Sinister Strike"
+  },
+  {
+    "id": 1766,
+    "name_cn": "脚踢",
+    "name_en": "Kick"
+  },
+  {
+    "id": 1784,
+    "name_cn": "潜行",
+    "name_en": "Stealth"
+  },
+  {
+    "id": 1804,
+    "name_cn": "开锁",
+    "name_en": "Pick Lock"
+  },
+  {
+    "id": 1833,
+    "name_cn": "偷袭",
+    "name_en": "Cheap Shot"
+  },
+  {
+    "id": 1856,
+    "name_cn": "消失",
+    "name_en": "Vanish"
+  },
+  {
+    "id": 1860,
+    "name_cn": "安全降落",
+    "name_en": "Safe Fall"
+  },
+  {
+    "id": 1966,
+    "name_cn": "佯攻",
+    "name_en": "Feint"
+  },
+  {
+    "id": 2836,
+    "name_cn": "侦测陷阱",
+    "name_en": "Detect Traps"
+  },
+  {
+    "id": 2983,
+    "name_cn": "疾跑",
+    "name_en": "Sprint"
+  },
+  {
+    "id": 3408,
+    "name_cn": "减速药膏",
+    "name_en": "Crippling Poison"
+  },
+  {
+    "id": 6770,
+    "name_cn": "闷棍",
+    "name_en": "Sap"
+  },
+  {
+    "id": 8676,
+    "name_cn": "伏击",
+    "name_en": "Ambush"
+  },
+  {
+    "id": 8679,
+    "name_cn": "致伤药膏",
+    "name_en": "Wound Poison"
+  },
+  {
+    "id": 31209,
+    "name_cn": "健步如飞",
+    "name_en": "Fleet Footed"
+  },
+  {
+    "id": 32743,
+    "name_cn": "Vanish Cooldown Reduction",
+    "name_en": "Vanish Cooldown Reduction"
+  },
+  {
+    "id": 56814,
+    "name_cn": "侦测",
+    "name_en": "Detection"
+  },
+  {
+    "id": 82245,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 114018,
+    "name_cn": "潜伏帷幕",
+    "name_en": "Shroud of Concealment"
+  },
+  {
+    "id": 137034,
+    "name_cn": "潜行者",
+    "name_en": "Rogue"
+  },
+  {
+    "id": 157442,
+    "name_cn": "致命攻击",
+    "name_en": "Critical Strikes"
+  },
+  {
+    "id": 185311,
+    "name_cn": "猩红之瓶",
+    "name_en": "Crimson Vial"
+  },
+  {
+    "id": 196819,
+    "name_cn": "刺骨",
+    "name_en": "Eviscerate"
+  },
+  {
+    "id": 210108,
+    "name_cn": "侦测",
+    "name_en": "Detection"
+  },
+  {
+    "id": 315496,
+    "name_cn": "切割",
+    "name_en": "Slice and Dice"
+  },
+  {
+    "id": 315584,
+    "name_cn": "速效药膏",
+    "name_en": "Instant Poison"
+  },
+  {
+    "id": 330469,
+    "name_cn": "肾击",
+    "name_en": "Kidney Shot"
+  },
+  {
+    "id": 344362,
+    "name_cn": "切割",
+    "name_en": "Slice and Dice"
+  },
+  {
+    "id": 546,
+    "name_cn": "水上行走",
+    "name_en": "Water Walking"
+  },
+  {
+    "id": 556,
+    "name_cn": "星界传送",
+    "name_en": "Astral Recall"
+  },
+  {
+    "id": 2008,
+    "name_cn": "先祖之魂",
+    "name_en": "Ancestral Spirit"
+  },
+  {
+    "id": 2484,
+    "name_cn": "地缚图腾",
+    "name_en": "Earthbind Totem"
+  },
+  {
+    "id": 2645,
+    "name_cn": "幽魂之狼",
+    "name_en": "Ghost Wolf"
+  },
+  {
+    "id": 2825,
+    "name_cn": "嗜血",
+    "name_en": "Bloodlust"
+  },
+  {
+    "id": 6196,
+    "name_cn": "视界术",
+    "name_en": "Far Sight"
+  },
+  {
+    "id": 8004,
+    "name_cn": "治疗之涌",
+    "name_en": "Healing Surge"
+  },
+  {
+    "id": 20608,
+    "name_cn": "复生",
+    "name_en": "Reincarnation"
+  },
+  {
+    "id": 32182,
+    "name_cn": "英勇",
+    "name_en": "Heroism"
+  },
+  {
+    "id": 73899,
+    "name_cn": "根源打击",
+    "name_en": "Primal Strike"
+  },
+  {
+    "id": 137038,
+    "name_cn": "萨满祭司",
+    "name_en": "Shaman"
+  },
+  {
+    "id": 188196,
+    "name_cn": "闪电箭",
+    "name_en": "Lightning Bolt"
+  },
+  {
+    "id": 192106,
+    "name_cn": "闪电之盾",
+    "name_en": "Lightning Shield"
+  },
+  {
+    "id": 210873,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 211004,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 211010,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 211015,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 269352,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 277778,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 277784,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 309328,
+    "name_cn": "妖术",
+    "name_en": "Hex"
+  },
+  {
+    "id": 318044,
+    "name_cn": "闪电箭",
+    "name_en": "Lightning Bolt"
+  },
+  {
+    "id": 327163,
+    "name_cn": "始源之潮",
+    "name_en": "Primordial Wave"
+  },
+  {
+    "id": 328928,
+    "name_cn": "法夜输灵",
+    "name_en": "Fae Transfusion"
+  },
+  {
+    "id": 328930,
+    "name_cn": "法夜输灵",
+    "name_en": "Fae Transfusion"
+  },
+  {
+    "id": 462854,
+    "name_cn": "天怒",
+    "name_en": "Skyfury"
+  },
+  {
+    "id": 470411,
+    "name_cn": "烈焰震击",
+    "name_en": "Flame Shock"
+  },
+  {
+    "id": 53428,
+    "name_cn": "符文熔铸",
+    "name_en": "Runeforging"
+  },
+  {
+    "id": 131347,
+    "name_cn": "滑翔",
+    "name_en": "Glide"
+  },
+  {
+    "id": 183752,
+    "name_cn": "瓦解",
+    "name_en": "Disrupt"
+  },
+  {
+    "id": 185123,
+    "name_cn": "投掷利刃",
+    "name_en": "Throw Glaive"
+  },
+  {
+    "id": 185245,
+    "name_cn": "折磨",
+    "name_en": "Torment"
+  },
+  {
+    "id": 188501,
+    "name_cn": "幽灵视觉",
+    "name_en": "Spectral Sight"
+  },
+  {
+    "id": 191427,
+    "name_cn": "恶魔变形",
+    "name_en": "Metamorphosis"
+  },
+  {
+    "id": 196055,
+    "name_cn": "二段跳",
+    "name_en": "Double Jump"
+  },
+  {
+    "id": 203724,
+    "name_cn": "招架",
+    "name_en": "Parry"
+  },
+  {
+    "id": 214743,
+    "name_cn": "灵魂切削",
+    "name_en": "Soul Carver"
+  },
+  {
+    "id": 255260,
+    "name_cn": "混乱烙印",
+    "name_en": "Chaos Brand"
+  },
+  {
+    "id": 258920,
+    "name_cn": "献祭光环",
+    "name_en": "Immolation Aura"
+  },
+  {
+    "id": 320364,
+    "name_cn": "献祭光环",
+    "name_en": "Immolation Aura"
+  },
+  {
+    "id": 320379,
+    "name_cn": "幽灵视觉",
+    "name_en": "Spectral Sight"
+  },
+  {
+    "id": 344859,
+    "name_cn": "恶魔之咬",
+    "name_en": "Demon's Bite"
+  },
+  {
+    "id": 344862,
+    "name_cn": "混乱打击",
+    "name_en": "Chaos Strike"
+  },
+  {
+    "id": 344865,
+    "name_cn": "邪能冲撞",
+    "name_en": "Fel Rush"
+  },
+  {
+    "id": 350570,
+    "name_cn": "燃焰饲魂",
+    "name_en": "Fodder to the Flame"
+  },
+  {
+    "id": 353167,
+    "name_cn": "唤魔师",
+    "name_en": "Evoker"
+  },
+  {
+    "id": 355913,
+    "name_cn": "翡翠之花",
+    "name_en": "Emerald Blossom"
+  },
+  {
+    "id": 356995,
+    "name_cn": "裂解",
+    "name_en": "Disintegrate"
+  },
+  {
+    "id": 357208,
+    "name_cn": "火焰吐息",
+    "name_en": "Fire Breath"
+  },
+  {
+    "id": 357210,
+    "name_cn": "深呼吸",
+    "name_en": "Deep Breath"
+  },
+  {
+    "id": 358267,
+    "name_cn": "悬空",
+    "name_en": "Hover"
+  },
+  {
+    "id": 361227,
+    "name_cn": "生还",
+    "name_en": "Return"
+  },
+  {
+    "id": 361469,
+    "name_cn": "活化烈焰",
+    "name_en": "Living Flame"
+  },
+  {
+    "id": 362969,
+    "name_cn": "碧蓝打击",
+    "name_en": "Azure Strike"
+  },
+  {
+    "id": 363906,
+    "name_cn": "Disintegrate",
+    "name_en": "Disintegrate"
+  },
+  {
+    "id": 364342,
+    "name_cn": "青铜龙的祝福",
+    "name_en": "Blessing of the Bronze"
+  },
+  {
+    "id": 368970,
+    "name_cn": "扫尾",
+    "name_en": "Tail Swipe"
+  },
+  {
+    "id": 381773,
+    "name_cn": "蚀骨之寒",
+    "name_en": "Permeating Chill"
+  },
+  {
+    "id": 390386,
+    "name_cn": "守护巨龙之怒",
+    "name_en": "Fury of the Aspects"
+  },
+  {
+    "id": 396571,
+    "name_cn": "淬火鳞片",
+    "name_en": "Tempered Scales"
+  },
+  {
+    "id": 400006,
+    "name_cn": "赋能烈焰",
+    "name_en": "Energizing Flame"
+  },
+  {
+    "id": 197490,
+    "name_cn": "野性亲和",
+    "name_en": "Feral Affinity"
+  },
+  {
+    "id": 197490,
+    "name_cn": "野性亲和",
+    "name_en": "Feral Affinity"
+  },
+  {
+    "id": 197490,
+    "name_cn": "野性亲和",
+    "name_en": "Feral Affinity"
+  },
+  {
+    "id": 206478,
+    "name_cn": "恶魔食欲",
+    "name_en": "Demonic Appetite"
+  },
+  {
+    "id": 196884,
+    "name_cn": "狂野扑击",
+    "name_en": "Feral Lunge"
+  },
+  {
+    "id": 197419,
+    "name_cn": "苦修",
+    "name_en": "Penance"
+  },
+  {
+    "id": 194913,
+    "name_cn": "冰川突进",
+    "name_en": "Glacial Advance"
+  },
+  {
+    "id": 203555,
+    "name_cn": "恶魔之刃",
+    "name_en": "Demon Blades"
+  },
+  {
+    "id": 263642,
+    "name_cn": "破裂",
+    "name_en": "Fracture"
+  },
+  {
+    "id": 280719,
+    "name_cn": "影分身",
+    "name_en": "Secret Technique"
+  },
+  {
+    "id": 190740,
+    "name_cn": "精通：法力专家",
+    "name_en": "Mastery: Savant"
+  },
+  {
+    "id": 12846,
+    "name_cn": "精通：点燃",
+    "name_en": "Mastery: Ignite"
+  },
+  {
+    "id": 1246752,
+    "name_cn": "精通：冻结与碎裂",
+    "name_en": "Mastery: Freeze and Shatter"
+  },
+  {
+    "id": 183997,
+    "name_cn": "精通：光明使者",
+    "name_en": "Mastery: Lightbringer"
+  },
+  {
+    "id": 76671,
+    "name_cn": "精通：神圣壁垒",
+    "name_en": "Mastery: Divine Bulwark"
+  },
+  {
+    "id": 267316,
+    "name_cn": "精通：大领主的审判",
+    "name_en": "Mastery: Highlord's Judgment"
+  },
+  {
+    "id": 1258398,
+    "name_cn": "精通：武器大师",
+    "name_en": "Mastery: Master of Arms"
+  },
+  {
+    "id": 76856,
+    "name_cn": "精通：不羁之怒",
+    "name_en": "Mastery: Unshackled Fury"
+  },
+  {
+    "id": 76857,
+    "name_cn": "精通：精确格挡",
+    "name_en": "Mastery: Critical Block"
+  },
+  {
+    "id": 393014,
+    "name_cn": "精通：星界召唤",
+    "name_en": "Mastery: Astral Invocation"
+  },
+  {
+    "id": 77493,
+    "name_cn": "精通：剃刀之爪",
+    "name_en": "Mastery: Razor Claws"
+  },
+  {
+    "id": 155783,
+    "name_cn": "精通：自然守护者",
+    "name_en": "Mastery: Nature's Guardian"
+  },
+  {
+    "id": 77495,
+    "name_cn": "精通：相生",
+    "name_en": "Mastery: Harmony"
+  },
+  {
+    "id": 77513,
+    "name_cn": "精通：鲜血护盾",
+    "name_en": "Mastery: Blood Shield"
+  },
+  {
+    "id": 77514,
+    "name_cn": "精通：冰冷之心",
+    "name_en": "Mastery: Frozen Heart"
+  },
+  {
+    "id": 77515,
+    "name_cn": "精通：恐惧之刃",
+    "name_en": "Mastery: Dreadblade"
+  },
+  {
+    "id": 76657,
+    "name_cn": "精通：野兽控制大师",
+    "name_en": "Mastery: Master of Beasts"
+  },
+  {
+    "id": 193468,
+    "name_cn": "精通：狙击训练",
+    "name_en": "Mastery: Sniper Training"
+  },
+  {
+    "id": 263135,
+    "name_cn": "精通：灵魂联结",
+    "name_en": "Mastery: Spirit Bond"
+  },
+  {
+    "id": 271534,
+    "name_cn": "精通：优雅",
+    "name_en": "Mastery: Grace"
+  },
+  {
+    "id": 77485,
+    "name_cn": "精通：圣光回响",
+    "name_en": "Mastery: Echo of Light"
+  },
+  {
+    "id": 343690,
+    "name_cn": "精通：暗影交织",
+    "name_en": "Mastery: Shadow Weaving"
+  },
+  {
+    "id": 76803,
+    "name_cn": "精通：强效奇袭",
+    "name_en": "Mastery: Potent Assassin"
+  },
+  {
+    "id": 76806,
+    "name_cn": "精通：左右开弓",
+    "name_en": "Mastery: Main Gauche"
+  },
+  {
+    "id": 76808,
+    "name_cn": "精通：刽子手",
+    "name_en": "Mastery: Executioner"
+  },
+  {
+    "id": 168534,
+    "name_cn": "精通：元素过载",
+    "name_en": "Mastery: Elemental Overload"
+  },
+  {
+    "id": 77223,
+    "name_cn": "精通：增强元素",
+    "name_en": "Mastery: Enhanced Elements"
+  },
+  {
+    "id": 77226,
+    "name_cn": "精通：深度治疗",
+    "name_en": "Mastery: Deep Healing"
+  },
+  {
+    "id": 77215,
+    "name_cn": "精通：剧痛",
+    "name_en": "Mastery: Potent Afflictions"
+  },
+  {
+    "id": 77219,
+    "name_cn": "精通：恶魔学识大师",
+    "name_en": "Mastery: Master Demonologist"
+  },
+  {
+    "id": 77220,
+    "name_cn": "精通：混乱能量",
+    "name_en": "Mastery: Chaotic Energies"
+  },
+  {
+    "id": 117906,
+    "name_cn": "精通：醉拳大师",
+    "name_en": "Mastery: Elusive Brawler"
+  },
+  {
+    "id": 115636,
+    "name_cn": "精通：组合拳",
+    "name_en": "Mastery: Combo Strikes"
+  },
+  {
+    "id": 117907,
+    "name_cn": "精通：迷雾之风",
+    "name_en": "Mastery: Gust of Mists"
+  },
+  {
+    "id": 185164,
+    "name_cn": "精通：恶魔形态",
+    "name_en": "Mastery: Demonic Presence"
+  },
+  {
+    "id": 203747,
+    "name_cn": "精通：邪能之血",
+    "name_en": "Mastery: Fel Blood"
+  },
+  {
+    "id": 362980,
+    "name_cn": "精通：巨人杀手",
+    "name_en": "Mastery: Giantkiller"
+  },
+  {
+    "id": 363510,
+    "name_cn": "精通：生命的缚誓者",
+    "name_en": "Mastery: Life-Binder"
+  },
+  {
+    "id": 406380,
+    "name_cn": "精通：时光旅行者",
+    "name_en": "Mastery: Timewalker"
+  },
+  {
+    "id": 1238855,
+    "name_cn": "精通：内在恶魔",
+    "name_en": "Mastery: Monster Within"
+  }
+]
